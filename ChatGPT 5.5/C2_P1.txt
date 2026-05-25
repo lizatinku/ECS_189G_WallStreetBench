@@ -1,0 +1,236 @@
+Q. Mortgage interest rates have increased by over 3 percentage points from early-2021 lows, peaking near 8% in late 2023 and sitting around 6.37% as of May 2026. How could this affect housing demand, monthly mortgage payments, and home affordability? Discuss any uncertainty or additional factors that may influence the outcome.
+
+Higher mortgage rates usually cool housing demand because the same home becomes much more expensive to finance. Freddie Mac shows the 30-year fixed rate was 6.37% on May 7, 2026, after peaking around the high-7% range in late 2023.
+
+For a $400,000, 30-year mortgage, principal-and-interest payments are roughly:
+
+|  Rate | Monthly payment |
+| ----: | --------------: |
+| 3.00% |          $1,686 |
+| 6.37% |          $2,494 |
+| 8.00% |          $2,935 |
+
+q/
+Higher mortgage rates usually cool housing demand because the same home becomes much more expensive to finance. Freddie Mac shows the 30-year fixed rate was 6.37% on May 7, 2026, after peaking around the high-7% range in late 2023.
+
+For a $400,000, 30-year mortgage, principal-and-interest payments are roughly:
+
+Rate	Monthly payment
+3.00%	$1,686
+6.37%	$2,494
+8.00%	$2,935
+
+So moving from about 3% to 6.37% raises the payment by about $808/month, or 48%, before taxes, insurance, HOA fees, and maintenance.
+
+That can hurt affordability in three ways: buyers qualify for smaller loans, some delay purchases, and sellers with low-rate mortgages may avoid moving, reducing supply. The result can be fewer transactions rather than sharply lower prices, especially if inventory is tight.
+
+But the interpretation is uncertain. Home prices, wage growth, local job markets, credit standards, housing supply, rent levels, buyer expectations, and regional migration all matter. If incomes rise or prices fall, affordability may improve despite high rates. If inventory stays scarce, prices may remain firm even as demand weakens.
+
+Walk through a concrete example: a household earning $90,000/year considering a $450,000 home. What changes between a 3% and a 6.37% mortgage?
+
+Let’s make the comparison concrete for a household earning $90,000/year (about $7,500/month gross income) looking at a $450,000 home.
+
+Assume:
+
+20% down payment
+30-year fixed mortgage
+Loan amount = $360,000
+Ignore taxes/insurance at first so we isolate the interest-rate effect
+Monthly principal-and-interest payment
+
+At 3%:
+
+Payment ≈ $1,518/month
+
+At 6.37%:
+
+Payment ≈ $2,245/month
+
+That’s an increase of roughly $727/month, or about 48% higher.
+
+Using the standard mortgage payment formula:
+M=P(1+r)^n/((1+r)^n - 1)
+	​
+where:
+
+P = loan principal
+r = monthly interest rate
+n = number of monthly payments
+
+Now compare those payments to income.
+| Scenario       | Monthly Mortgage | Share of Gross Monthly Income |
+| -------------- | ---------------: | ----------------------------: |
+| 3% mortgage    |          ~$1,518 |                          ~20% |
+| 6.37% mortgage |          ~$2,245 |                          ~30% |
+
+
+Once you add:
+
+property taxes,
+homeowners insurance,
+maintenance,
+possible HOA fees,
+
+the higher-rate case could easily push total housing costs above common underwriting comfort levels.
+
+A lender might still approve the loan depending on:
+
+existing debts,
+credit score,
+down payment size,
+local taxes,
+loan program,
+
+but the household’s financial flexibility changes a lot.
+
+For example, the extra ~$727/month is:
+
+nearly $8,700/year after-tax purchasing power,
+potentially the difference between saving for retirement vs. not,
+or enough to change decisions about childcare, travel, or emergency savings.
+
+Another important effect: buyers often respond by lowering their target price instead of accepting the higher payment.
+
+If this household wanted to keep the same ~$1,518 payment they had at 3%, then at 6.37% they could only borrow about $244,000 instead of $360,000 — implying a much cheaper home unless they increase the down payment substantially.
+
+That’s why rising rates often reduce affordability even if home prices themselves do not rise further.
+
+There’s still uncertainty, though:
+
+If wages rise meaningfully, affordability pressure eases.
+If rates fall later, buyers may refinance.
+In supply-constrained markets, prices may stay elevated despite weaker demand.
+Some households prioritize homeownership enough to stretch budgets temporarily.
+
+So higher mortgage rates do not automatically cause home prices to collapse — but they do materially change the math facing typical buyers.
+
+Q. Walk through a concrete example: a household earning $90,000/year considering a $450,000 home. What changes between a 3% and a 6.37% mortgage?
+Suppose a household earns $90,000 per year, or about:
+
+$7,500/month gross income before taxes.
+
+They want to buy a $450,000 home with:
+
+20% down payment
+30-year fixed mortgage
+
+That means they borrow:
+
+450,000×(1−0.20)=360,000
+
+So the mortgage principal is $360,000.
+
+The monthly payment is determined by:
+M=P
+(1+r)
+n
+−1
+r(1+r)
+n
+	​
+
+
+where:
+
+P = loan amount
+r = monthly interest rate
+n = total monthly payments
+Case 1: 3% mortgage
+
+A 30-year mortgage at 3% gives:
+
+Monthly principal + interest payment ≈ $1,518
+
+Relative to income:
+
+7500
+1518
+	​
+
+≈20
+
+So about 20% of gross monthly income goes to the mortgage payment before taxes and insurance.
+
+That is generally considered manageable by traditional lending standards.
+
+Case 2: 6.37% mortgage
+
+At 6.37%, the same $360,000 loan becomes:
+
+Monthly principal + interest payment ≈ $2,245
+
+Relative to income:
+
+7500
+2245
+	​
+
+≈30
+
+Now about 30% of gross income goes to principal and interest alone.
+
+After adding:
+
+property taxes,
+homeowners insurance,
+maintenance,
+utilities,
+HOA fees (if any),
+
+the household could easily exceed common affordability thresholds.
+
+What actually changes?
+| Item                     | 3% Mortgage | 6.37% Mortgage |
+| ------------------------ | ----------: | -------------: |
+| Loan amount              |    $360,000 |       $360,000 |
+| Monthly payment          |     ~$1,518 |        ~$2,245 |
+| Share of gross income    |        ~20% |           ~30% |
+| Total paid over 30 years |  Much lower |    Much higher |
+
+The increase is roughly: 2245−1518≈727
+
+So the family pays about $727 more every month.
+
+That is:
+
+about $8,700 more per year,
+or over $260,000 in additional payments across the life of the loan.
+Affordability consequence
+
+At the higher rate, many households respond by:
+
+buying a cheaper home,
+increasing the down payment,
+delaying purchase,
+or accepting tighter budgets.
+
+For example, to keep the payment near $1,518/month at 6.37%, the buyer could only finance a much smaller loan balance.
+
+That’s why rising rates often reduce housing demand even if home prices themselves do not immediately fall.
+
+Important uncertainty
+
+The outcome still depends on several other factors:
+wage growth,
+local housing supply,
+credit standards,
+future refinancing opportunities,
+property taxes,
+and regional economic conditions.
+
+In markets with limited inventory, prices may remain high despite weaker affordability. In softer markets, sellers may eventually lower prices to match buyers’ reduced purchasing power.
+
+Q. What macro variable would have to change to most effectively offset the affordability hit you described?
+
+The most direct macro variable would be mortgage interest rates.
+
+In the example, the affordability hit comes mainly from the rate jump: the same $360,000 loan goes from about $1,518/month at 3% to about $2,245/month at 6.37%. So a decline in rates would immediately improve affordability without requiring home prices or incomes to adjust.
+
+The second-best offset would be household income growth. To keep the higher $2,245/month payment at the same 20% payment-to-income ratio as the 3% case, monthly gross income would need to rise to about:
+
+2,245/0.20=11,225
+
+That equals roughly $134,700/year, up from $90,000.
+
+So the clean answer is: lower mortgage rates offset the hit most efficiently; large wage/income growth can also offset it, but would require a very big increase.
+
