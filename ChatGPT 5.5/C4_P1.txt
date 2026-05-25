@@ -1,0 +1,55 @@
+Q. The U.S. dollar has strengthened significantly against several international currencies over the past year. How could this affect international students, multinational companies, and import/export businesses? Discuss both positive and negative economic impacts.
+
+
+A stronger U.S. dollar means one dollar buys more foreign currency. That creates winners and losers depending on who earns, spends, borrows, or sells in dollars.
+
+For international students, the impact is mixed. Students whose families earn income in weaker home currencies may find U.S. tuition, rent, and living costs more expensive in local-currency terms. That can reduce affordability or force families to spend more savings. But students who already hold dollars, receive dollar scholarships, or work in the U.S. may benefit because their dollars have greater purchasing power when sent home or used abroad.
+
+For multinational companies, a strong dollar can hurt reported earnings. If a U.S. company earns revenue in Europe, Japan, or emerging markets, those foreign profits translate into fewer dollars when reported on U.S. financial statements. It can also make U.S.-made products more expensive abroad, reducing competitiveness. On the positive side, companies that import materials, manufacture overseas, or pay foreign costs in weaker currencies may see lower input costs.
+
+For import/export businesses, importers generally benefit because foreign goods become cheaper in dollar terms. That can lower costs for retailers, manufacturers, and consumers buying imported products. Exporters usually face the opposite problem: U.S. goods become more expensive for foreign buyers, which can reduce demand and pressure profit margins.
+
+Economically, the positive effects include cheaper imports, lower inflation pressure, stronger purchasing power for U.S. consumers, and cheaper foreign travel for Americans. The negative effects include weaker export competitiveness, lower translated profits for multinationals, stress on foreign borrowers with dollar-denominated debt, and affordability pressure for people paying U.S. costs with weaker currencies.
+
+So the main idea is: a strong dollar helps those buying abroad or paying foreign costs, but hurts those selling abroad or converting weaker foreign income into dollars.
+
+Q. Pick one group from your answer and describe a concrete dollar amount or percentage to make the impact tangible.
+
+Consider an international student from India whose family pays tuition from income earned in Indian rupees.
+
+Suppose U.S. tuition and living expenses total $50,000 per year.
+
+If the exchange rate was ₹75 per U.S. dollar, the family would need:
+
+50,000×75=3,750,000
+
+or about 3.75 million rupees.
+
+If the dollar strengthens and the exchange rate moves to ₹85 per dollar, the same U.S. costs become:
+
+50,000×85=4,250,000
+
+or about 4.25 million rupees.
+
+That is an increase of ₹500,000, roughly a 13.3% increase in local-currency cost, even though the university did not raise tuition at all.
+
+This example shows why currency movements matter so much for international students: a stronger dollar can effectively create a large “hidden tuition increase” for families earning income in weaker currencies.
+
+Q. Which group is hurt most quickly, and which experiences the impact with the longest lag?
+
+The group hurt most quickly is usually international students and consumers paying directly in dollars from weaker currencies. 
+Currency markets can move immediately, so families converting money for tuition, rent, or living expenses feel the higher cost almost right away. 
+A stronger dollar can raise their effective expenses within weeks or even days.
+
+The group that often experiences the longest lag is multinational companies, especially large exporters. 
+Many hedge currency risk using financial contracts, have long-term supplier agreements, or adjust prices gradually. 
+Because of this, the full effect on profits, competitiveness, and sales may take several quarters to appear in earnings reports.
+
+Import/export businesses tend to fall somewhere in between. Importers may benefit relatively quickly from cheaper foreign goods, but exporters may only slowly lose customers as foreign buyers adjust purchasing decisions over time.
+
+So the timeline is roughly:
+1. Fastest impact: international students and households converting currency directly
+2. Medium-term impact: importers/exporters adjusting prices and orders
+3. Longest lag: multinational corporations reporting weaker translated earnings and changing global demand patterns
+
+
