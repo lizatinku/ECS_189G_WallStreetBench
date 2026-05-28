@@ -4,12 +4,18 @@
 Which group is hurt most quickly, and which experiences the impact with the longest lag?
 
 --- MODEL RESPONSE ---
-**Group: International Students**  
-**Hurt Most Quickly**:  
-- **Immediate Impact**: International students experience cost savings (e.g., saving $50,000 annually) due to the U.S. dollar strengthening, which is a direct financial benefit.  
+**Which group is hurt most quickly, and which experiences the impact with the longest lag?**  
 
-**Impact with Longest Lag**:  
-- **Multinational Companies**:  
-  The dollar strengthening affects their costs when they convert dollars to other currencies (e.g., converting USD to Euros), which is a one-time event. This process takes time to complete, causing them to experience the full impact with a **longer lag** compared to international students.  
+- **International students**:  
+  They experience the impact **most immediately**. Their spending on travel, education, and global opportunities 
+is directly tied to the dollar's strength, making their financial strain a direct consequence.  
 
-This distinction highlights how the dollar's strength directly impacts education and business operations, with students benefiting immediately and companies facing delayed financial consequences.
+- **Multinational companies**:  
+  They experience the impact **with the longest lag**. While they may benefit from lower costs when exporting to 
+countries with a stronger dollar, their ability to hedge against currency fluctuations or adjust for 
+import/export costs takes time. This delay in reaping the economic advantage is due to the interplay between the 
+dollar's strength and their operational timing.  
+
+**Conclusion**:  
+International students are hurt most quickly, while multinational companies experience the longest lag due to 
+the time required to adjust to the dollar's strength.

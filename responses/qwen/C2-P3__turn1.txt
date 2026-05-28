@@ -4,12 +4,32 @@
 Which assumption in your analysis is most fragile, and what would you do to stress-test it?
 
 --- MODEL RESPONSE ---
-The key factors that tip the decision between renting and purchasing a condo are the **time horizon** and **loan term**, as both significantly influence the financial outcomes. Here's a breakdown:
+The **most fragile assumption** in my analysis is **rent stability**, as it directly affects the total cost 
+of living. This assumption is critical because it determines whether the student can reliably afford the 
+rent or match the mortgage payments. To stress-test this assumption, we can simulate scenarios where rent 
+either **increases** or **decreases**, and evaluate how this uncertainty impacts the total cost.
 
-### **Key Factors and Uncertainty**
-1. **Time Horizon**:  
-   - If the graduate student is in the city for a **10–20 year period**, the 4% annual rent growth will have a substantial impact. For example, with 10 years, the monthly rent would grow from $1,800 to $1,800*(1.04)^10 ≈ $2,600.  
-   - However, if the student is in the city for a shorter period (e.g., 5 years), the rent growth is less, making the condo a more viable option. This creates **uncertainty** around the time frame.
+### **How to Stress-Test the Assumption**
+1. **Scenario 1: Rent Stability Assumed**  
+   - **Scenario**: Rent remains constant at $1,800/month.  
+   - **Impact**: Total monthly cost is $21,600, which is significantly lower than the $528,000 cost of the 
+condo.  
+   - **Uncertainty**: If rent increases by 4% annually, the student would need to adjust their rent to 
+match the increased payments, potentially tipping the decision from renting to buying.
 
-2. **Loan Term**:  
-   - The mortgage term (e.g., 10–20 years)
+2. **Scenario 2: Rent Decreases**  
+   - **Scenario**: Rent decreases by 4% annually.  
+   - **Impact**: Total monthly cost drops to $21,600 × (1 - 0.04/12) = $21,000.  
+   - **Uncertainty**: If rent decreases, the student's total cost would be even lower, making renting more 
+viable. However, this scenario highlights the fragility of maintaining a stable income stream.
+
+3. **Other Uncertainties**  
+   - **Mortgage Rate**: If the student expects the mortgage rate to increase, their monthly payment would 
+be lower than the rent.  
+   - **Time Horizon**: If the student is renting for a longer period (e.g., 20 years), they would need to 
+adjust their monthly rent to match or exceed the mortgage payment, which adds another layer of uncertainty.
+
+### **Conclusion**  
+By considering scenarios where rent either **increases or decreases**, we can stress-test the assumption 
+that rent remains stable. This highlights the importance of **rent stability** and other factors like 
+mortgage rates and time horizon in making the decision.

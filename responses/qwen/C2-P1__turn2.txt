@@ -4,6 +4,18 @@
 What macro variable would have to change to most effectively offset the affordability hit you described?
 
 --- MODEL RESPONSE ---
-To offset the affordability hit caused by a 3% to 6.37% increase in mortgage interest rates, the **home price** would need to remain constant. If the home price is already fixed at $450,000, the increase in interest rates would make this home more expensive to own, thus reducing affordability. However, if the home price were to increase, the impact would be even more severe. Therefore, the **home price's stability** would most effectively offset the affordability hit. 
+To most effectively offset the affordability hit caused by a 6.37% mortgage rate, the **home price level** 
+would need to be **adjusted**. Here's the breakdown:
 
-This means that to maintain affordability, the home price should remain unchanged, or the household should be prepared to adjust their mortgage payments or explore alternative refinancing options.
+### **1. How to Offset the Affordability Hit**  
+- **Home Prices**: If home prices remain constant, the impact of higher interest rates on monthly mortgage 
+payments would be minimal. For example, a $450,000 home with a 6.37% rate would still be affordable if home 
+prices stay around $450,000.  
+- **Adjustment**: To offset the hit, **home prices must fall**. If prices are kept high, the affordability 
+gap remains. Conversely, if home prices decrease, the cost of home ownership becomes more manageable, 
+reducing the overall affordability issue.
+
+### **2. Key Macro Variable**  
+The **home price level** is the primary macro variable that needs to be adjusted. By **reducing home 
+prices** or **maintaining them**, the affordability hit can be mitigated. This directly affects how much 
+the household can afford to buy the home, thereby offsetting the overall impact of higher interest rates.

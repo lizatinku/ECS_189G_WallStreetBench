@@ -4,4 +4,39 @@
 A graduate student is deciding between (i) renting at $1,800/month in a city with 4% annual rent growth or (ii) buying a $320,000 condo at a 6.5% mortgage with 10% down. Walk through the key factors that would tip the decision one way or the other, and where uncertainty matters most.
 
 --- MODEL RESPONSE ---
+When comparing the decision between renting at $1,800/month with a city growing at 4% annually or buying a 
+$320,000 condo with a 6.5% mortgage and 10% down payment, several key factors and uncertainties must be 
+considered:
+
+### **Key Factors That Would Tip the Decision One Way or the Other**
+
+1. **Total Cost of Living**:  
+   - Renting at $1,800/month would mean a total cost of $1,800 × 12 = $21,600 per year.  
+   - Buying the condo costs $320,000 upfront plus $208,000 in monthly mortgage payments = $528,000 total 
+cost.  
+   - The total cost of living (renting) is significantly less than buying the condo.
+
+2. **Time Horizon**:  
+   - Renting for a fixed amount over a 12-month period would be cheaper than buying the condo, which 
+requires ongoing monthly payments over the same period.
+
+3. **Uncertainty in Rent Growth**:  
+   - If the city's rent growth is 4% annually, the student would need to adjust their monthly rent 
+payments. This introduces uncertainty about whether the rent will remain stable or increase, potentially 
+affecting the total cost.
+
+4. **Uncertainty in Mortgage Payments**:  
+   - The 6.5% annual mortgage rate means that the monthly payment would be lower than the rent. If the 
+student expects the mortgage to grow, they might need to adjust their monthly rent to match or exceed the 
+mortgage payment.
+
+### **Where Uncertainty Matters Most**
+
+- **Rent Growth**: If the rent increases by 4% annually, the student's total monthly payments could grow 
+significantly, making renting less viable.  
+- **Mortgage Payment Uncertainty**: If the mortgage rate increases, the monthly payment would be lower than 
+the rent, which could tip the decision from renting to buying.
+
+In summary, the decision hinges on the total cost, time horizon, and the likelihood of rent or mortgage 
+growth, with uncertainty directly affecting the viability of each option.
 

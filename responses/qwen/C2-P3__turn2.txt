@@ -4,21 +4,41 @@
 How would your answer change if the student's job is in a volatile industry?
 
 --- MODEL RESPONSE ---
-If the graduate student's job is in a **voluntarily volatile industry**, the decision would be influenced by **both time horizon and income predictability**, which are the **key factors** that tip the decision:
+If the student's job is in a **voluntarily volatile industry**, the decision would be significantly 
+**affected** by the instability of their income and the associated financial uncertainties. Here's how the 
+answer would change:
 
-### **Key Factors and Uncertainty**  
-1. **Time Horizon**:  
-   - A **shorter time horizon** (e.g., 3–5 years) would make the rental option more attractive if the industry is growing. If the job is volatile, the student might have limited time to invest, increasing the risk of losing money if the rent or income drops.  
-   - Conversely, if the industry is unstable, the student might need to **plan for a longer time horizon** to offset potential losses, creating uncertainty around the decision.
+### **Key Factors and Uncertainties**  
+1. **Income Stability**:  
+   - In a volatile industry, the student's income may fluctuate significantly. This introduces uncertainty 
+about their ability to maintain rent or match mortgage payments. For example, if the job is in a 
+high-demand but low-paying industry, the student may struggle to keep rent or secure enough savings to 
+cover mortgage payments.  
 
-2. **Income Predictability**:  
-   - A **volatile job** would mean the student’s income is **inconsistent**. This reduces the reliability of either the rental or the mortgage payment. For example, if the student’s income fluctuates, they may need to **adjust their budgeting strategy** to account for unpredictable cash flow, increasing uncertainty in the choice.
+2. **Financial Planning Adjustments**:  
+   - The student would need to **adjust their budget** more frequently, as income unpredictability could 
+force them to **reallocate funds** or seek alternative income sources. This increases the **uncertainty** 
+of the decision, as they may not have enough savings or resources to handle the volatility.  
 
-### **Assumptions and Stress-Testing**  
-- **Assumption**: The student assumes a **stable income and a predictable time frame**. If the job is volatile, this assumption becomes **fragile**, leading to uncertainty in the decision.  
-- **Stress-Test**: To stress-test the assumption, the student could:  
-  - **Simulate income fluctuations** over 5 years (or the time period of the job) to see how the decision would change.  
-  - **Analyze the impact of time horizon** on rent growth: for example, if the student’s job lasts only 3 years, the 4% rent growth would be less than a 10-year period, tipping the decision from rental to purchase.  
+3. **Time Horizon**:  
+   - If the student is renting for a longer period (e.g., 20 years), they may need to **adjust their rent 
+or mortgage payments** to match or exceed the current income, which introduces **long-term uncertainty**.  
+
+4. **Other Uncertainties**:  
+   - **Mortgage Payment Uncertainty**: If the student expects the mortgage rate to increase, their monthly 
+payment would be lower than the rent, creating a **tipping point** where the decision from renting to 
+buying becomes more viable.  
+   - **Uncertainty in Rent Growth**: If the city's rent growth is volatile, the student may need to 
+**adjust their rent payments** or look for alternative sources of income to offset the uncertainty.  
 
 ### **Conclusion**  
-The volatile job environment introduces **uncertainty** around both the time horizon and income, making the decision between renting and purchasing a home **more fragile**. The student must adjust their planning to account for these variables, possibly by re-evaluating the time horizon or exploring alternative investments to mitigate financial risk.
+The decision would be **more sensitive** to income stability and the student's ability to handle financial 
+unpredictability. To stress-test this, we could consider scenarios where the student's income either 
+**increases or decreases** in response to the volatile industry's conditions. This highlights the need for 
+financial planning, budgeting flexibility, and contingency planning to mitigate uncertainty.  
+
+### **Final Answer**  
+If the student's job is in a volatile industry, the decision would be **more sensitive** to income 
+stability, financial planning, and long-term viability. To stress-test, consider scenarios where the 
+student's income either **increases or decreases** due to the industry's volatility, emphasizing the 
+importance of adjusting budgets and planning for uncertainty.

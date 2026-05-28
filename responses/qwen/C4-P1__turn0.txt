@@ -4,19 +4,47 @@
 The U.S. dollar has strengthened significantly against several international currencies over the past year. How could this affect international students, multinational companies, and import/export businesses? Discuss both positive and negative economic impacts.
 
 --- MODEL RESPONSE ---
-The strengthening of the U.S. dollar has both positive and negative economic impacts on international students, multinational companies, and import/export businesses. Here's a breakdown:
+The strengthening of the U.S. dollar has both positive and negative economic impacts on international 
+students, multinational companies, and import/export businesses. Here's a structured analysis:
 
-### **International Students**  
-**Positive Impact**:  
-- **Affordability**: Students can purchase education abroad with foreign currency more easily, reducing overall costs.  
-- **Cost of Living**: If the dollar strengthens, other currency values may also rise, making living expenses in the U.S. potentially cheaper for international students.  
+### **International Students**
+- **Positive Impacts**:  
+  - **Lower Costs of Education**: Students can purchase educational materials and services at lower prices, 
+reducing financial burdens.  
+  - **Better Travel and Accommodation**: The dollar's strength may allow students to travel or live in the 
+U.S. for a longer time, increasing exposure to global opportunities.  
+- **Negative Impacts**:  
+  - **Potential for Inflation**: If the dollar strengthens, the U.S. becomes a hub for foreign capital, 
+potentially leading to increased inflation.  
+  - **Loss of Global Exposure**: While students gain access to the U.S. market, they may miss opportunities 
+in other countries or face limited international opportunities.
 
-**Negative Impact**:  
-- **Currency Conversion Costs**: Students may find it harder to convert back to their home country’s currency later, increasing expenses.  
+### **Multinational Companies**
+- **Positive Impacts**:  
+  - **Competitive Advantage**: Companies can export to countries where the dollar is stronger, reducing 
+costs and increasing profits.  
+  - **Reputation in the U.S.**: A strong dollar supports a company's reputation as a reliable business 
+partner in the U.S. market.  
+- **Negative Impacts**:  
+  - **Currency Fluctuations Risk**: If the dollar strengthens, businesses may face higher costs for imports 
+or services in other markets, potentially affecting competitiveness.  
+  - **Hedging Against Currency Fluctuations**: Companies might need to hedge against currency losses, 
+increasing operational risks.
 
-### **Multinational Companies**  
-**Positive Impact**:  
-- **Cost Savings**: Companies can reduce costs by converting dollars to other currencies, lowering operational expenses.  
-- **Access to Markets**: A stronger dollar makes the U.S. a cheaper destination for international business, boosting exports and investments.  
+### **Import/Export Businesses**
+- **Positive Impacts**:  
+  - **Cheaper Imports**: The U.S. becomes a cheaper destination for imports, making businesses more 
+profitable.  
+- **Negative Impacts**:  
+  - **Increased Costs in Other Markets**: If the dollar strengthens, the U.S. becomes more expensive in 
+other countries, leading to higher import costs for businesses.  
+  - **Exchange Rate Fluctuations**: Businesses may struggle with currency volatility, affecting their 
+ability to manage pricing or negotiate terms.
 
-**Negative
+### **Overall Economic Impact**
+- The strengthening of the dollar supports the U.S. as a global hub, boosting investment and economic 
+activity. However, it may also lead to inflationary pressures, affecting businesses and consumers. 
+Businesses must balance the potential for increased profits with the risk of currency volatility.
+
+In summary, while the dollar's strength offers opportunities for international students, companies, and 
+businesses, it also introduces economic challenges that require careful management.

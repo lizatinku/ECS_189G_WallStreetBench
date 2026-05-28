@@ -4,4 +4,35 @@
 Walk through a concrete example: a household earning $90,000/year considering a $450,000 home. What changes between a 3% and a 6.37% mortgage?
 
 --- MODEL RESPONSE ---
+### **Concrete Example: A Household Earning $90,000**
 
+**Original Scenario**:  
+- **Monthly Mortgage Payment**: $1,815 (at 3% over 30 years).  
+- **Home Value**: $450,000.  
+- **Monthly Payment**: $1,815.  
+
+**Change When Mortgage Rate Increases to 6.37%**:  
+
+1. **Monthly Mortgage Payment**:  
+   - With a 6.37% rate, the monthly payment becomes:  
+     $ M = 450,000 \times \frac{0.0637 \times (1 + 0.0637)}{(1 + 0.0637)^{30} - 1} \approx 30,375 $.  
+   - This represents a **$21,560 increase** in monthly payments.  
+
+2. **Impact on Home Affordability**:  
+   - The **increase in monthly payments** makes the home more expensive, reducing the number of people who 
+can afford it. However, **if new housing becomes available or prices fall**, demand could still persist.  
+
+3. **Home Demand**:  
+   - With higher interest rates, home construction may slow, but demand for existing homes (especially if 
+they are in high-demand areas) may remain.  
+
+### **Uncertainty Factors**:  
+- **Economic Conditions**: If the economy stabilizes, demand could rebound.  
+- **Policy Interventions**: If governments reduce interest rates or implement policies to stabilize housing 
+affordability, the situation may improve.  
+- **Global Economic Factors**: Inflation or geopolitical events could further affect the cost of housing, 
+adding uncertainty to the outcome.  
+
+### **Conclusion**:  
+The increase in mortgage rates directly impacts home affordability and monthly payments, but the outcome 
+depends on factors like economic conditions and policy interventions.
