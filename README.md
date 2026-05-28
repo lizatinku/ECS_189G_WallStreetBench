@@ -28,7 +28,6 @@ One row per (response × annotator). A response double-annotated by two people =
 | `risk_awareness` | int | `1`–`3` | Rubric §3.4 |
 | `tradeoff` | string | `Yes` / `No` | Rubric §3.5 |
 | `consistency_group` | string | e.g. `C1-P1-group` or empty | Groups together prompts that should give consistent answers (original + .v1 + .v2) |
-| `llm_judge_score` | int | `1`–`5` or empty | Optional LLM-as-judge score |
 | `notes` | string | free text | One-line annotator comment, useful for case study analysis |
 
 ## Rules
