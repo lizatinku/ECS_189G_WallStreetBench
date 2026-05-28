@@ -1,0 +1,19 @@
+=== Prompt ID: C3-P1.v2  |  Category: C3  |  Turn: 0 ===
+
+--- PROMPT ---
+Why do companies sometimes see their stock prices go up on layoff announcements? Use the recent Coinbase / Oracle / Atlassian examples.
+
+--- MODEL RESPONSE ---
+The phenomenon where companies' stock prices increase following layoff announcements can be attributed to several key factors:
+
+1. **Operational Efficiency and Cost Savings**: Companies may achieve significant cost savings by eliminating unnecessary roles, allowing them to focus on core operations and potentially improve margins or cash flow.
+
+2. **Strategic Restructuring**: Layoffs often signal strategic changes aimed at aligning the company's structure with future growth plans, positioning it for long-term success.
+
+3. **Investor Perception of Management Confidence**: Positive announcements from management about restructuring can enhance investor confidence, viewing the moves as indicators of a clear strategy and future performance expectations.
+
+4. **Risk Management During Uncertain Times**: In challenging economic conditions, layoffs may be seen as risk mitigation strategies to control expenses and maintain profitability.
+
+5. **Potential for Future Growth**: Companies might announce layoffs to focus on high-growth areas or innovation, positioning themselves for increased future earnings despite current job cuts.
+
+6. **Corporate Actions Such as Buybacks**: After restructuring, companies might execute buyback programs, which can drive up valuations by reducing

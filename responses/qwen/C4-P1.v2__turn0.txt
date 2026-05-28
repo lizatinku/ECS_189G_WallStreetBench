@@ -1,0 +1,11 @@
+=== Prompt ID: C4-P1.v2  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+Imagine the dollar continues to strengthen for another year. Which groups in the U.S. economy are best positioned, and which are most exposed?
+
+--- MODEL RESPONSE ---
+If the U.S. dollar continues to strengthen for another year, the following groups in the U.S. economy are best positioned and which are most exposed:
+
+### **Best Positioned Groups**
+1. **Manufacturing and Export-Related Industries**  
+   - **Best Positioned**: These sectors benefit from the dollar's strength as American

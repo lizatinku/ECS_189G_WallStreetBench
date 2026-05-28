@@ -1,0 +1,14 @@
+=== Prompt ID: C2-P1.v2  |  Category: C2  |  Turn: 0 ===
+
+--- PROMPT ---
+Mortgage rates are still more than double their 2021 lows. Discuss the implications for first-time home buyers, existing homeowners, and the broader housing market.
+
+--- MODEL RESPONSE ---
+The implications of mortgage rates being over double their 2021 lows present significant challenges across various segments of the housing market and economy:
+
+1. **First-Time Homebuyers**: 
+   - **Increased Financial Burden**: Higher mortgage rates make it more difficult for first-time buyers to afford homes, especially those without flexible options like cash purchases or alternative financing methods.
+   - **Down Payment Challenges**: Larger down payments may be required, potentially excluding those with limited savings. Government-backed loans or alternative financing could alleviate some pressure but are not a universal solution.
+
+2. **Existing Homeowners**:
+   - **Variable-Rate Impact**:

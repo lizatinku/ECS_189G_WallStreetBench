@@ -1,0 +1,9 @@
+=== Prompt ID: C3-P3  |  Category: C3  |  Turn: 1 ===
+
+--- PROMPT ---
+What would have to be true for the acquirer's stock to rise on the announcement instead?
+
+--- MODEL RESPONSE ---
+For the acquirer's stock to rise on the announcement, the market would need to **price the deal as a whole** rather than each component individually. This implies that the acquirer's stock price is expected to rise due to the deal’s potential positive impact on its value. This asymmetry reflects the market's valuation strategy, where it prioritizes the deal’s upside over the acquirer's own performance, creating an imbalance in investor expectations. 
+
+**Key implication**: This asymmetry shows that the market is **picking up on the acquirer’s potential upside**, suggesting confidence in the deal’s success, which drives its stock price upward despite the target’s performance.

@@ -1,0 +1,13 @@
+=== Prompt ID: C5-P1  |  Category: C5  |  Turn: 1 ===
+
+--- PROMPT ---
+What single piece of information about the stock would most change your advice?
+
+--- MODEL RESPONSE ---
+If you want to adjust my advice, consider the following single piece of information: **if the stock has a strong, positive financial position** (e.g., solid revenue, solid earnings, or a good track record) — this would mean it's a solid, low-risk investment, so I'd advise holding or reinvesting.  
+
+Alternatively, if the stock is experiencing a **market downturn or economic shock** (like a recession), this could mean it’s less volatile, so I’d recommend holding it for a bit.  
+
+Or, if the stock is currently performing well in a **stable market** (e.g., during a bull market), I’d advise reinvesting or waiting.  
+
+Let me know which detail you'd like to adjust, and I'll tailor my advice accordingly!

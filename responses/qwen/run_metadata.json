@@ -1,0 +1,15 @@
+{
+  "model": "qwen3:0.6b",
+  "tag": "qwen",
+  "temperature": 0.7,
+  "seed": 42,
+  "num_predict": 1024,
+  "started_at": "2026-05-23T18:37:17",
+  "prompts_file": "prompts.json",
+  "n_prompts": 23,
+  "total_turns_expected": 50,
+  "finished_at": "2026-05-23T18:55:02",
+  "total_turns_generated": 50,
+  "total_elapsed_seconds": 1064.9,
+  "avg_seconds_per_turn": 21.3
+}

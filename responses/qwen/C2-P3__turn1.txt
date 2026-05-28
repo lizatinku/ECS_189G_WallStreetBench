@@ -1,0 +1,15 @@
+=== Prompt ID: C2-P3  |  Category: C2  |  Turn: 1 ===
+
+--- PROMPT ---
+Which assumption in your analysis is most fragile, and what would you do to stress-test it?
+
+--- MODEL RESPONSE ---
+The key factors that tip the decision between renting and purchasing a condo are the **time horizon** and **loan term**, as both significantly influence the financial outcomes. Here's a breakdown:
+
+### **Key Factors and Uncertainty**
+1. **Time Horizon**:  
+   - If the graduate student is in the city for a **10–20 year period**, the 4% annual rent growth will have a substantial impact. For example, with 10 years, the monthly rent would grow from $1,800 to $1,800*(1.04)^10 ≈ $2,600.  
+   - However, if the student is in the city for a shorter period (e.g., 5 years), the rent growth is less, making the condo a more viable option. This creates **uncertainty** around the time frame.
+
+2. **Loan Term**:  
+   - The mortgage term (e.g., 10–20 years)

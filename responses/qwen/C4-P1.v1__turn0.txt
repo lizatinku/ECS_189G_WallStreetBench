@@ -1,0 +1,38 @@
+=== Prompt ID: C4-P1.v1  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+The dollar has gained noticeably against several major currencies in the past year. Walk through who benefits and who loses across students, multinationals, and trade-exposed firms.
+
+--- MODEL RESPONSE ---
+The strengthening of the U.S. dollar against major currencies in the past year can have varied impacts across different sectors, with some groups benefiting and others losing. Here's a breakdown:
+
+### **1. Students**  
+- **Benefits**:  
+  - **Expenses and Travel**: Students may spend more on imports, travel, or tuition fees in foreign countries. However, if they convert their currency to dollars, they might gain from the dollar's strength.  
+  - **International Study**: If students study abroad, their expenses in foreign countries could increase, leading to potential losses.  
+
+- **Losses**:  
+  - **Cost of Living**: If students live in countries with weaker currencies, their costs could rise.  
+
+### **2. Multinationals**  
+- **Benefits**:  
+  - **Profit from Exports**: Stronger dollar values make exports more competitive, boosting revenue.  
+  - **Costs of Imports**: If they source goods or services from foreign countries, they may face higher import costs.  
+
+- **Losses**:  
+  - **Currency Translation Costs**: Converting foreign currency to dollars could increase expenses.  
+
+### **3. Trade-Exposed Firms**  
+- **Benefits**:  
+  - **Export Growth**: Stronger dollar values enable exports to foreign markets, increasing revenue.  
+  - **Cost of Imports**: If they source goods or services from foreign countries, they may see a loss.  
+
+- **Losses**:  
+  - **Currency Translation Costs**: If they convert foreign currency to dollars, they might increase expenses.  
+
+### **Summary**  
+- **Students**: Gain from currency conversion and travel, but may lose due to cost of living.  
+- **Multinationals**: Gain from exports but face higher import costs.  
+- **Trade-Exposed Firms**: Gain from exports but may face currency translation losses.  
+
+The net impact depends on individual businesses and their operations, but the general pattern is that students and multinationals benefit, while trade-exposed firms face some losses.

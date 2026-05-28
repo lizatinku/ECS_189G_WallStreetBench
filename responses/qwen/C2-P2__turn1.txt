@@ -1,0 +1,7 @@
+=== Prompt ID: C2-P2  |  Category: C2  |  Turn: 1 ===
+
+--- PROMPT ---
+Which of these three pass-throughs typically lags the most, and why?
+
+--- MODEL RESPONSE ---
+

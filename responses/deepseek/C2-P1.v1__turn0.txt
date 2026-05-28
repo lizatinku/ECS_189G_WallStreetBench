@@ -1,0 +1,11 @@
+=== Prompt ID: C2-P1.v1  |  Category: C2  |  Turn: 0 ===
+
+--- PROMPT ---
+U.S. 30-year mortgage rates went from roughly 3% in 2021 to a peak near 8% in late 2023 and now sit at about 6.37%. What does this mean for housing affordability and household demand for homes?
+
+--- MODEL RESPONSE ---
+The increase in U.S. 30-year mortgage rates from approximately 3% in 2021 to a peak of about 8% in late 2023, followed by a decline to around 6.37%, has significant implications for housing affordability and household demand:
+
+1. **Higher Borrowing Costs**: The peak rate of 8% made homeownership more expensive for many potential buyers, increasing the financial burden on their monthly payments. This likely reduced overall household demand for homes during that period.
+
+2. **Impact on Savings and

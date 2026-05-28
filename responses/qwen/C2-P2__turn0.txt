@@ -1,0 +1,10 @@
+=== Prompt ID: C2-P2  |  Category: C2  |  Turn: 0 ===
+
+--- PROMPT ---
+The Federal Reserve has cut its policy rate by 75 basis points over the past nine months. How might this transmit to (a) credit card APRs, (b) auto loan rates, and (c) the price of long-duration tech stocks? Explain which links are direct and which are indirect.
+
+--- MODEL RESPONSE ---
+(a) **Credit card APRs**:  
+The Federal Reserve's cut of 75 basis points directly affects credit card APRs. Credit card companies calculate their APR based on the Fed's policy rate. By reducing the policy rate, credit card companies lower their interest rates, which directly translates into lower APRs for customers.  
+
+(b)

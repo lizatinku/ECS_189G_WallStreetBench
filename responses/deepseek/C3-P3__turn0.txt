@@ -1,0 +1,17 @@
+=== Prompt ID: C3-P3  |  Category: C3  |  Turn: 0 ===
+
+--- PROMPT ---
+A major airline announces it will acquire a smaller regional carrier for $4.2 billion. The acquirer's stock drops 6% on the news while the target's stock jumps 22%. Explain why this asymmetric reaction is common in M&A and what it implies about how the market is pricing the deal.
+
+--- MODEL RESPONSE ---
+The asymmetric reaction observed in the stock prices of an airline (acquirer) and a regional carrier (target) during a merger and acquisition can be explained through several key factors:
+
+1. **Expectation of Synergies**: The target's stock tends to jump because it may be undervalued initially due to unfulfilled expectations about the potential synergies from the deal. These synergies, such as cost savings or revenue growth opportunities, might not be immediately apparent but are often anticipated in M&A deals.
+
+2. **Investor Sentiment and Risk Perception**: Investors may hold a risk-averse attitude towards acquiring larger companies undergoing significant changes. This cautiousness can lead to lower valuations for the acquiring company (airline) compared to its target (regional carrier), which might be seen as undervalued or with more attractive metrics.
+
+3. **Market Metrics and Attractiveness**: The regional carrier's lower market multiples, such as a lower P/E ratio, contribute to its stock jumping due to perceived undervaluation. In contrast, the airline may have higher barriers to entry or existing operational strengths that make it seem less risky initially.
+
+4. **Post-merger Performance Concerns**: If the deal fails to deliver expected benefits, the acquirer could face negative surprises post-merger, leading to a decline in its stock price. This uncertainty is often present before the deal closes, causing immediate volatility.
+
+In summary, the market reflects different expectations and risk assessments for each company based on their unique circumstances. The target's stock gains due to potential upside from synergies, while the acquirer's stock drops as its own risks and uncertainties are anticipated by investors.

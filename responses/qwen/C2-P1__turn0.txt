@@ -1,0 +1,27 @@
+=== Prompt ID: C2-P1  |  Category: C2  |  Turn: 0 ===
+
+--- PROMPT ---
+Mortgage interest rates have increased by over 3 percentage points from early-2021 lows, peaking near 8% in late 2023 and sitting around 6.37% as of May 2026. How could this affect housing demand, monthly mortgage payments, and home affordability? Discuss any uncertainty or additional factors that may influence the outcome.
+
+--- MODEL RESPONSE ---
+The increase in mortgage interest rates has had significant effects on housing demand, monthly mortgage payments, and home affordability, while also introducing uncertainties. Here's a breakdown:
+
+### **1. Housing Demand**
+- **Demand Increase**: Higher interest rates make borrowing more expensive, reducing the incentive for people to take out loans. While this might lead to a temporary slowdown in home purchases, demand for housing could still rise as people seek alternatives or focus on long-term solutions. However, if home prices stagnate or increase faster, demand may not fully adjust.
+- **Uncertainty**: Economic instability or policy changes could further dampen demand, especially if home prices remain high.
+
+### **2. Monthly Mortgage Payments**
+- **Payment Increase**: With higher rates, monthly mortgage payments tend to increase, making homeownership more costly. This could lead to a higher proportion of households paying for their homes, though some may still find the cost manageable if they take out additional loans or refinance.
+- **Uncertainty**: The timing of the rate increase and the availability of alternative refinancing options could affect the payment structure.
+
+### **3. Home Affordability**
+- **Price Pressure**: Higher interest rates make home prices more volatile, making it harder for buyers to afford homes. This could lead to a decline in home affordability, though some buyers may still find options available.
+- **Uncertainty**: Factors like the availability of government assistance programs or changes in local housing policies could influence affordability.
+
+### **Uncertainty and Additional Factors**
+- **Economic Conditions**: A recession or prolonged economic downturn might lead to reduced consumer confidence, further affecting homebuying.
+- **Policy Changes**: New regulations or policies could either support or constrain home affordability.
+- **Regional Variability**: Differences in housing markets and regional price trends could create uncertainty.
+- **Refinance Dynamics**: The ability to refinance loans at lower rates or secure longer-term financing could mitigate immediate affordability issues.
+
+In summary, while the overall trend is a challenge for home affordability, the exact impact depends on a combination of economic conditions, policy actions, and individual financial circumstances.

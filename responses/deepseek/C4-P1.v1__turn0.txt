@@ -1,0 +1,7 @@
+=== Prompt ID: C4-P1.v1  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+The dollar has gained noticeably against several major currencies in the past year. Walk through who benefits and who loses across students, multinationals, and trade-exposed firms.
+
+--- MODEL RESPONSE ---
+

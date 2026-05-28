@@ -1,0 +1,20 @@
+=== Prompt ID: C3-P3  |  Category: C3  |  Turn: 0 ===
+
+--- PROMPT ---
+A major airline announces it will acquire a smaller regional carrier for $4.2 billion. The acquirer's stock drops 6% on the news while the target's stock jumps 22%. Explain why this asymmetric reaction is common in M&A and what it implies about how the market is pricing the deal.
+
+--- MODEL RESPONSE ---
+The asymmetric reaction in M&A is common because the market's response to a deal is not symmetric. Here's why:
+
+1. **Asymmetric Reaction**:  
+   - The acquirer's stock drops 6% while the target's stock jumps 22% suggests the market is reacting differently to the deal. This asymmetry arises because:  
+     - The acquirer's stock price drop could signal concerns about the deal’s potential losses (e.g., overvaluation or risk of overexposure).  
+     - The target's stock price jump implies positive sentiment, possibly due to expectations of a strong return on investment (ROI) or a significant financial gain.  
+     - The difference between the two stocks reflects the market's valuation of the deal as a whole versus each component's individual performance.
+
+2. **Market Pricing Implication**:  
+   - The asymmetry implies the market is **picking up on the deal’s potential upside** rather than the deal’s overall value. The acquirer’s stock is priced lower than expected, suggesting investors are anticipating a profit, while the target’s stock is higher, indicating positive sentiment.  
+   - This asymmetry reflects the market’s pricing strategy:  
+     - **Pricing the deal** as a whole (the acquirer’s stock) vs. **picking up on each component’s potential return** (the target's stock).  
+
+In essence, the market is valuing the deal’s expected upside over the deal itself, creating a pricing imbalance. This asymmetry highlights how investors are assessing each component's potential contribution to the overall value of the acquisition.

@@ -1,0 +1,22 @@
+=== Prompt ID: C4-P1  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+The U.S. dollar has strengthened significantly against several international currencies over the past year. How could this affect international students, multinational companies, and import/export businesses? Discuss both positive and negative economic impacts.
+
+--- MODEL RESPONSE ---
+The strengthening of the U.S. dollar has both positive and negative economic impacts on international students, multinational companies, and import/export businesses. Here's a breakdown:
+
+### **International Students**  
+**Positive Impact**:  
+- **Affordability**: Students can purchase education abroad with foreign currency more easily, reducing overall costs.  
+- **Cost of Living**: If the dollar strengthens, other currency values may also rise, making living expenses in the U.S. potentially cheaper for international students.  
+
+**Negative Impact**:  
+- **Currency Conversion Costs**: Students may find it harder to convert back to their home country’s currency later, increasing expenses.  
+
+### **Multinational Companies**  
+**Positive Impact**:  
+- **Cost Savings**: Companies can reduce costs by converting dollars to other currencies, lowering operational expenses.  
+- **Access to Markets**: A stronger dollar makes the U.S. a cheaper destination for international business, boosting exports and investments.  
+
+**Negative

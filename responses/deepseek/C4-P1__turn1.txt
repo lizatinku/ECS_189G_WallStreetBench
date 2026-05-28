@@ -1,0 +1,7 @@
+=== Prompt ID: C4-P1  |  Category: C4  |  Turn: 1 ===
+
+--- PROMPT ---
+Pick one group from your answer and describe a concrete dollar amount or percentage to make the impact tangible.
+
+--- MODEL RESPONSE ---
+

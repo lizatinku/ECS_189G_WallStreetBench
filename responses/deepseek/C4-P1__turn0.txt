@@ -1,0 +1,7 @@
+=== Prompt ID: C4-P1  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+The U.S. dollar has strengthened significantly against several international currencies over the past year. How could this affect international students, multinational companies, and import/export businesses? Discuss both positive and negative economic impacts.
+
+--- MODEL RESPONSE ---
+

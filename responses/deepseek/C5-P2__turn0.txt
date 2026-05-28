@@ -1,0 +1,15 @@
+=== Prompt ID: C5-P2  |  Category: C5  |  Turn: 0 ===
+
+--- PROMPT ---
+Should I refinance my mortgage right now?
+
+--- MODEL RESPONSE ---
+**Refinancing Mortgage Decision Analysis**
+
+1. **Understanding Refinancing**: Refinancing involves replacing the existing mortgage with a new one to potentially lower monthly payments or secure better terms, after accounting for closing costs.
+
+2. **Current vs. New Interest Rates**: 
+   - Current rates are around 4% (for a 30-year fixed), compared to your current 5.5%. Lowering interest rates could save money over the loan term.
+
+3. **Cost Considerations**:
+   - Closing costs range from 2% to 5% of the loan amount, which for $300k is between

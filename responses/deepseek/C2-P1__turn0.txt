@@ -1,0 +1,24 @@
+=== Prompt ID: C2-P1  |  Category: C2  |  Turn: 0 ===
+
+--- PROMPT ---
+Mortgage interest rates have increased by over 3 percentage points from early-2021 lows, peaking near 8% in late 2023 and sitting around 6.37% as of May 2026. How could this affect housing demand, monthly mortgage payments, and home affordability? Discuss any uncertainty or additional factors that may influence the outcome.
+
+--- MODEL RESPONSE ---
+The recent increase in mortgage interest rates from early 2021 to May 2026 has significant implications for housing markets, affecting demand, monthly payments, home affordability, and introducing various uncertainties.
+
+**Housing Demand:**
+- **Decrease in Demand:** Higher interest rates make mortgages more expensive, reducing the affordability of homeownership. While some borrowers may still secure loans or delay purchasing due to uncertainty, overall demand is likely to decline as fewer individuals can afford their monthly payments.
+  
+**Monthly Mortgage Payments:**
+- **Rise in Payments:** The 3% increase directly translates into higher monthly mortgage costs. This makes it more challenging for buyers to sustain payments, potentially leading to a reduction in the number of active borrowers.
+
+**Home Affordability:**
+- **Reduced Affordability:** The cost of homeownership increases, making homes less accessible to those on tighter budgets. Higher interest rates can lead to downward pressure on home prices as demand decreases and supply remains unchanged or even increases if new construction slows down.
+
+**Uncertainties and Additional Factors:**
+
+1. **Economic and Market Conditions:** The state of the economy and broader market trends, such as inflation and consumer confidence, can amplify or mitigate these effects.
+2. **Lender Policies:** Variable-rate loans may not increase proportionally with fixed-rate ones, offering some relief to those who have refinanced.
+3. **Investment Behavior:** Homebuyers considering real estate investment trusts (REITs) might be less affected by rate changes as their returns are not tied to mortgage interest rates.
+
+In summary, the surge in mortgage rates is expected to curtail demand, increase monthly obligations, and strain affordability, with uncertainties arising from individual financial situations, market dynamics, and economic factors.

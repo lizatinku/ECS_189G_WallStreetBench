@@ -1,0 +1,11 @@
+=== Prompt ID: C4-P3  |  Category: C4  |  Turn: 2 ===
+
+--- PROMPT ---
+What would be a leading indicator that the oil shock is starting to flow through to consumer prices?
+
+--- MODEL RESPONSE ---
+To determine a leading indicator of an oil price shock affecting consumer prices, consider the following key points:
+
+1. **Sector-Specific Cost Increases**: Monitor industries heavily reliant on oil, such as airlines and trucking companies, which may pass higher fuel costs onto consumers through increased ticket prices or shipping fees.
+
+2. **

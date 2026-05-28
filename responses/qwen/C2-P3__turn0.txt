@@ -1,0 +1,7 @@
+=== Prompt ID: C2-P3  |  Category: C2  |  Turn: 0 ===
+
+--- PROMPT ---
+A graduate student is deciding between (i) renting at $1,800/month in a city with 4% annual rent growth or (ii) buying a $320,000 condo at a 6.5% mortgage with 10% down. Walk through the key factors that would tip the decision one way or the other, and where uncertainty matters most.
+
+--- MODEL RESPONSE ---
+

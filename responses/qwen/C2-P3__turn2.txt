@@ -1,0 +1,24 @@
+=== Prompt ID: C2-P3  |  Category: C2  |  Turn: 2 ===
+
+--- PROMPT ---
+How would your answer change if the student's job is in a volatile industry?
+
+--- MODEL RESPONSE ---
+If the graduate student's job is in a **voluntarily volatile industry**, the decision would be influenced by **both time horizon and income predictability**, which are the **key factors** that tip the decision:
+
+### **Key Factors and Uncertainty**  
+1. **Time Horizon**:  
+   - A **shorter time horizon** (e.g., 3–5 years) would make the rental option more attractive if the industry is growing. If the job is volatile, the student might have limited time to invest, increasing the risk of losing money if the rent or income drops.  
+   - Conversely, if the industry is unstable, the student might need to **plan for a longer time horizon** to offset potential losses, creating uncertainty around the decision.
+
+2. **Income Predictability**:  
+   - A **volatile job** would mean the student’s income is **inconsistent**. This reduces the reliability of either the rental or the mortgage payment. For example, if the student’s income fluctuates, they may need to **adjust their budgeting strategy** to account for unpredictable cash flow, increasing uncertainty in the choice.
+
+### **Assumptions and Stress-Testing**  
+- **Assumption**: The student assumes a **stable income and a predictable time frame**. If the job is volatile, this assumption becomes **fragile**, leading to uncertainty in the decision.  
+- **Stress-Test**: To stress-test the assumption, the student could:  
+  - **Simulate income fluctuations** over 5 years (or the time period of the job) to see how the decision would change.  
+  - **Analyze the impact of time horizon** on rent growth: for example, if the student’s job lasts only 3 years, the 4% rent growth would be less than a 10-year period, tipping the decision from rental to purchase.  
+
+### **Conclusion**  
+The volatile job environment introduces **uncertainty** around both the time horizon and income, making the decision between renting and purchasing a home **more fragile**. The student must adjust their planning to account for these variables, possibly by re-evaluating the time horizon or exploring alternative investments to mitigate financial risk.

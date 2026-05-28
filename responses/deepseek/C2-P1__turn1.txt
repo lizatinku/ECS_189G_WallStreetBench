@@ -1,0 +1,11 @@
+=== Prompt ID: C2-P1  |  Category: C2  |  Turn: 1 ===
+
+--- PROMPT ---
+Walk through a concrete example: a household earning $90,000/year considering a $450,000 home. What changes between a 3% and a 6.37% mortgage?
+
+--- MODEL RESPONSE ---
+To understand the impact of a 3% versus a 6.37% mortgage rate on a $450,000 home for a household earning $90,000 annually, we can break down the calculations as follows:
+
+### 1. Monthly Mortgage Payment Calculation:
+The monthly mortgage payment (M) is calculated using the formula:
+\[ M = P \times \frac

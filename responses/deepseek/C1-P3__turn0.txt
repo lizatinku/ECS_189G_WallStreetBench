@@ -1,0 +1,13 @@
+=== Prompt ID: C1-P3  |  Category: C1  |  Turn: 0 ===
+
+--- PROMPT ---
+An ETF tracking U.S. small-cap stocks (e.g., the Russell 2000) underperformed the S&P 500 by about 9 percentage points over the past quarter. What does this trend suggest about the broader market environment, and what should an investor be cautious about when interpreting this gap?
+
+--- MODEL RESPONSE ---
+The underperformance of the Russell 2000 ETF compared to the S&P 500 by about 9 percentage points suggests potential shifts in investor sentiment and market dynamics. Here's a structured analysis:
+
+### Potential Reasons for Underperformance:
+1. **Market Sentiment**: Investors may be favoring large-caps due to risk aversion or uncertainty, pulling capital away from small-caps.
+2. **Economic Data**: Weak economic indicators could lead investors to seek safer investments in large-caps.
+3. **Valuation Levels**: Higher valuations in large-caps might attract more investor interest, making small-caps less attractive.
+4. **Macroeconomic Factors**: High interest rates or inflation could impact small-caps more significantly if they rely on consumer spending

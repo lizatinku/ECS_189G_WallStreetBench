@@ -1,0 +1,23 @@
+=== Prompt ID: C4-P2  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+Between 2021 and early 2026, the cumulative inflation rate in the United States was approximately 21.86%, based on the Consumer Price Index. How could this affect consumer spending, savings behavior, and stock market performance? Identify groups most affected and least affected.
+
+--- MODEL RESPONSE ---
+Between 2021 and early 2026, a 21.86% inflation rate in the U.S. had significant implications on consumer behavior, savings, and financial markets. Here's a breakdown:
+
+### **1. Consumer Spending**
+- **Impact**: Inflation increases prices for goods and services, reducing the purchasing power of consumers. This leads to decreased spending on essentials like food, housing, and healthcare.  
+- **Affected Groups**:  
+  - **Households with fixed income**: Struggling with reduced wages and rising costs.  
+  - **Individuals with limited savings**: Allocating savings to safer assets (cash, bonds) instead of spending on goods.  
+- **Least Affected**:  
+  - **Individuals with high savings or disposable income**: These individuals are less impacted by inflation as they save more.
+
+### **2. Savings Behavior**
+- **Impact**: As prices rise, consumers tend to save more, reducing their ability to spend on goods and services. This shift from spending to saving leads to a decrease in consumer spending.  
+- **Affected Groups**:  
+  - **Households with fixed income**: Realize their income is squeezed.  
+  - **Low-income individuals**: Face financial strain.  
+- **Least Affected**:  
+ 

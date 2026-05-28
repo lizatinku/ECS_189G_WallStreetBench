@@ -1,0 +1,28 @@
+=== Prompt ID: C4-P3  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+Oil prices increased sharply following geopolitical tensions in the Middle East. Which industries are most likely to benefit, and which industries could face challenges? Explain the reasoning behind these effects and the typical time lag between the price move and the industry impact.
+
+--- MODEL RESPONSE ---
+**Industries Most Likely to Benefit from Oil Price Increases:**
+
+1. **Energy and Manufacturing Industries:**  
+   - **Energy Sectors:** Industries that produce or import oil (e.g., refining, manufacturing, and energy companies) would benefit from higher oil prices.  
+   - **Manufacturing:** Industries reliant on oil as a key input (e.g., steel, automotive, and electronics) would see increased demand and cost pressures.  
+
+2. **Transportation and Infrastructure:**  
+   - **Transportation:** Increased oil prices may lead to higher fuel prices, affecting shipping, public transit, and logistics.  
+   - **Infrastructure:** Projects like bridges, highways, or ports could face higher costs due to energy-dependent materials and operations.  
+
+**Industries Most Likely to Face Challenges:**
+
+1. **Oil-Specific Sectors (e.g., Energy Companies):**  
+   - **Energy Sectors:** Supply constraints from geopolitical events could lead to higher prices for oil, even if demand is high. However, if supply is limited, this could create volatility.  
+   - **Energy Technology:** Industries reliant on oil or oil-derived technologies might face challenges due to price fluctuations.  
+
+**Reasoning and Time Lag Explanation:**  
+
+- **Time Lag:** The price increase typically takes **a few weeks to months** to affect industries. For example, transportation companies may see a drop in oil prices, leading to increased costs, while energy sectors might experience higher demand. The time delay allows for a transition from supply-demand imbalance to actual industry impacts.  
+
+**Summary:**  
+- **Benef

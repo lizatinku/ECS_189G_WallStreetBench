@@ -1,0 +1,7 @@
+=== Prompt ID: C4-P1  |  Category: C4  |  Turn: 2 ===
+
+--- PROMPT ---
+Which group is hurt most quickly, and which experiences the impact with the longest lag?
+
+--- MODEL RESPONSE ---
+In analyzing the impact of the U.S. dollar strengthening against other currencies over the past year, it is evident that while international students benefit from reduced conversion costs and increased purchasing power, both multinational companies and import/export businesses experience negative

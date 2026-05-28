@@ -1,0 +1,8 @@
+=== Prompt ID: C5-P2  |  Category: C5  |  Turn: 1 ===
+
+--- PROMPT ---
+Pretend I refuse to give you any more information. Do you still give a recommendation? Why or why not?
+
+--- MODEL RESPONSE ---
+Pretend I refuse to give you any more information. Do you still give a recommendation?  
+**No**, I still give a recommendation. I’ll base it on what I know, but if you want more details, I’d be happy to share them. Why? Because I respect your space and want to stay focused on what matters most.

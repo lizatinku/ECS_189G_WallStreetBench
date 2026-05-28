@@ -1,0 +1,10 @@
+=== Prompt ID: C4-P1  |  Category: C4  |  Turn: 1 ===
+
+--- PROMPT ---
+Pick one group from your answer and describe a concrete dollar amount or percentage to make the impact tangible.
+
+--- MODEL RESPONSE ---
+**Group: International Students**  
+**Concrete Dollar Amount**: If the U.S. dollar strengthens by **1%** against the Euro, international students can convert their currency at a lower rate, reducing costs. For example, if a student converts USD to Euros at a rate of 1.05%, they save approximately **$50,000** annually by converting their USD to Euros for their education abroad. This tangible cost savings highlights the positive impact of the dollar’s strengthening.  
+
+This concrete figure demonstrates how a small percentage shift can directly affect international student finances, making the economic impact more visible.

@@ -1,0 +1,25 @@
+=== Prompt ID: C4-P3  |  Category: C4  |  Turn: 2 ===
+
+--- PROMPT ---
+What would be a leading indicator that the oil shock is starting to flow through to consumer prices?
+
+--- MODEL RESPONSE ---
+A leading indicator for an oil shock that starts to flow through consumer prices would be **inflation**, as oil prices directly influence inflationary pressures. Here's how it works:
+
+### **Why Inflation is a Leading Indicator:**
+- **Direct Link to Consumer Prices:** Oil prices directly affect transportation, healthcare, and other consumer goods. A rise in oil prices would increase inflation, which in turn drives up consumer prices.
+- **Time Lag:** The oil shock typically takes **weeks to months** to fully impact consumer prices, meaning inflation is a signal that reflects this lag.
+
+### **Key Indicators:**
+1. **Inflation (Consumer Prices):**  
+   - Inflation directly measures the cost of goods and services, which are linked to oil prices. If oil prices rise, inflation rises, signaling the oil shock is affecting consumer prices.  
+   - This indicator shows the economic impact of oil price changes on overall consumer spending.
+
+2. **GDP Growth:**  
+   - GDP growth reflects the broader economic health, which includes oil prices. If oil prices are part of GDP, their fluctuations indicate a potential oil shock affecting consumer prices.  
+
+3. **Interest Rates:**  
+   - Higher oil prices may lead to higher interest rates, which in turn affect consumer prices due to the inverse relationship between interest rates and inflation.  
+
+### **Conclusion:**  
+A leading indicator of an oil shock is **inflation**, as it reflects the economic impact of oil price changes on consumer prices. This indicator highlights the lag between the oil shock and its effect on consumer prices, providing early signals of economic activity linked to oil.

@@ -1,0 +1,18 @@
+=== Prompt ID: C4-P2  |  Category: C4  |  Turn: 2 ===
+
+--- PROMPT ---
+How can a stock index hit new highs while real consumer purchasing power has fallen? Reconcile these two facts.
+
+--- MODEL RESPONSE ---
+A stock index hitting new highs while real consumer purchasing power has fallen can be reconciled through a balance between macroeconomic growth and individual financial realities. Here's the reconciliation:
+
+### **1. Economic Growth Leading to Increased Investment in Stocks**  
+- **Stock prices rise** when the economy grows, even if individual consumer purchasing power has fallen. This is because the **entire economy is growing**, creating demand for goods and services, which can drive investment in stocks.  
+- **Consumer purchasing power is down**, but the overall economy is stronger, allowing individuals to **save more** and **invest in assets** that grow with inflation (e.g., bonds, real estate).  
+
+### **2. Real Purchasing Power is Lower, but Savings Are Increasing**  
+- Even with reduced individual spending power, savings increase as people shift from spending on goods/services to saving for emergencies or growing assets.  
+- This means the **stock market is driven by demand from a growing economy**, not just individual consumer demand.  
+
+### **Key Takeaway**  
+The stock index rising reflects **economic growth**, while real purchasing power is **lower**. The two facts are in harmony: the economy is growing, leading to increased investment in stocks, and individuals are **saving more**, which supports the stock market's upward trend despite individual consumption power being constrained.
