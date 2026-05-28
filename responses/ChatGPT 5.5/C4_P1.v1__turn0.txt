@@ -1,0 +1,188 @@
+=== Prompt ID: C4-P1.v1  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+The dollar has gained noticeably against several major currencies in the past year. Walk through who benefits and who loses across students, multinationals, and trade-exposed firms.
+
+--- MODEL RESPONSE ---
+When the U.S. dollar strengthens against other currencies, one dollar buys more foreign currency than before. That sounds abstract, but it changes real prices, profits, tuition costs, and competitive dynamics across the economy.
+
+The key idea is simple: a stronger dollar makes **foreign goods and services cheaper for Americans**, but it makes **U.S. goods, services, and assets more expensive for foreigners**.
+
+For example, if the exchange rate moves from €1 = $1.10 to €1 = $0.95, Americans suddenly have more purchasing power in Europe, while Europeans effectively face higher prices for U.S. products.
+
+### International students: mixed effects depending on direction
+
+For international students studying in the U.S., a stronger dollar is usually painful.
+
+Suppose tuition is $50,000:
+
+* At an exchange rate of 10 local currency units per dollar, the family pays 500,000 units.
+* If the dollar strengthens 15%, they may suddenly need 575,000 units for the same tuition bill.
+
+Nothing changed at the university — but the education became materially more expensive in home-country terms.
+
+Students from countries with weakening currencies often face:
+
+* higher effective tuition costs,
+* more expensive rent and living expenses,
+* increased pressure on family savings,
+* greater need for loans or part-time work.
+
+This effect can be especially severe in emerging markets where local wages do not adjust quickly.
+
+On the other hand, American students studying abroad often benefit:
+
+* tuition overseas becomes cheaper in dollar terms,
+* travel spending stretches further,
+* imported electronics and foreign goods cost less.
+
+A strong dollar effectively increases Americans’ global purchasing power. ([U.S. Bank][1])
+
+### Multinational corporations: translation headwinds
+
+Large U.S. multinationals are often hurt by a stronger dollar, especially firms with substantial overseas revenue.
+
+Consider a U.S. tech company selling software in Europe:
+
+* It earns €1 billion in revenue.
+* When euros are converted back into dollars, those euros buy fewer dollars if the dollar has strengthened.
+
+So even if European sales volumes are unchanged, reported U.S.-dollar revenue may fall.
+
+This is called a **currency translation effect**.
+
+Industries commonly exposed:
+
+* technology,
+* pharmaceuticals,
+* consumer brands,
+* industrial exporters,
+* luxury goods.
+
+Companies like Apple Inc., Microsoft Corporation, and Coca-Cola Company derive large shares of revenue internationally, so exchange-rate moves can noticeably affect earnings reports.
+
+Investors often pay close attention to:
+
+* “constant currency” growth,
+* FX hedging programs,
+* management commentary on currency headwinds.
+
+A strong dollar can reduce earnings growth even when the underlying business remains healthy. ([U.S. Bank][1])
+
+There is also a competitiveness issue:
+
+* U.S. products become more expensive abroad,
+* foreign competitors may gain market share,
+* export demand can weaken.
+
+A European buyer comparing aircraft, machinery, or software now sees the American product as more expensive in local currency terms.
+
+### Trade-exposed U.S. firms: winners and losers
+
+Trade-sensitive firms split into two broad camps.
+
+#### Likely losers: exporters
+
+U.S. exporters usually struggle under a stronger dollar because their products become less price-competitive globally.
+
+Examples:
+
+* manufacturers,
+* agricultural exporters,
+* industrial equipment firms,
+* aerospace companies.
+
+If a tractor costs $100,000:
+
+* foreign buyers may have been able to buy it for €90,000 before,
+* but after dollar appreciation, it may effectively cost €105,000.
+
+Demand can weaken even if the U.S. company never changes its sticker price.
+
+That pressure can eventually affect:
+
+* sales volumes,
+* factory utilization,
+* hiring,
+* profit margins.
+
+This is why export-heavy sectors often dislike rapid dollar appreciation. ([ManiInfo Global][2])
+
+#### Likely winners: importers and retailers
+
+Companies that rely heavily on imports can benefit.
+
+Examples include:
+
+* retailers,
+* electronics importers,
+* firms sourcing components overseas.
+
+A stronger dollar means imported inventory becomes cheaper in dollar terms:
+
+* lower input costs,
+* potentially higher margins,
+* or lower consumer prices.
+
+For example:
+
+* apparel retailers importing from Asia,
+* auto dealers importing foreign vehicles,
+* firms dependent on foreign raw materials.
+
+Consumers may benefit too, because imported goods become less expensive relative to domestic alternatives. ([U.S. Bank][1])
+
+### Investors and financial markets
+
+Currency strength also changes capital flows.
+
+A strong dollar often reflects:
+
+* relatively high U.S. interest rates,
+* investor confidence in U.S. assets,
+* “safe haven” demand during uncertainty.
+
+Foreign investors may buy:
+
+* U.S. Treasury bonds,
+* U.S. stocks,
+* dollar-denominated assets.
+
+That inflow can support U.S. financial markets. ([Deloitte][3])
+
+But there is a tradeoff:
+
+* strong-dollar periods can hurt corporate earnings,
+* especially for globally exposed firms,
+* which may weigh on stock prices later.
+
+So equity investors often see a stronger dollar as:
+
+* good for domestically focused companies,
+* harder for export-heavy multinationals.
+
+### The timing matters
+
+Currency effects rarely hit all at once.
+
+Some impacts are immediate:
+
+* tuition payments,
+* tourism spending,
+* import pricing.
+
+Others arrive with delays:
+
+* corporate earnings revisions,
+* supply-chain adjustments,
+* export demand shifts,
+* hiring changes.
+
+Large firms also hedge currencies, which can delay the impact for quarters rather than weeks. ([The Wall Street Journal][4])
+
+The broader lesson is that exchange rates redistribute purchasing power. A stronger dollar is not “good” or “bad” universally — it shifts advantages between consumers and producers, importers and exporters, domestic firms and global firms.
+
+[1]: https://www.usbank.com/investing/financial-perspectives/market-news/the-recovering-value-of-the-us-dollar.html?utm_source=chatgpt.com "The U.S. dollar’s fluctuating value and what it means for investors | U.S. Bank"
+[2]: https://cksaksens.com/global/en-us/dollar-strength-in-2025-how-exchange-rate-volatility-is-squeezing-u-s-exporters/?utm_source=chatgpt.com "Dollar Strength in 2025: How Exchange Rate Volatility Is Squeezing U.S. Exporters USA ManiInfo Global"
+[3]: https://www2.deloitte.com/us/en/insights/economy/spotlight/united-states-dollar-strength-amid-economic-uncertainty.html?utm_source=chatgpt.com "US dollar strength amid economic uncertainty | Deloitte Insights"
+[4]: https://www.wsj.com/articles/squeezed-by-strong-dollar-companies-try-to-neutralize-currency-swings-5671a056?utm_source=chatgpt.com "Squeezed by Strong Dollar, Companies Try to Neutralize Currency Swings"

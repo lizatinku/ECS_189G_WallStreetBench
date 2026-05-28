@@ -1,0 +1,111 @@
+=== Prompt ID: C2-P1.v2  |  Category: C2  |  Turn: 0 ===
+
+--- PROMPT ---
+Mortgage rates are still more than double their 2021 lows. Discuss the implications for first-time home buyers, existing homeowners, and the broader housing market.
+
+--- MODEL RESPONSE ---
+When mortgage rates more than double—as they have since 2021—it doesn’t just “cool” housing a bit; it reshapes who can buy, who will sell, and how the entire market behaves. The effects differ sharply across groups:
+
+---
+
+## 1) First-Time Home Buyers: Affordability Shock
+
+The most immediate and severe impact lands here.
+
+* **Monthly payment explosion:** A buyer who could afford a $500k home at ~3% may only afford ~$350k–$375k at ~6.5% for the same monthly payment. That’s not a small adjustment—it’s a different tier of housing.
+* **Down payment barrier rises:** Higher rates mean more of the payment goes to interest, making it harder to build equity early.
+* **Qualification gets tougher:** Higher rates increase debt-to-income ratios, pushing some buyers out entirely.
+
+**Behavioral shift:**
+
+* Many delay buying (“wait for rates to fall”)
+* Others compromise (smaller homes, different locations, condos instead of single-family)
+
+**Key implication:** Demand from first-time buyers weakens, especially at the lower end of the market.
+
+---
+
+## 2) Existing Homeowners: The “Lock-In Effect”
+
+This group behaves almost the opposite way.
+
+* Millions of homeowners locked in **2–3% mortgages** during 2020–2021.
+* Selling means giving up that cheap financing and replacing it with a ~6%+ loan.
+
+**Result:**
+
+* Homeowners are **far less willing to sell**, even if they might otherwise move.
+
+**Consequences:**
+
+* Reduced housing supply (fewer listings)
+* Less mobility (people stay in homes that no longer fit their needs)
+
+**Subtle effect:**
+
+* Some choose to renovate instead of move, boosting remodeling activity.
+
+---
+
+## 3) Broader Housing Market: Frozen, Not Crashing
+
+You might expect high rates to cause a price collapse—but that’s not quite what happens.
+
+### a) Supply vs. Demand Imbalance
+
+* **Demand falls** (affordability hit)
+* **Supply also falls** (lock-in effect)
+
+These forces partially offset each other.
+
+👉 Result:
+
+* **Transaction volume drops sharply** (fewer homes bought/sold)
+* **Prices soften or stagnate**, but don’t necessarily crash
+
+---
+
+### b) Price Dynamics Become Segmented
+
+* **Entry-level homes:** Still relatively supported (limited supply, persistent demand)
+* **Move-up homes:** Weaker demand (buyers constrained by rates)
+* **Luxury market:** Less rate-sensitive, more stable
+
+---
+
+### c) Builders and New Construction
+
+Homebuilders become more important:
+
+* They can offer **rate buydowns** (subsidizing lower mortgage rates)
+* They help fill the supply gap left by reluctant sellers
+
+So paradoxically:
+
+* New construction may hold up better than existing home sales
+
+---
+
+## 4) Second-Order Economic Effects
+
+Higher mortgage rates ripple outward:
+
+* **Lower housing turnover → less spending** on furniture, appliances, moving services
+* **Weaker wealth effect:** Slower home price growth reduces perceived household wealth
+* **Rental pressure:** More people rent longer → rents may rise
+
+---
+
+## Bottom Line
+
+* **First-time buyers:** Priced out or forced to compromise
+* **Existing homeowners:** Stay put → supply constrained
+* **Market overall:** Slower, less liquid, “frozen” rather than collapsing
+
+The key insight is this:
+
+> High rates don’t just reduce demand—they also restrict supply, which is why housing markets often stall instead of crash.
+
+---
+
+If you want, I can quantify this with a quick example (e.g., how monthly payments change for a specific home price), which makes the affordability shift very concrete.
