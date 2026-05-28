@@ -1,0 +1,26 @@
+=== Prompt ID: C1-P2  |  Category: C1  |  Turn: 2 ===
+
+--- PROMPT ---
+What is the smallest amount of additional data that would meaningfully change your reasoning?
+
+--- MODEL RESPONSE ---
+The smallest useful addition would be the **exact six-week date range plus one broad risk-appetite benchmark**, such as the **S&P 500/Nasdaq and VIX** over the same period.
+
+That would meaningfully change the reasoning because:
+
+* **If Bitcoin fell while equities also fell and VIX rose**, the “risk-off” interpretation becomes much stronger.
+* **If Bitcoin fell while equities were stable/rising and VIX was calm**, then the Bitcoin move looks more likely **crypto-specific**, not evidence of a broad safe-haven shift.
+* **If gold rose while real yields fell or geopolitical stress increased**, gold’s rise looks more like classic safe-haven behavior.
+* **If gold rose for technical/central-bank/dollar reasons**, then the gold-Bitcoin divergence says less about investor fear.
+
+So the absolute minimum I’d want is:
+
+**1. The exact dates**
+**2. S&P 500 or Nasdaq performance**
+**3. VIX movement**
+
+With only those, I could already distinguish between:
+
+**“Investors broadly moved away from risk”**
+versus
+**“Bitcoin had a crypto-specific selloff while gold moved for unrelated reasons.”**

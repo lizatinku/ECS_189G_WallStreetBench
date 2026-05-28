@@ -1,0 +1,47 @@
+=== Prompt ID: C4-P3  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+Oil prices increased sharply following geopolitical tensions in the Middle East. Which industries are most likely to benefit, and which industries could face challenges? Explain the reasoning behind these effects and the typical time lag between the price move and the industry impact.
+
+--- MODEL RESPONSE ---
+Higher oil prices usually create **sector rotation**: money moves toward firms that sell energy and away from firms that consume a lot of fuel or petroleum-based inputs.
+
+### Likely beneficiaries
+
+| Industry                                                  | Why they benefit                                                                                                  | Typical lag                                                       |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Oil & gas producers / exploration & production**        | Revenue rises almost immediately when crude prices rise, especially for unhedged producers.                       | **Same day to weeks** in stock prices; **1 quarter** in earnings. |
+| **Integrated energy majors**                              | Upstream production benefits from higher crude prices, though refining/chemicals may offset some gains.           | **Weeks to 1 quarter**.                                           |
+| **Oilfield services & equipment**                         | Producers may increase drilling, maintenance, and service spending if they believe high prices will persist.      | **3–12+ months**, because capex decisions take time.              |
+| **LNG, natural gas, coal, renewables, EV infrastructure** | Higher oil prices make substitute energy sources more attractive, especially if security-of-supply concerns rise. | **Months to years**, not immediate.                               |
+| **Tankers / energy shipping**                             | If Middle East tensions disrupt shipping routes, freight rates and insurance-related pricing can rise sharply.    | **Days to weeks**.                                                |
+
+The current mechanism is a supply-risk shock: disruptions or fears around Middle Eastern energy flows push crude and refined-product prices higher. The IEA has noted that Middle East disruptions have major implications for energy security, affordability, and the world economy, and its May 2026 oil report described a sharp price surge tied to disrupted Middle East flows. ([IEA][1])
+
+### Likely challenged industries
+
+| Industry                                          | Why they are hurt                                                                                                     | Typical lag                                 |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| **Airlines**                                      | Jet fuel is one of the largest airline operating costs, so margins get squeezed unless fares rise enough.             | **Weeks to 1 quarter**; faster if unhedged. |
+| **Trucking, logistics, delivery, shipping**       | Diesel/fuel costs rise. Firms with fuel surcharges can pass costs through faster; others face margin pressure.        | **Weeks to 2 months**.                      |
+| **Chemicals, plastics, petrochemicals**           | Oil and natural gas liquids are feedstocks, so input costs rise.                                                      | **1–2 quarters**.                           |
+| **Consumer discretionary / retail / restaurants** | Higher gasoline and utility costs reduce consumers’ disposable income; transport costs also raise supply-chain costs. | **1–3 quarters**.                           |
+| **Autos, especially large vehicles**              | High gasoline prices reduce demand for fuel-inefficient cars and can shift demand toward hybrids/EVs.                 | **1–3 quarters**.                           |
+| **Manufacturing / agriculture**                   | Energy, transport, fertilizers, packaging, and raw-material costs increase.                                           | **1–2 quarters**.                           |
+
+Airlines are usually among the most exposed because fuel is a large and volatile cost. IATA’s cost breakdown shows aircraft fuel and oil as a major airline expense, and recent reporting on the 2026 shock described materially higher airline fuel spending and fare pressure. ([IATA][2])
+
+### Why the lag differs
+
+The **stock market reaction** is usually immediate because investors reprice expected future profits quickly. The **real operating impact** takes longer because companies use inventories, hedging contracts, fuel surcharges, long-term supply contracts, and price adjustments. Retail gasoline is one of the fastest pass-through channels: classic research found a crude-price increase was substantially reflected in gasoline prices within the first few weeks, with more adjustment after that. ([Haas School of Business Faculty][3])
+
+So the simplest answer is:
+
+**Winners:** upstream oil & gas, energy majors, oilfield services, energy shipping, and substitute energy sectors.
+**Losers:** airlines, transportation/logistics, chemicals, consumer discretionary, autos, manufacturing, and agriculture.
+
+The impact is **fastest in financial markets and fuel-sensitive industries**, but **slower in capex-heavy or consumer-demand channels**.
+
+[1]: https://www.iea.org/topics/the-middle-east-and-global-energy-markets?utm_source=chatgpt.com "The Middle East and Global Energy Markets – Topics"
+[2]: https://www.iata.org/en/publications/newsletters/iata-knowledge-hub/unveiling-the-biggest-airline-costs/?utm_source=chatgpt.com "Unveiling the biggest airline costs"
+[3]: https://faculty.haas.berkeley.edu/borenste/download/QJE97GasAsym.pdf?utm_source=chatgpt.com "Do Gasoline Prices Respond Asymmetrically to Crude Oil ..."

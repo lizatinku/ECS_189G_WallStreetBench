@@ -1,0 +1,22 @@
+=== Prompt ID: C1-P2  |  Category: C1  |  Turn: 1 ===
+
+--- PROMPT ---
+Is the comparison between gold and Bitcoin a fair one for inferring 'safe-haven' behavior? Why or why not?
+
+--- MODEL RESPONSE ---
+Not fully. It is a **useful comparison**, but not enough by itself to infer “safe-haven” behavior.
+
+Gold is traditionally treated as a safe-haven asset because it has a long history of being held during inflation fears, geopolitical stress, currency weakness, and market uncertainty. Bitcoin is sometimes called “digital gold,” but its behavior is less stable: it often trades like a **high-volatility risk asset**, especially when liquidity tightens or speculative appetite falls.
+
+So comparing gold and Bitcoin is fair **only as a starting point**. If gold rises while Bitcoin falls, it may suggest investors preferred a traditional store of value over a speculative asset. But that does not automatically prove gold acted as a safe haven or Bitcoin failed as one.
+
+The main issue is that the two assets respond to different forces:
+
+| Asset   | Often responds to                                                                                         |
+| ------- | --------------------------------------------------------------------------------------------------------- |
+| Gold    | real interest rates, inflation expectations, dollar strength, geopolitical risk, central bank demand      |
+| Bitcoin | liquidity, risk appetite, tech/crypto sentiment, regulation, ETF flows, leverage, speculative positioning |
+
+A stronger safe-haven claim would require comparing both assets against a broader stress environment: stocks, bonds, the dollar, VIX, real yields, fund flows, and the specific news during that six-week period.
+
+So the careful answer is: **gold vs. Bitcoin is a reasonable contrast, but it is not sufficient evidence on its own.** To infer safe-haven behavior, we need to see whether gold consistently protected value during broader market stress, and whether Bitcoin’s decline was due to general risk-off behavior or crypto-specific factors.

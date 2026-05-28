@@ -1,0 +1,35 @@
+=== Prompt ID: C2-P3  |  Category: C2  |  Turn: 2 ===
+
+--- PROMPT ---
+How would your answer change if the student's job is in a volatile industry?
+
+--- MODEL RESPONSE ---
+If the student’s job is in a **volatile industry**, I would shift the answer noticeably toward **renting**, or at least toward **delaying buying** until their income is more stable.
+
+The reason is that buying adds **fixed obligations** and **exit friction**. The mortgage is not just the $1,820 principal-and-interest payment; affordability should include taxes, insurance, mortgage insurance, HOA fees, and other loan costs, not just the headline mortgage payment. The CFPB specifically advises buyers to assess their finances and monthly budget before choosing a mortgage, and notes that mortgage choice involves costs beyond the interest rate or monthly payment. ([Consumer Financial Protection Bureau][1])
+
+So the fragile assumption changes from:
+
+**“How long will the student stay?”**
+
+to:
+
+**“Can the student keep paying during a bad income shock?”**
+
+For a volatile-industry job, I would stress-test the buying scenario like this:
+
+| Stress test                  | Question                                                                       |
+| ---------------------------- | ------------------------------------------------------------------------------ |
+| 6 months unemployed          | Can they cover mortgage + HOA + insurance + food + debt without panic-selling? |
+| 20–30% income drop           | Does the condo still fit the budget?                                           |
+| Forced relocation            | Can they rent out the condo at a cash-flow-neutral level?                      |
+| Condo value drops 10%        | Can they sell without bringing cash to closing?                                |
+| HOA/special assessment shock | Could they absorb an unexpected $3k–$10k expense?                              |
+
+The decision would tip back toward buying only if they have a **large emergency fund after the down payment**, stable backup income/family support, strong job prospects in the same city, and the condo could realistically be rented out if they need to move.
+
+My revised bottom line:
+
+**With volatile income, renting is the safer default.** Buying only makes sense if the student can survive unemployment or relocation without being forced to sell at a bad time.
+
+[1]: https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/?utm_source=chatgpt.com "Figure out how much you want to spend"

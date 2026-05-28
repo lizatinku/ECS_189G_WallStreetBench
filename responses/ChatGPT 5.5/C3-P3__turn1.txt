@@ -1,0 +1,39 @@
+=== Prompt ID: C3-P3  |  Category: C3  |  Turn: 1 ===
+
+--- PROMPT ---
+What would have to be true for the acquirer's stock to rise on the announcement instead?
+
+--- MODEL RESPONSE ---
+For the acquirer’s stock to rise, the market would need to believe the deal is **value-creating for the buyer’s shareholders**, not just good for the target.
+
+That usually means several things would have to be true:
+
+1. **The price is seen as attractive**
+
+   The market believes the acquirer is not overpaying. Even with a premium, the target may be undervalued, strategically important, or worth more inside the acquirer than as a standalone company.
+
+2. **Synergies are credible and large**
+
+   Investors believe the combined airline can generate real benefits, such as lower costs, better route coverage, higher load factors, stronger pricing power, improved aircraft utilization, or shared loyalty-program value. The key is that these synergies must exceed the acquisition premium.
+
+3. **Integration risk is manageable**
+
+   The market trusts that the acquirer can integrate fleets, labor contracts, operations, IT systems, and regional routes without major disruption.
+
+4. **The deal improves the acquirer’s strategic position**
+
+   For example, the regional carrier may give the acquirer access to valuable airport slots, feeder routes, underserved markets, or a stronger regional network that supports its mainline business.
+
+5. **Financing is not too costly**
+
+   If the acquirer can fund the deal without taking on excessive debt, issuing undervalued stock, or weakening its balance sheet, investors may respond more positively.
+
+6. **Management has credibility**
+
+   If the acquirer has a strong track record of disciplined capital allocation and successful integrations, the market is more likely to believe the projected benefits.
+
+So the acquirer’s stock rises when investors think:
+
+**Value of target inside acquirer + expected synergies − purchase price − integration/financing risk > 0**
+
+In plain English: the market believes the buyer is getting more than it is paying for.

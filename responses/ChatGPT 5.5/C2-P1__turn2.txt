@@ -1,0 +1,26 @@
+=== Prompt ID: C2-P1  |  Category: C2  |  Turn: 2 ===
+
+--- PROMPT ---
+What macro variable would have to change to most effectively offset the affordability hit you described?
+
+--- MODEL RESPONSE ---
+The **most effective macro variable would be mortgage interest rates themselves**, which are closely tied to long-term Treasury yields and expected inflation.
+
+In the example, the household’s affordability problem comes mainly from the rate jump:
+
+| Scenario            | Monthly P&I | Total housing cost estimate | Housing cost / income |
+| ------------------- | ----------: | --------------------------: | --------------------: |
+| $450k home at 3%    |     ~$1,518 |                     ~$2,137 |                ~28.5% |
+| $450k home at 6.37% |     ~$2,245 |                     ~$2,864 |                ~38.2% |
+
+To offset that affordability hit, different variables would need to move by very different amounts:
+
+| Variable that changes |                                                                          Needed change to roughly restore old affordability |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------: |
+| **Mortgage rate**     |                                                                                        Fall from **6.37% back to about 3%** |
+| **Household income**  |                                                                                Rise from **$90,000 to about $120,600/year** |
+| **Home price**        | Fall from **$450,000 to roughly $330,000** with taxes included, or about **$304,000** if only matching the mortgage payment |
+
+So the cleanest answer is: **lower mortgage rates** would be the most direct and powerful offset.
+
+But if rates stay high, then the offset would have to come from either **much faster income growth** or a **large decline in home prices**. In practice, income usually does not rise 30% quickly, and home prices often adjust slowly because supply is limited and sellers resist cutting prices. That is why high mortgage rates can cause affordability to deteriorate sharply even without home prices rising.

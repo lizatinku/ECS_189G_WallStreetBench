@@ -1,0 +1,32 @@
+=== Prompt ID: C2-P3  |  Category: C2  |  Turn: 1 ===
+
+--- PROMPT ---
+Which assumption in your analysis is most fragile, and what would you do to stress-test it?
+
+--- MODEL RESPONSE ---
+The most fragile assumption is **holding period**: the idea that the student will stay long enough for buying to overcome transaction costs and early mortgage-interest-heavy payments.
+
+For a graduate student, this is especially uncertain because graduation, job placement, internships, visa/location constraints, relationship/family changes, or PhD/postdoc plans can force a move earlier than expected.
+
+To stress-test it, I would run a break-even table across different exit dates:
+
+| Scenario           | What to test                                               | Likely implication            |
+| ------------------ | ---------------------------------------------------------- | ----------------------------- |
+| Sell after 2 years | Closing costs + selling costs + little principal paid down | Buying likely loses           |
+| Sell after 3 years | Some rent growth, but still high transaction cost burden   | Usually still risky           |
+| Sell after 5 years | More rent inflation avoided, more equity built             | Buying may become competitive |
+| Keep 7+ years      | Rent keeps compounding, mortgage fixed                     | Buying becomes much stronger  |
+
+Then I’d add pessimistic assumptions:
+
+* Condo value falls **5–10%**
+* Rent growth is only **1–2%**, not 4%
+* HOA rises or special assessment appears
+* No refinance opportunity
+* Student must sell quickly after graduation
+
+The key stress test is:
+
+**“If I had to move in 2–3 years, would buying still be tolerable, or would it create a financial problem?”**
+
+If the answer is “that would be painful,” renting is probably the safer choice. If the student can either stay long-term or rent out the condo after moving, then buying becomes much less fragile.

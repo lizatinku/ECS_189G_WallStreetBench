@@ -1,0 +1,41 @@
+=== Prompt ID: C3-P1  |  Category: C3  |  Turn: 1 ===
+
+--- PROMPT ---
+Under what conditions would the same layoff news cause the stock to drop instead?
+
+--- MODEL RESPONSE ---
+The stock would likely **drop** if investors read the layoffs as evidence of **weakness**, not efficiency.
+
+For the same Coinbase / Oracle / Atlassian type of layoff news, the negative reaction would be more likely under these conditions:
+
+1. **Layoffs signal demand is slowing**
+
+   If investors think the company is cutting workers because revenue growth is weakening, customer demand is soft, or the core business is under pressure, the layoff becomes a bad signal. For example, Coinbase’s layoffs came amid crypto-market volatility and subdued trading activity, so investors could interpret cuts as a response to weaker transaction revenue rather than just AI efficiency. ([Reuters][1])
+
+2. **The company cuts while still spending heavily on AI**
+
+   If management says, “We are reducing headcount but investing more in AI,” investors may ask: is AI actually improving productivity, or is the company just replacing labor costs with expensive capex? Oracle’s case is relevant because its restructuring costs were expected to reach up to **$2.1 billion**, largely tied to severance and related expenses, while the company was also investing heavily in AI/cloud infrastructure. ([Reuters][2])
+
+3. **The layoffs look reactive, not strategic**
+
+   Stock prices can rise when layoffs look planned and disciplined. But they can fall if the announcement feels like emergency cost-cutting. For instance, if a company cuts many employees shortly after missing earnings, lowering guidance, or losing customers, investors may think management is behind the curve.
+
+4. **Layoffs damage future growth capacity**
+
+   If the company cuts engineers, sales teams, customer support, or product teams that are central to growth, investors may worry that lower costs today will mean weaker innovation and revenue tomorrow. Atlassian framed its cuts as a way to self-fund AI and enterprise-sales investment, but if investors believed the cuts would hurt execution or product quality, the stock reaction could easily turn negative. ([Atlassian][3])
+
+5. **The market thinks the “AI efficiency” story is overhyped**
+
+   A layoff framed around AI can be positive if investors believe AI will genuinely raise output per employee. But if they think the company is using AI as a cover for ordinary weakness, the signal becomes negative. Recent reporting has noted concern that some companies may be “AI washing” layoffs rather than demonstrating real AI-driven productivity gains. ([Business Insider][4])
+
+So the basic rule is:
+
+**Stock rises when layoffs suggest higher future margins without hurting growth.**
+**Stock falls when layoffs suggest lower future growth, weak demand, poor execution, or expensive restructuring.**
+
+In other words, investors are not reacting to “fewer employees” alone. They are reacting to what the layoffs imply about the company’s future earnings power.
+
+[1]: https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/?utm_source=chatgpt.com "Crypto exchange Coinbase to cut about 14% of workforce in AI-driven restructuring"
+[2]: https://www.reuters.com/business/world-at-work/oracle-begins-cutting-thousands-jobs-cnbc-reports-2026-03-31/?utm_source=chatgpt.com "Oracle begins layoffs affecting thousands, CNBC reports"
+[3]: https://www.atlassian.com/blog/company-news/atlassian-team-update-march-2026?utm_source=chatgpt.com "An important update on our team - Inside Atlassian"
+[4]: https://www.businessinsider.com/list-companies-replacing-human-employees-with-ai-layoffs-workforce-reductions?utm_source=chatgpt.com "14 companies that have said they're doing AI-related layoffs"

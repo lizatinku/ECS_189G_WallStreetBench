@@ -1,0 +1,17 @@
+=== Prompt ID: C5-P1  |  Category: C5  |  Turn: 1 ===
+
+--- PROMPT ---
+What single piece of information about the stock would most change your advice?
+
+--- MODEL RESPONSE ---
+The single piece of information that would most change my advice is:
+
+**How much the stock could realistically fall in a short period — its downside risk/volatility.**
+
+For an emergency fund, the key question is not “how much can this stock go up?” but:
+
+> “Could this money be down 20%, 40%, or more exactly when I need it?”
+
+Even a strong company with good momentum can be a bad place for emergency savings if the stock is volatile.
+
+That said, even if XYZ had excellent fundamentals, I still would **not** advise putting the **entire emergency fund** into one stock. The advice might change from “avoid this” to “maybe consider investing some separate long-term money,” but not the emergency fund itself.

@@ -1,0 +1,53 @@
+=== Prompt ID: C4-P2  |  Category: C4  |  Turn: 0 ===
+
+--- PROMPT ---
+Between 2021 and early 2026, the cumulative inflation rate in the United States was approximately 21.86%, based on the Consumer Price Index. How could this affect consumer spending, savings behavior, and stock market performance? Identify groups most affected and least affected.
+
+--- MODEL RESPONSE ---
+A **21.86% cumulative CPI increase** means that a basket costing **$100 in 2021 would cost about $121.86 by early 2026**. So the main effect is a loss of purchasing power unless income, benefits, or investment returns rose by at least the same amount.
+
+## Consumer spending
+
+Inflation would likely make consumers more selective. Spending on **necessities** such as food, rent, utilities, transportation, insurance, and medical care tends to be protected, while spending on **discretionary goods** like restaurants, travel, electronics, entertainment, and apparel becomes easier to cut. The Fed’s household survey found that many adults changed behavior in response to higher prices, especially through spending changes. ([Federal Reserve][1])
+
+It can also shift consumers toward **cheaper substitutes**: store brands, used goods, smaller package sizes, discount retailers, fewer services, and delayed big purchases. For firms, this often means demand weakens first in sectors where purchases are optional or debt-financed, such as furniture, cars, housing-related goods, and luxury items.
+
+## Savings behavior
+
+Inflation can reduce real savings in two ways. First, households need more cash for the same lifestyle, leaving less money to save. Second, cash savings lose real value unless interest rates compensate. For example, if prices rose 21.86%, someone whose bank balance stayed at $10,000 lost meaningful purchasing power.
+
+But higher inflation also tends to push interest rates up. That can encourage some people to move money into **high-yield savings accounts, CDs, Treasury bills, money market funds, or inflation-protected assets**. The overall effect is split: lower-income households may save less because budgets are squeezed, while higher-income households may benefit from higher yields on savings. FRED tracks the U.S. personal saving rate through March 2026, showing savings behavior remained an important macro indicator during this period. ([FRED][2])
+
+## Stock market performance
+
+Inflation affects stocks through several channels. Higher inflation usually leads to **higher interest rates**, which raises borrowing costs and lowers the present value of future corporate earnings. That is especially negative for long-duration growth stocks, tech stocks, and companies dependent on cheap financing. The Fed’s 2022–2023 rate hikes took the federal funds target from near zero to over 5%, which was a major reason markets struggled in 2022. ([Forbes][3])
+
+## Stock market information for SPDR S&P 500 ETF Trust (SPY)
+
+* SPDR S&P 500 ETF Trust is a fund in the USA market.
+* The price is 752.73 USD currently with a change of 2.27 USD (0.00%) from the previous close.
+* The latest open price was 750.21 USD and the intraday volume is 11348544.
+* The intraday high is 753.65 USD and the intraday low is 748.2 USD.
+* The latest trade time is Thursday, May 28, 07:59:02 PDT.
+
+The effect is not always negative. Companies with pricing power can pass costs to consumers, and nominal revenues may rise during inflation. Energy, commodities, defense, consumer staples, and some financial firms can perform relatively better. The S&P 500 fell sharply in 2022, then recovered strongly in 2023 and 2024, showing that inflation hurt valuations at first but did not prevent later gains once earnings, AI optimism, and expectations about rates improved. ([MacroTrends][4])
+
+## Most affected groups
+
+The most affected groups are usually **low-income households, renters, people with fixed incomes, students, and workers whose wages did not keep up with prices**. They spend a larger share of income on necessities, so they have less flexibility to cut spending. Renters are especially exposed because housing costs can reset upward, while homeowners with fixed-rate mortgages are partly protected. Cleveland Fed research found that inflation and wage growth differed across the income distribution, with households in the bottom 40% experiencing both higher inflation and higher wage growth, meaning the net effect depended heavily on whether their wages kept up. ([Cleveland Fed][5])
+
+Also heavily affected: small businesses with weak pricing power, borrowers with variable-rate debt, and first-time homebuyers facing both higher prices and higher mortgage rates.
+
+## Least affected groups
+
+The least affected groups are usually **high-income households, asset owners, homeowners with fixed-rate mortgages, workers with strong wage bargaining power, and investors holding inflation-resistant assets**. They have more room to absorb price increases and may benefit from rising nominal asset values, higher interest income, or wage adjustments.
+
+The clearest winners are borrowers with **long-term fixed-rate debt** taken out before inflation and rate increases. Their debt payments stay fixed while wages and prices rise, so the real burden of the debt can fall over time.
+
+Overall, this level of inflation would likely **compress real consumption, reduce savings capacity for vulnerable households, shift money toward higher-yield safe assets, and create stock-market volatility**, with the burden falling most heavily on people whose incomes and assets did not adjust as fast as prices.
+
+[1]: https://www.federalreserve.gov/publications/files/2024-report-economic-well-being-us-households-202505.pdf?utm_source=chatgpt.com "Economic Well-being of US Households in 2024 report"
+[2]: https://fred.stlouisfed.org/series/PSAVERT?utm_source=chatgpt.com "Personal Saving Rate (PSAVERT) | FRED | St. Louis Fed"
+[3]: https://www.forbes.com/advisor/investing/fed-funds-rate-history/?utm_source=chatgpt.com "Federal Funds Rate History 1990 to 2026"
+[4]: https://www.macrotrends.net/2526/sp-500-historical-annual-returns?utm_source=chatgpt.com "S&P 500 Historical Annual Returns (1927-2026)"
+[5]: https://www.clevelandfed.org/publications/economic-commentary/2025/ec-202511-did-inflation-affect-households-differently?utm_source=chatgpt.com "Did Inflation Affect Households Differently? A Look at the ..."

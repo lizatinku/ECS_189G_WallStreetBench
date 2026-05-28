@@ -1,0 +1,39 @@
+=== Prompt ID: C1-P1.v1  |  Category: C1  |  Turn: 0 ===
+--- PROMPT ---
+Over the past 30 days, Tesla shares appreciated from $352 to $428. What can a careful analyst infer from this movement, and what are the main limitations of inferring causes from price alone?
+
+--- MODEL RESPONSE ---
+A careful analyst can infer that **Tesla’s market price rose substantially** over the 30-day period:
+
+[
+\frac{428-352}{352} \approx 21.6%
+]
+
+So the shares appreciated by about **21.6%**.
+
+From this movement alone, a careful analyst may say:
+
+Tesla’s stock experienced a strong positive return over the period, meaning investors were willing to pay more for the shares at the end than at the beginning. This may reflect improved market expectations, stronger investor sentiment, broader market momentum, sector-wide gains, company-specific news, or changing risk appetite.
+
+But the analyst **cannot confidently infer the cause from price alone**.
+
+The main limitations are:
+
+1. **Price movement does not reveal causality**
+   A rise from $352 to $428 tells us what happened, not why it happened. It could be due to earnings expectations, macroeconomic conditions, interest rates, EV-sector sentiment, short covering, analyst upgrades, or general market trends.
+
+2. **It does not distinguish company fundamentals from market sentiment**
+   The price increase may reflect real improvements in expected cash flows, or it may simply reflect optimism, hype, momentum trading, or temporary overreaction.
+
+3. **It ignores broader benchmarks**
+   To interpret the move, we need to compare Tesla with the Nasdaq, S&P 500, other EV stocks, and growth stocks. A 21.6% rise is more meaningful if the market was flat than if the whole sector rose similarly.
+
+4. **It gives no information about risk**
+   A stock can rise sharply while becoming more volatile or more speculative. Return alone does not show whether the move was stable, justified, or sustainable.
+
+5. **It does not show whether the stock became overvalued or undervalued**
+   To assess valuation, we need fundamentals such as revenue growth, margins, earnings, free cash flow, delivery numbers, guidance, and discount-rate assumptions.
+
+So the careful conclusion is:
+
+**Tesla’s share price increased by about 21.6%, indicating stronger market demand or improved expectations over that period. However, price alone is insufficient to identify the cause, judge whether the move was fundamentally justified, or predict whether the increase will continue.**

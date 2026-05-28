@@ -1,0 +1,23 @@
+=== Prompt ID: C4-P3  |  Category: C4  |  Turn: 1 ===
+
+--- PROMPT ---
+Airlines and trucking both pay for fuel — why might their stock reactions differ in magnitude and timing?
+
+--- MODEL RESPONSE ---
+Because the **same fuel shock hits their business models differently**.
+
+| Factor                   | Airlines                                                                                                                      | Trucking                                                                                                                                   |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Fuel as margin risk**  | Jet fuel is a very large and volatile cost, so higher oil can quickly reduce expected margins.                                | Diesel is also important, but many trucking contracts include **fuel surcharges** that pass part of the cost to customers.                 |
+| **Pass-through ability** | Airlines can raise fares, but not instantly. Competitive routes and weak demand can limit fare increases.                     | Trucking firms often pass fuel costs through more mechanically, especially in contract freight.                                            |
+| **Demand sensitivity**   | Higher fares can reduce travel demand, especially leisure travel. So investors worry about both higher cost and lower demand. | Demand depends more on goods movement and freight cycles. Fuel hurts margins, but the bigger stock driver may be freight volume and rates. |
+| **Hedging**              | Some airlines hedge fuel, some do not. Hedging can delay the earnings impact.                                                 | Large trucking firms may have surcharge formulas instead of relying mainly on hedging.                                                     |
+| **Timing**               | Stock reaction can be fast because investors immediately lower expected airline margins.                                      | Reaction may be slower or smaller because investors wait to see whether surcharges offset diesel costs.                                    |
+
+So airline stocks may fall **faster and more sharply** because investors see oil as a direct margin squeeze. Trucking stocks may react **less immediately** if fuel surcharges protect profits.
+
+But there is a catch: if oil stays high for months, trucking can still suffer because higher shipping costs reduce freight demand, retailers/manufacturers cut activity, and smaller carriers face cash-flow pressure. In that case, the trucking impact may show up later through **weaker volumes**, not just fuel expense.
+
+A simple way to say it:
+
+**Airlines react more to fuel-cost margin pressure. Trucking reacts more to whether fuel costs can be passed through and whether freight demand weakens later.**

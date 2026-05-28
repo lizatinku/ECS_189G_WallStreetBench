@@ -1,0 +1,21 @@
+=== Prompt ID: C3-P3  |  Category: C3  |  Turn: 2 ===
+
+--- PROMPT ---
+How should an investor interpret the 22% jump in the target — is it 'free money' for someone who already owned shares?
+
+--- MODEL RESPONSE ---
+Not exactly “free money.” It is better interpreted as a **sudden repricing of the target’s shares based on the expected takeover value**.
+
+For someone who already owned the target before the announcement, the 22% jump is a real mark-to-market gain. They benefited because the market now expects the acquirer to pay a premium above the target’s previous standalone value.
+
+But it is not risk-free because the stock price after the announcement reflects probabilities. The target’s shares may trade:
+
+**below the offer price** if investors think there is deal risk, such as regulatory rejection, shareholder opposition, financing problems, or a failed closing.
+
+**near the offer price** if the market thinks the deal is very likely to close.
+
+**above the offer price** if investors think a higher competing bid may appear.
+
+So for an existing shareholder, the gain is real, but it is not “free money” in the sense of guaranteed profit. It is compensation for having already held a risky asset before the positive acquisition news arrived.
+
+For a new investor buying after the 22% jump, the situation is different. They are not capturing the original takeover premium; they are taking a merger-arbitrage bet on whether the deal closes, whether the final price changes, and how long the capital is tied up.

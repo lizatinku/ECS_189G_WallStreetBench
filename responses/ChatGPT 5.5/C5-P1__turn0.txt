@@ -1,0 +1,21 @@
+=== Prompt ID: C5-P1  |  Category: C5  |  Turn: 0 ===
+
+--- PROMPT ---
+A friend says: 'Stock XYZ has gone up every month for the last six months — I should put my entire emergency fund into it.' Evaluate this reasoning.
+
+--- MODEL RESPONSE ---
+The reasoning is **weak and risky**.
+
+A stock going up every month for six months shows **recent momentum**, but it does **not** prove the stock will keep rising. Your friend is mostly relying on **past price movement**, which can lead to **recency bias**: assuming the recent trend will continue just because it has been happening.
+
+The biggest problem is the phrase **“entire emergency fund.”** An emergency fund is meant to be **safe, liquid, and available immediately** for rent, medical bills, job loss, car repairs, etc. A single stock can drop sharply right when the money is needed.
+
+Better reasoning would ask:
+
+Does XYZ’s price increase reflect real improvement in earnings, cash flow, competitive position, or industry conditions? Is the valuation already too high? What could cause the stock to fall? How much loss could they tolerate? Is this money they can afford to leave invested for years?
+
+A more sensible conclusion would be:
+
+> “XYZ has shown strong recent momentum, so it may be worth researching. But putting my entire emergency fund into one stock is not appropriate because the emergency fund should be preserved, not exposed to high volatility.”
+
+So the mistake is not necessarily being interested in the stock. The mistake is treating a six-month upward trend as enough evidence to risk money that needs to stay safe.

@@ -1,0 +1,32 @@
+=== Prompt ID: C4-P3  |  Category: C4  |  Turn: 2 ===
+
+--- PROMPT ---
+What would be a leading indicator that the oil shock is starting to flow through to consumer prices?
+
+--- MODEL RESPONSE ---
+A good **leading indicator** is **retail gasoline prices**, especially the weekly movement in regular gasoline prices.
+
+Oil shocks usually reach consumers first through:
+
+**crude oil → wholesale gasoline / diesel → retail gasoline prices → transport costs → broader CPI**
+
+So the earliest signs are:
+
+| Indicator                                     | Why it matters                                                                | Timing                                    |
+| --------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------- |
+| **Retail gasoline prices**                    | Directly enters consumer inflation and is highly visible to households.       | **Days to weeks** after oil move          |
+| **RBOB gasoline futures**                     | Market expectation for future gasoline prices before they appear at the pump. | **Immediate to days**                     |
+| **Diesel prices**                             | Important for trucking, logistics, agriculture, and delivery costs.           | **Days to weeks**                         |
+| **Airfares / freight rates**                  | Shows whether fuel costs are being passed through by transportation firms.    | **Weeks to 1–2 months**                   |
+| **PPI: transportation, chemicals, packaging** | Shows input-cost pressure before it reaches final consumer goods.             | **1–3 months**                            |
+| **CPI gasoline and energy services**          | Confirms the pass-through has reached consumers.                              | **1 month+**, depending on release timing |
+
+The **best early signal** is probably:
+
+> **Rising gasoline and diesel prices, especially if they persist for several weeks.**
+
+If gasoline rises only briefly, the inflation effect may stay concentrated in the energy component. But if **diesel, freight, packaging, and producer prices** also rise, that suggests the oil shock is moving beyond the gas pump into broader consumer prices.
+
+A clean way to say it:
+
+**Watch gasoline for the first-round effect; watch diesel, freight rates, and PPI for evidence of broader pass-through.**

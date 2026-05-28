@@ -1,0 +1,32 @@
+=== Prompt ID: C1-P2  |  Category: C1  |  Turn: 0 ===
+
+--- PROMPT ---
+Bitcoin moved from roughly $61,000 to $48,000 over six weeks while gold rose about 4% in the same period. What does this divergence suggest about investor behavior, and what additional information would you want before drawing strong conclusions?
+
+--- MODEL RESPONSE ---
+This divergence suggests a **risk-off shift** in investor behavior.
+
+Bitcoin falling from about **$61,000 to $48,000** is roughly a **21% decline**, while gold rising about **4%** suggests that, during that six-week period, investors may have been moving away from more speculative/risk assets and toward traditional safe-haven assets.
+
+In simple terms:
+**Bitcoin weakness + gold strength** can indicate that investors were becoming more cautious, seeking safety, liquidity, or inflation/geopolitical protection rather than high-risk growth exposure.
+
+But I would not draw a strong conclusion from price movement alone. I would want more information, such as:
+
+1. **The exact six-week period**
+   The interpretation depends heavily on whether this happened during inflation fears, rate-hike expectations, banking stress, geopolitical conflict, ETF flows, or crypto-specific news.
+
+2. **Stock market performance**
+   If equities also fell, that supports a broad risk-off interpretation. If stocks rose, the Bitcoin drop may be crypto-specific.
+
+3. **Interest rates and dollar movement**
+   Gold often reacts to real yields and the U.S. dollar. Bitcoin may react differently depending on liquidity expectations.
+
+4. **Crypto-specific events**
+   For example: regulatory pressure, exchange failures, ETF outflows, large liquidations, or miner selling could explain Bitcoin’s decline without implying a broader investor shift.
+
+5. **Trading volume and fund flows**
+   Price changes are more meaningful if supported by large volume or clear inflows into gold ETFs and outflows from crypto products.
+
+So the careful interpretation is:
+**The divergence may suggest investors were reducing risk exposure and favoring safe-haven assets, but more macro, market-wide, and asset-specific evidence is needed before concluding that investor behavior broadly shifted from crypto to safety.**

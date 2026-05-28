@@ -1,0 +1,31 @@
+=== Prompt ID: C1-P3  |  Category: C1  |  Turn: 2 ===
+
+--- PROMPT ---
+What evidence would shift your interpretation from 'risk-off rotation' to 'sector composition effect'?
+
+--- MODEL RESPONSE ---
+Yes — I would shift from **“risk-off rotation”** to **“sector composition effect”** if the evidence showed that the gap is mostly explained by *what sectors each index owns*, rather than investors broadly avoiding small-cap risk.
+
+The strongest evidence would be:
+
+1. **Sector attribution shows most of the 9-point gap comes from allocation effects.**
+   For example, if the Russell 2000 underperformed mainly because it had more exposure to weak sectors like regional banks, biotech, REITs, or unprofitable healthcare, while the S&P 500 had more exposure to strong mega-cap tech, then the gap is more about index mix.
+
+2. **Within the same sectors, small caps did not underperform much.**
+   Suppose small-cap industrials performed similarly to large-cap industrials, small-cap financials similarly to large-cap financials, etc. Then the size effect is weak. The gap is not “small caps are being rejected”; it is “the Russell 2000 owns more of the wrong sectors.”
+
+3. **A sector-neutral small-cap vs. large-cap comparison shows a much smaller gap.**
+   If you reweight the Russell 2000 to match the S&P 500’s sector weights and the underperformance shrinks from 9 percentage points to, say, 2–3 points, that would strongly support the sector-composition explanation.
+
+4. **Equal-weight S&P 500 also lags the cap-weighted S&P 500.**
+   That would suggest the S&P 500’s strength is concentrated in a few mega-cap names, not broad large-cap strength. In that case, the Russell 2000 may look weak mainly because it lacks those mega-cap winners.
+
+5. **Risk indicators are not confirming a risk-off environment.**
+   If credit spreads are stable, high-yield bonds are not selling off, cyclicals are not broadly collapsing, volatility is calm, and earnings revisions for small caps are not deteriorating broadly, then the “risk-off” interpretation becomes weaker.
+
+A simple way to frame it:
+
+> If small caps are underperforming **within most sectors**, that supports a risk-off/size-risk interpretation.
+> If the underperformance mostly disappears after matching sector weights, it supports a sector-composition interpretation.
+
+So the key test is not just “Russell 2000 vs. S&P 500,” but **sector-neutral Russell 2000 vs. sector-neutral large-cap performance**.

@@ -1,0 +1,23 @@
+=== Prompt ID: C3-P1  |  Category: C3  |  Turn: 0 ===
+
+--- PROMPT ---
+Coinbase, Oracle Corporation, and Atlassian announced layoffs despite continued investment in AI and technology growth. How might layoffs affect investor perception and stock prices? Why can stock prices sometimes increase even after companies reduce their workforce?
+
+--- MODEL RESPONSE ---
+Layoffs affect stock prices mainly through **investor expectations about future profit**, not through the layoff itself.
+
+For **Coinbase**, **Oracle**, and **Atlassian**, the layoffs were framed not only as cost cutting, but as a shift toward being leaner and more AI-focused. Coinbase said it would cut about **14%**, roughly **700 jobs**, while restructuring for an “AI-native” operating model and lower costs during crypto-market volatility. ([Reuters][1]) Atlassian cut about **10%**, around **1,600 employees**, saying the move would help “self-fund” investment in **AI and enterprise sales** and improve its financial profile. ([Atlassian][2]) Oracle’s layoffs were reported alongside heavy AI infrastructure spending and a restructuring plan with costs estimated up to **$2.1 billion**, mostly related to severance and restructuring expenses. ([Reuters][3])
+
+So investors may interpret these layoffs in two opposite ways:
+
+**Positive interpretation:**
+The company is becoming more efficient. If revenue can keep growing while labor costs fall, future margins and free cash flow may improve. In this view, layoffs are a signal that management is disciplined, correcting over-hiring, reallocating money toward AI, and trying to increase productivity per employee. That is why Oracle’s stock reportedly rose more than **5%** after layoff news, Coinbase shares rose in premarket trading after its announcement, and Atlassian also saw a small after-hours rise. ([Reuters][3])
+
+**Negative interpretation:**
+Layoffs can also signal weakness: slowing demand, pressure on cash flow, failed expansion, or fear that AI may disrupt the company’s existing business. They can hurt morale, reduce innovation, create execution risk, and add short-term restructuring charges. For example, Oracle’s stock rose on the layoff news but was still reported to be down sharply for the year, showing that layoffs do not automatically solve broader investor concerns. ([Reuters][3])
+
+The reason stock prices can rise after layoffs is that the market is forward-looking. Investors are not rewarding the loss of jobs itself; they are reacting to the possibility that **future earnings per share, margins, and cash flow will be higher**. A layoff announcement can say: “We are cutting costs now so that future profits improve.” But whether that optimism is correct depends on whether the company can actually keep growing after reducing its workforce.
+
+[1]: https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/?utm_source=chatgpt.com "Crypto exchange Coinbase to cut about 14% of workforce ..."
+[2]: https://www.atlassian.com/blog/company-news/atlassian-team-update-march-2026?utm_source=chatgpt.com "An important update on our team - Inside Atlassian"
+[3]: https://www.reuters.com/business/world-at-work/oracle-begins-cutting-thousands-jobs-cnbc-reports-2026-03-31/?utm_source=chatgpt.com "Oracle begins layoffs affecting thousands, CNBC reports"

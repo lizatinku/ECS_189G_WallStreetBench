@@ -1,0 +1,90 @@
+=== Prompt ID: C2-P1  |  Category: C2  |  Turn: 1 ===
+
+--- PROMPT ---
+Walk through a concrete example: a household earning $90,000/year considering a $450,000 home. What changes between a 3% and a 6.37% mortgage?
+
+--- MODEL RESPONSE ---
+Assume:
+
+**Household income:** $90,000/year = **$7,500/month gross income**
+**Home price:** $450,000
+**Down payment:** 20% = $90,000
+**Loan amount:** $360,000
+**Mortgage:** 30-year fixed
+
+### 1. Monthly mortgage payment changes a lot
+
+|  Rate | Loan amount | Monthly principal + interest |
+| ----: | ----------: | ---------------------------: |
+| 3.00% |    $360,000 |       about **$1,518/month** |
+| 6.37% |    $360,000 |       about **$2,245/month** |
+
+So the same house costs about:
+
+**$727 more per month**
+or about **$8,724 more per year**
+
+That is a large hit to the household budget.
+
+### 2. Share of income going to mortgage rises
+
+At **3%**, the mortgage payment is:
+
+**$1,518 / $7,500 = about 20.2% of gross monthly income**
+
+At **6.37%**, it becomes:
+
+**$2,245 / $7,500 = about 29.9% of gross monthly income**
+
+So the mortgage alone moves from a fairly comfortable level to almost **30% of gross income**, before property taxes, insurance, utilities, maintenance, and other debts.
+
+### 3. Adding taxes and insurance makes affordability tighter
+
+Suppose property taxes are around **1.25% of home value per year**, and insurance is about **$150/month**.
+
+Property tax estimate:
+
+**$450,000 × 1.25% / 12 = about $469/month**
+
+Then total housing cost becomes:
+
+|  Rate | Mortgage | Tax + insurance estimate | Total monthly housing cost |
+| ----: | -------: | -----------------------: | -------------------------: |
+| 3.00% |   $1,518 |               about $619 |     about **$2,137/month** |
+| 6.37% |   $2,245 |               about $619 |     about **$2,864/month** |
+
+As a share of gross income:
+
+|  Rate | Total housing cost / income |
+| ----: | --------------------------: |
+| 3.00% |             about **28.5%** |
+| 6.37% |             about **38.2%** |
+
+That is the key difference: at **3%**, this household may look reasonably qualified. At **6.37%**, the same home may look stretched or unaffordable under many lender standards, especially if the household has student loans, car payments, credit card debt, childcare costs, or high insurance costs.
+
+### 4. Buying power falls sharply
+
+To keep the same **$1,518/month** principal-and-interest payment at a **6.37%** rate, the household could only borrow about **$243,000** instead of $360,000.
+
+With 20% down, that implies a home price around:
+
+**$243,000 / 0.80 = about $304,000**
+
+So, very roughly, the household that could afford a **$450,000 home at 3%** might only afford around a **$300,000 home at 6.37%** if they want the same mortgage payment.
+
+### 5. Lifetime interest cost also increases
+
+Over 30 years:
+
+|  Rate | Total payments on $360,000 loan | Total interest paid |
+| ----: | ------------------------------: | ------------------: |
+| 3.00% |              about **$546,399** |  about **$186,399** |
+| 6.37% |              about **$808,112** |  about **$448,112** |
+
+The higher-rate mortgage costs about **$261,700 more in interest** over the full loan term, assuming no refinancing or early payoff.
+
+### Bottom line
+
+For this household, the move from **3% to 6.37%** changes the $450,000 home from “possibly affordable” to “much tighter.” Monthly payments rise by about **$727**, the housing-cost burden rises from about **28.5% to 38.2%** of gross income after estimated taxes and insurance, and the household’s purchasing power falls dramatically.
+
+The uncertainty is that real affordability also depends on the down payment, local property taxes, insurance, HOA fees, credit score, other debts, lender rules, and whether the buyer expects to refinance later. But the basic effect is clear: higher mortgage rates reduce demand because they make the same home much more expensive to finance.

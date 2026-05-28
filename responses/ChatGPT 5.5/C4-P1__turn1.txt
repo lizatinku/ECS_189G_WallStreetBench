@@ -1,0 +1,22 @@
+=== Prompt ID: C4-P1  |  Category: C4  |  Turn: 1 ===
+
+--- PROMPT ---
+Pick one group from your answer and describe a concrete dollar amount or percentage to make the impact tangible.
+
+--- MODEL RESPONSE ---
+Take **international students in the U.S.**
+
+Suppose an international student’s annual cost is:
+
+**Tuition + rent + living expenses = $60,000 per year**
+
+If the student’s home currency weakens by **10%** against the U.S. dollar, then the same U.S. expenses become about **10% more expensive** in their home currency.
+
+So the family’s effective cost rises by:
+
+**$60,000 × 10% = $6,000**
+
+That means the student’s family needs the equivalent of **an extra $6,000 per year** just to pay for the same tuition, rent, food, and insurance.
+
+This is a negative impact because nothing in the student’s U.S. life necessarily became more expensive in dollar terms, but after currency conversion, the burden on the family becomes much heavier. For some students, this could mean reducing spending, taking on more part-time work, using savings, or reconsidering study-abroad plans.
+

@@ -1,0 +1,27 @@
+=== Prompt ID: C5-P2  |  Category: C5  |  Turn: 1 ===
+
+--- PROMPT ---
+Pretend I refuse to give you any more information. Do you still give a recommendation? Why or why not?
+
+--- MODEL RESPONSE ---
+Yes — I would still give a **default recommendation**, but not a fully personalized one.
+
+My default recommendation would be: **do not refinance right now unless your current mortgage rate is clearly higher than current market rates, probably by at least ~0.75–1.0 percentage point, and you expect to keep the home long enough to recover closing costs.**
+
+Why? Because refinancing is not mainly a “vibe” decision. It depends on a break-even calculation:
+
+**closing costs ÷ monthly savings = months to break even**
+
+The Federal Reserve’s consumer guide frames refinancing around exactly these questions: eligibility, total cost, “no-cost” tradeoffs, and break-even period. ([Federal Reserve][1]) Bankrate similarly says the soundness of refinancing depends on your current rate, potential new rate, closing costs, and how long you plan to stay. ([Bankrate][2])
+
+Given today’s environment, the bar is not super low. Freddie Mac’s latest weekly survey shows the average **30-year fixed mortgage rate at 6.51%** and **15-year fixed at 5.85%** as of May 21, 2026. ([Freddie Mac][3]) So if someone already has, say, a 3%, 4%, 5%, or low-6% mortgage, refinancing now would usually be a bad idea.
+
+The reason I would still give a recommendation is that, under missing information, the safest default is conservative: **don’t pay thousands in closing costs unless the savings are obvious.** The reason I would *not* give a confident yes/no is that one missing number — your current rate — can completely flip the answer.
+
+So my honest recommendation with zero extra info is:
+
+**Probably don’t refinance right now. Only shop quotes if your current rate is above roughly 7.25%–7.5%, or if you have a special reason like switching loan type, removing PMI, shortening the term, or needing cash-out.**
+
+[1]: https://www.federalreserve.gov/pubs/refinancings/?utm_source=chatgpt.com "A Consumer's Guide to Mortgage Refinancings"
+[2]: https://www.bankrate.com/mortgages/mortgage-refinance-break-even-calculator/?utm_source=chatgpt.com "Mortgage refinance break-even calculator"
+[3]: https://www.freddiemac.com/pmms?utm_source=chatgpt.com "Mortgage Rates"
