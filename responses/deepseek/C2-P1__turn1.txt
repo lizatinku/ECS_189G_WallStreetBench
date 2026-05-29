@@ -4,8 +4,63 @@
 Walk through a concrete example: a household earning $90,000/year considering a $450,000 home. What changes between a 3% and a 6.37% mortgage?
 
 --- MODEL RESPONSE ---
-To understand the impact of a 3% versus a 6.37% mortgage rate on a $450,000 home for a household earning $90,000 annually, we can break down the calculations as follows:
+To understand how rising mortgage interest rates affect the affordability of a $450,000 home with an annual income of $90,000, we can perform a 
+detailed analysis:
 
-### 1. Monthly Mortgage Payment Calculation:
-The monthly mortgage payment (M) is calculated using the formula:
-\[ M = P \times \frac
+1. **Monthly Mortgage Payment Calculation:**
+   - **3% Annual Interest Rate:**
+     Using the formula:
+     \[
+     M = P \frac{r(1+r)^n}{(1+r)^n - 1}
+     \]
+     where \( P = \$450,000 \), \( r = 0.03 / 12 = 0.0025 \), and \( n = 360 \):
+     \[
+     M = 450,000 \frac{0.0025(1+0.0025)^{360}}{(1+0.0025)^{360} - 1} \approx \$2,201.95
+     \]
+   
+   - **6.37% Annual Interest Rate:**
+     Similarly, calculating for \( r = 0.0637 / 12 \approx 0.005308 \):
+     \[
+     M = 450,000 \frac{0.005308(1+0.005308)^{360}}{(1+0.005308)^{360} - 1} \approx \$3,488
+     \]
+
+2. **Monthly Payment Difference:**
+   The difference between the two monthly payments is approximately:
+   \[
+   \$3,488 - \$2,201.95 = \$1,286.05
+   \]
+   This means an extra $1,286 per month in mortgage payments with a 6.37% rate compared to a 3% rate.
+
+3. **Impact on Affordability:**
+   - At the 3% rate:
+     - Total monthly payment: \$2,201.95
+     - Remaining income after mortgage: \$7,500 / 12 - \$2,201.95 ≈ \$4,012 per month
+
+   - At the 6.37% rate:
+     - Total monthly payment: \$3,488
+     - Remaining income after mortgage: \$7,500 / 12 - \$3,488 ≈ \$4,203 per month
+
+4. **Additional Costs:**
+   Considering additional expenses such as property taxes (assumed at about 1-3% of the home price annually), insurance, and maintenance:
+   - Property taxes: \$4,500 to \$13,500 annually
+   - Insurance: Assumed around \$150 annually
+
+   Total additional monthly costs could be approximately \$296.
+
+5. **Total Monthly Cost at Different Rates:**
+   - At the 3% rate:
+     \[
+     \$2,201.95 + \$296 = \$2,497.95
+     \]
+   
+   - At the 6.37% rate:
+     \[
+     \$3,488 + \$296 = \$3,784
+     \]
+
+6. **Conclusion:**
+   The higher interest rate significantly increases the monthly mortgage payment and total cost of owning the home. While the difference in payments 
+is substantial, additional expenses further reduce the remaining income for other needs.
+
+In summary, an increase from a 3% to a 6.37% mortgage interest rate leads to a considerable rise in monthly mortgage costs, reducing overall 
+affordability unless financial strategies like refinancing or adjusting income are considered.

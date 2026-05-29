@@ -4,4 +4,21 @@
 A graduate student is deciding between (i) renting at $1,800/month in a city with 4% annual rent growth or (ii) buying a $320,000 condo at a 6.5% mortgage with 10% down. Walk through the key factors that would tip the decision one way or the other, and where uncertainty matters most.
 
 --- MODEL RESPONSE ---
+The decision between renting and buying a graduate student graduate involves several key factors:
 
+1. **Monthly Costs**: Renting at $1,800 per month is significantly cheaper than buying, which requires monthly mortgage payments of around $1,820 plus additional 
+expenses totaling approximately $2,720.
+
+2. **Opportunity Cost**: By purchasing, the graduate forgoes potential investment returns from a $320k down payment, which could grow at 7% annually compared to the 
+current mortgage rate and possible rental benefits.
+
+3. **Property Appreciation**: The house may appreciate faster than rent increases or mortgage rates if local economic conditions support it. However, this depends on 
+market performance beyond given assumptions.
+
+4. **Uncertainty**: Future real estate returns, interest rates, and investment opportunities are uncertain factors that can influence the decision.
+
+**Conclusion**: Renting is more cost-effective in the short term due to lower monthly expenses and no upfront capital requirement. Buying may be preferable if the 
+graduate expects significant property appreciation or if they plan to stay long-term and benefit from potential equity growth, despite higher initial costs. The decision 
+should weigh these factors against personal financial goals, risk tolerance, and market outlook.
+
+\boxed{\text{Consider short-term cash flow for renting; evaluate long-term benefits and risks for buying.}}
