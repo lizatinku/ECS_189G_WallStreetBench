@@ -22,11 +22,16 @@ The script parses the header line of each .txt file to recover prompt_id,
 category, and turn_index. The folder name (tag) becomes the model column —
 edit MODEL_NAME_MAP below to map tag -> the human-readable model string you
 want in the CSV.
+
+Double-annotation: 10 random responses per model are flagged for a second
+annotator (stratified, balanced across models) so each model contributes
+equally to Cohen's kappa.
 """
 import argparse
 import csv
 import random
 import re
+from collections import defaultdict
 from pathlib import Path
 
 
@@ -36,13 +41,15 @@ from pathlib import Path
 MODEL_NAME_MAP = {
     "qwen":     "Qwen3-0.6B",
     "deepseek": "DeepSeek-R1-7B",
-    "chatgpt":  "ChatGPT (GPT-5.5)",     
+    "chatgpt":  "ChatGPT (GPT-?)",      # <-- replace with the actual version you used
 }
 
 ANNOTATORS = ["A1", "A2", "A3", "A4"]
-DOUBLE_FRACTION = 0.20
+DOUBLES_PER_MODEL = 10
 # -------------------------------------------------------------------------
 
+# Only .v1/.v2 consistency variants get a group. Base prompts without
+# variants (C5, and C1-P2/P3 etc.) are left blank.
 CONSISTENCY_GROUPS = {
     "C1-P1": "C1-P1-group", "C1-P1.v1": "C1-P1-group", "C1-P1.v2": "C1-P1-group",
     "C2-P1": "C2-P1-group", "C2-P1.v1": "C2-P1-group", "C2-P1.v2": "C2-P1-group",
@@ -98,6 +105,8 @@ def main():
     ap.add_argument("responses_root", help="Path to responses/ folder")
     ap.add_argument("--out", default="annotations_to_fill.csv")
     ap.add_argument("--seed", type=int, default=7)
+    ap.add_argument("--doubles-per-model", type=int, default=DOUBLES_PER_MODEL,
+                    help=f"How many responses per model to double-annotate (default {DOUBLES_PER_MODEL})")
     args = ap.parse_args()
 
     rng = random.Random(args.seed)
@@ -114,6 +123,7 @@ def main():
             print(f"[skip] no .txt files in {tag_dir}")
             continue
 
+        before = len(rows)
         for path in txt_files:
             try:
                 pid, category, turn = parse_txt(path)
@@ -130,7 +140,7 @@ def main():
             row["response_file"]= f"{tag_dir.name}/{path.name}"
             rows.append(row)
 
-        print(f"[ok] {tag_dir.name} -> {model_name}: {sum(1 for r in rows if r['model']==model_name)} responses")
+        print(f"[ok] {tag_dir.name} -> {model_name}: {len(rows) - before} responses")
 
     if not rows:
         print("No responses found. Check your --responses_root path.")
@@ -144,18 +154,24 @@ def main():
         row["annotator"] = ANNOTATORS[i % len(ANNOTATORS)]
         row["is_double"] = 0
 
-    # 20% double annotation
-    n_double = int(len(rows) * DOUBLE_FRACTION)
-    double_indices = sorted(rng.sample(range(len(rows)), n_double))
+    # --- Stratified double annotation: N per model -----------------------
+    by_model = defaultdict(list)
+    for i, row in enumerate(rows):
+        by_model[row["model"]].append(i)
+
     double_rows = []
-    for i in double_indices:
-        primary = rows[i]
-        others = [a for a in ANNOTATORS if a != primary["annotator"]]
-        second = rng.choice(others)
-        dup = dict(primary)
-        dup["annotator"] = second
-        dup["is_double"] = 1
-        double_rows.append(dup)
+    for model, idxs in sorted(by_model.items()):
+        n_pick = min(args.doubles_per_model, len(idxs))
+        chosen = rng.sample(idxs, n_pick)
+        for i in chosen:
+            primary = rows[i]
+            others = [a for a in ANNOTATORS if a != primary["annotator"]]
+            second = rng.choice(others)
+            dup = dict(primary)
+            dup["annotator"] = second
+            dup["is_double"] = 1
+            double_rows.append(dup)
+        print(f"  double annotation: {model} -> {n_pick} rows")
 
     rows.extend(double_rows)
     rows.sort(key=lambda r: (r["prompt_id"], r["turn_index"], r["model"], r["is_double"]))
@@ -169,7 +185,8 @@ def main():
     double_count  = sum(1 for r in rows if r["is_double"] == 1)
     print(f"\nWrote {args.out}")
     print(f"  Primary annotations: {primary_count}")
-    print(f"  Double-annotation rows: {double_count} ({100*double_count/primary_count:.1f}%)")
+    print(f"  Double-annotation rows: {double_count} "
+          f"({args.doubles_per_model} per model × {len(by_model)} models)")
     print(f"  Per-annotator primary load: ~{primary_count // len(ANNOTATORS)} responses each")
 
 
