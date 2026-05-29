@@ -1,0 +1,181 @@
+prompt_id,category,model,annotator,is_double,turn_index,reasoning_quality,err_hallucination,err_misinterpretation,err_overconfidence,err_contradiction,uncertainty,risk_awareness,tradeoff,depth_on_probe,turn_coherence,consistency_group,llm_judge_score,notes,response_file
+C1-P1,C1,ChatGPT 5.5,A1,0,0,,,,,,,,,,,C1-P1-group,,,ChatGPT 5.5/C1-P1__turn0.txt
+C1-P1,C1,DeepSeek-R1-7B,A3,0,0,,,,,,,,,,,C1-P1-group,,,deepseek/C1-P1__turn0.txt
+C1-P1,C1,DeepSeek-R1-7B,A4,1,0,,,,,,,,,,,C1-P1-group,,,deepseek/C1-P1__turn0.txt
+C1-P1,C1,Qwen3-0.6B,A1,0,0,,,,,,,,,,,C1-P1-group,,,qwen/C1-P1__turn0.txt
+C1-P1,C1,ChatGPT 5.5,A2,0,1,,,,,,,,,,,C1-P1-group,,,ChatGPT 5.5/C1-P1__turn1.txt
+C1-P1,C1,DeepSeek-R1-7B,A4,0,1,,,,,,,,,,,C1-P1-group,,,deepseek/C1-P1__turn1.txt
+C1-P1,C1,Qwen3-0.6B,A2,0,1,,,,,,,,,,,C1-P1-group,,,qwen/C1-P1__turn1.txt
+C1-P1,C1,Qwen3-0.6B,A4,1,1,,,,,,,,,,,C1-P1-group,,,qwen/C1-P1__turn1.txt
+C1-P1,C1,ChatGPT 5.5,A3,0,2,,,,,,,,,,,C1-P1-group,,,ChatGPT 5.5/C1-P1__turn2.txt
+C1-P1,C1,DeepSeek-R1-7B,A1,0,2,,,,,,,,,,,C1-P1-group,,,deepseek/C1-P1__turn2.txt
+C1-P1,C1,Qwen3-0.6B,A3,0,2,,,,,,,,,,,C1-P1-group,,,qwen/C1-P1__turn2.txt
+C1-P1.v1,C1,ChatGPT 5.5,A4,0,0,,,,,,,,,,,C1-P1-group,,,ChatGPT 5.5/C1-P1.v1__turn0.txt
+C1-P1.v1,C1,DeepSeek-R1-7B,A2,0,0,,,,,,,,,,,C1-P1-group,,,deepseek/C1-P1.v1__turn0.txt
+C1-P1.v1,C1,Qwen3-0.6B,A4,0,0,,,,,,,,,,,C1-P1-group,,,qwen/C1-P1.v1__turn0.txt
+C1-P1.v2,C1,ChatGPT 5.5,A1,0,0,,,,,,,,,,,C1-P1-group,,,ChatGPT 5.5/C1-P1.v2__turn0.txt
+C1-P1.v2,C1,DeepSeek-R1-7B,A3,0,0,,,,,,,,,,,C1-P1-group,,,deepseek/C1-P1.v2__turn0.txt
+C1-P1.v2,C1,DeepSeek-R1-7B,A1,1,0,,,,,,,,,,,C1-P1-group,,,deepseek/C1-P1.v2__turn0.txt
+C1-P1.v2,C1,Qwen3-0.6B,A1,0,0,,,,,,,,,,,C1-P1-group,,,qwen/C1-P1.v2__turn0.txt
+C1-P2,C1,ChatGPT 5.5,A2,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C1-P2__turn0.txt
+C1-P2,C1,ChatGPT 5.5,A1,1,0,,,,,,,,,,,,,,ChatGPT 5.5/C1-P2__turn0.txt
+C1-P2,C1,DeepSeek-R1-7B,A4,0,0,,,,,,,,,,,,,,deepseek/C1-P2__turn0.txt
+C1-P2,C1,Qwen3-0.6B,A2,0,0,,,,,,,,,,,,,,qwen/C1-P2__turn0.txt
+C1-P2,C1,ChatGPT 5.5,A3,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C1-P2__turn1.txt
+C1-P2,C1,ChatGPT 5.5,A2,1,1,,,,,,,,,,,,,,ChatGPT 5.5/C1-P2__turn1.txt
+C1-P2,C1,DeepSeek-R1-7B,A1,0,1,,,,,,,,,,,,,,deepseek/C1-P2__turn1.txt
+C1-P2,C1,Qwen3-0.6B,A3,0,1,,,,,,,,,,,,,,qwen/C1-P2__turn1.txt
+C1-P2,C1,ChatGPT 5.5,A4,0,2,,,,,,,,,,,,,,ChatGPT 5.5/C1-P2__turn2.txt
+C1-P2,C1,DeepSeek-R1-7B,A2,0,2,,,,,,,,,,,,,,deepseek/C1-P2__turn2.txt
+C1-P2,C1,DeepSeek-R1-7B,A3,1,2,,,,,,,,,,,,,,deepseek/C1-P2__turn2.txt
+C1-P2,C1,Qwen3-0.6B,A4,0,2,,,,,,,,,,,,,,qwen/C1-P2__turn2.txt
+C1-P2,C1,Qwen3-0.6B,A1,1,2,,,,,,,,,,,,,,qwen/C1-P2__turn2.txt
+C1-P3,C1,ChatGPT 5.5,A1,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C1-P3__turn0.txt
+C1-P3,C1,DeepSeek-R1-7B,A3,0,0,,,,,,,,,,,,,,deepseek/C1-P3__turn0.txt
+C1-P3,C1,Qwen3-0.6B,A1,0,0,,,,,,,,,,,,,,qwen/C1-P3__turn0.txt
+C1-P3,C1,Qwen3-0.6B,A3,1,0,,,,,,,,,,,,,,qwen/C1-P3__turn0.txt
+C1-P3,C1,ChatGPT 5.5,A2,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C1-P3__turn1.txt
+C1-P3,C1,ChatGPT 5.5,A3,1,1,,,,,,,,,,,,,,ChatGPT 5.5/C1-P3__turn1.txt
+C1-P3,C1,DeepSeek-R1-7B,A4,0,1,,,,,,,,,,,,,,deepseek/C1-P3__turn1.txt
+C1-P3,C1,Qwen3-0.6B,A2,0,1,,,,,,,,,,,,,,qwen/C1-P3__turn1.txt
+C1-P3,C1,ChatGPT 5.5,A3,0,2,,,,,,,,,,,,,,ChatGPT 5.5/C1-P3__turn2.txt
+C1-P3,C1,DeepSeek-R1-7B,A1,0,2,,,,,,,,,,,,,,deepseek/C1-P3__turn2.txt
+C1-P3,C1,Qwen3-0.6B,A3,0,2,,,,,,,,,,,,,,qwen/C1-P3__turn2.txt
+C2-P1,C2,ChatGPT 5.5,A4,0,0,,,,,,,,,,,C2-P1-group,,,ChatGPT 5.5/C2-P1__turn0.txt
+C2-P1,C2,DeepSeek-R1-7B,A2,0,0,,,,,,,,,,,C2-P1-group,,,deepseek/C2-P1__turn0.txt
+C2-P1,C2,DeepSeek-R1-7B,A1,1,0,,,,,,,,,,,C2-P1-group,,,deepseek/C2-P1__turn0.txt
+C2-P1,C2,Qwen3-0.6B,A4,0,0,,,,,,,,,,,C2-P1-group,,,qwen/C2-P1__turn0.txt
+C2-P1,C2,Qwen3-0.6B,A3,1,0,,,,,,,,,,,C2-P1-group,,,qwen/C2-P1__turn0.txt
+C2-P1,C2,ChatGPT 5.5,A1,0,1,,,,,,,,,,,C2-P1-group,,,ChatGPT 5.5/C2-P1__turn1.txt
+C2-P1,C2,ChatGPT 5.5,A2,1,1,,,,,,,,,,,C2-P1-group,,,ChatGPT 5.5/C2-P1__turn1.txt
+C2-P1,C2,DeepSeek-R1-7B,A3,0,1,,,,,,,,,,,C2-P1-group,,,deepseek/C2-P1__turn1.txt
+C2-P1,C2,Qwen3-0.6B,A1,0,1,,,,,,,,,,,C2-P1-group,,,qwen/C2-P1__turn1.txt
+C2-P1,C2,ChatGPT 5.5,A2,0,2,,,,,,,,,,,C2-P1-group,,,ChatGPT 5.5/C2-P1__turn2.txt
+C2-P1,C2,DeepSeek-R1-7B,A4,0,2,,,,,,,,,,,C2-P1-group,,,deepseek/C2-P1__turn2.txt
+C2-P1,C2,Qwen3-0.6B,A2,0,2,,,,,,,,,,,C2-P1-group,,,qwen/C2-P1__turn2.txt
+C2-P1.v1,C2,ChatGPT 5.5,A3,0,0,,,,,,,,,,,C2-P1-group,,,ChatGPT 5.5/C2-P1.v1__turn0.txt
+C2-P1.v1,C2,ChatGPT 5.5,A4,1,0,,,,,,,,,,,C2-P1-group,,,ChatGPT 5.5/C2-P1.v1__turn0.txt
+C2-P1.v1,C2,DeepSeek-R1-7B,A1,0,0,,,,,,,,,,,C2-P1-group,,,deepseek/C2-P1.v1__turn0.txt
+C2-P1.v1,C2,Qwen3-0.6B,A3,0,0,,,,,,,,,,,C2-P1-group,,,qwen/C2-P1.v1__turn0.txt
+C2-P1.v2,C2,ChatGPT 5.5,A4,0,0,,,,,,,,,,,C2-P1-group,,,ChatGPT 5.5/C2-P1.v2__turn0.txt
+C2-P1.v2,C2,ChatGPT 5.5,A1,1,0,,,,,,,,,,,C2-P1-group,,,ChatGPT 5.5/C2-P1.v2__turn0.txt
+C2-P1.v2,C2,DeepSeek-R1-7B,A2,0,0,,,,,,,,,,,C2-P1-group,,,deepseek/C2-P1.v2__turn0.txt
+C2-P1.v2,C2,Qwen3-0.6B,A4,0,0,,,,,,,,,,,C2-P1-group,,,qwen/C2-P1.v2__turn0.txt
+C2-P2,C2,ChatGPT 5.5,A1,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C2-P2__turn0.txt
+C2-P2,C2,DeepSeek-R1-7B,A3,0,0,,,,,,,,,,,,,,deepseek/C2-P2__turn0.txt
+C2-P2,C2,Qwen3-0.6B,A1,0,0,,,,,,,,,,,,,,qwen/C2-P2__turn0.txt
+C2-P2,C2,ChatGPT 5.5,A2,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C2-P2__turn1.txt
+C2-P2,C2,ChatGPT 5.5,A4,1,1,,,,,,,,,,,,,,ChatGPT 5.5/C2-P2__turn1.txt
+C2-P2,C2,DeepSeek-R1-7B,A4,0,1,,,,,,,,,,,,,,deepseek/C2-P2__turn1.txt
+C2-P2,C2,Qwen3-0.6B,A2,0,1,,,,,,,,,,,,,,qwen/C2-P2__turn1.txt
+C2-P2,C2,ChatGPT 5.5,A3,0,2,,,,,,,,,,,,,,ChatGPT 5.5/C2-P2__turn2.txt
+C2-P2,C2,ChatGPT 5.5,A2,1,2,,,,,,,,,,,,,,ChatGPT 5.5/C2-P2__turn2.txt
+C2-P2,C2,DeepSeek-R1-7B,A1,0,2,,,,,,,,,,,,,,deepseek/C2-P2__turn2.txt
+C2-P2,C2,Qwen3-0.6B,A3,0,2,,,,,,,,,,,,,,qwen/C2-P2__turn2.txt
+C2-P3,C2,ChatGPT 5.5,A4,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C2-P3__turn0.txt
+C2-P3,C2,DeepSeek-R1-7B,A2,0,0,,,,,,,,,,,,,,deepseek/C2-P3__turn0.txt
+C2-P3,C2,Qwen3-0.6B,A4,0,0,,,,,,,,,,,,,,qwen/C2-P3__turn0.txt
+C2-P3,C2,ChatGPT 5.5,A1,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C2-P3__turn1.txt
+C2-P3,C2,DeepSeek-R1-7B,A3,0,1,,,,,,,,,,,,,,deepseek/C2-P3__turn1.txt
+C2-P3,C2,Qwen3-0.6B,A1,0,1,,,,,,,,,,,,,,qwen/C2-P3__turn1.txt
+C2-P3,C2,ChatGPT 5.5,A2,0,2,,,,,,,,,,,,,,ChatGPT 5.5/C2-P3__turn2.txt
+C2-P3,C2,DeepSeek-R1-7B,A4,0,2,,,,,,,,,,,,,,deepseek/C2-P3__turn2.txt
+C2-P3,C2,DeepSeek-R1-7B,A3,1,2,,,,,,,,,,,,,,deepseek/C2-P3__turn2.txt
+C2-P3,C2,Qwen3-0.6B,A2,0,2,,,,,,,,,,,,,,qwen/C2-P3__turn2.txt
+C3-P1,C3,ChatGPT 5.5,A3,0,0,,,,,,,,,,,C3-P1-group,,,ChatGPT 5.5/C3-P1__turn0.txt
+C3-P1,C3,ChatGPT 5.5,A4,1,0,,,,,,,,,,,C3-P1-group,,,ChatGPT 5.5/C3-P1__turn0.txt
+C3-P1,C3,DeepSeek-R1-7B,A1,0,0,,,,,,,,,,,C3-P1-group,,,deepseek/C3-P1__turn0.txt
+C3-P1,C3,Qwen3-0.6B,A3,0,0,,,,,,,,,,,C3-P1-group,,,qwen/C3-P1__turn0.txt
+C3-P1,C3,ChatGPT 5.5,A4,0,1,,,,,,,,,,,C3-P1-group,,,ChatGPT 5.5/C3-P1__turn1.txt
+C3-P1,C3,ChatGPT 5.5,A3,1,1,,,,,,,,,,,C3-P1-group,,,ChatGPT 5.5/C3-P1__turn1.txt
+C3-P1,C3,DeepSeek-R1-7B,A2,0,1,,,,,,,,,,,C3-P1-group,,,deepseek/C3-P1__turn1.txt
+C3-P1,C3,DeepSeek-R1-7B,A4,1,1,,,,,,,,,,,C3-P1-group,,,deepseek/C3-P1__turn1.txt
+C3-P1,C3,Qwen3-0.6B,A4,0,1,,,,,,,,,,,C3-P1-group,,,qwen/C3-P1__turn1.txt
+C3-P1,C3,ChatGPT 5.5,A1,0,2,,,,,,,,,,,C3-P1-group,,,ChatGPT 5.5/C3-P1__turn2.txt
+C3-P1,C3,ChatGPT 5.5,A2,1,2,,,,,,,,,,,C3-P1-group,,,ChatGPT 5.5/C3-P1__turn2.txt
+C3-P1,C3,DeepSeek-R1-7B,A3,0,2,,,,,,,,,,,C3-P1-group,,,deepseek/C3-P1__turn2.txt
+C3-P1,C3,DeepSeek-R1-7B,A1,1,2,,,,,,,,,,,C3-P1-group,,,deepseek/C3-P1__turn2.txt
+C3-P1,C3,Qwen3-0.6B,A1,0,2,,,,,,,,,,,C3-P1-group,,,qwen/C3-P1__turn2.txt
+C3-P1.v1,C3,ChatGPT 5.5,A2,0,0,,,,,,,,,,,C3-P1-group,,,ChatGPT 5.5/C3-P1.v1__turn0.txt
+C3-P1.v1,C3,DeepSeek-R1-7B,A4,0,0,,,,,,,,,,,C3-P1-group,,,deepseek/C3-P1.v1__turn0.txt
+C3-P1.v1,C3,Qwen3-0.6B,A2,0,0,,,,,,,,,,,C3-P1-group,,,qwen/C3-P1.v1__turn0.txt
+C3-P1.v2,C3,ChatGPT 5.5,A3,0,0,,,,,,,,,,,C3-P1-group,,,ChatGPT 5.5/C3-P1.v2__turn0.txt
+C3-P1.v2,C3,DeepSeek-R1-7B,A1,0,0,,,,,,,,,,,C3-P1-group,,,deepseek/C3-P1.v2__turn0.txt
+C3-P1.v2,C3,Qwen3-0.6B,A3,0,0,,,,,,,,,,,C3-P1-group,,,qwen/C3-P1.v2__turn0.txt
+C3-P2,C3,ChatGPT 5.5,A4,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C3-P2__turn0.txt
+C3-P2,C3,DeepSeek-R1-7B,A2,0,0,,,,,,,,,,,,,,deepseek/C3-P2__turn0.txt
+C3-P2,C3,Qwen3-0.6B,A4,0,0,,,,,,,,,,,,,,qwen/C3-P2__turn0.txt
+C3-P2,C3,ChatGPT 5.5,A1,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C3-P2__turn1.txt
+C3-P2,C3,ChatGPT 5.5,A2,1,1,,,,,,,,,,,,,,ChatGPT 5.5/C3-P2__turn1.txt
+C3-P2,C3,DeepSeek-R1-7B,A3,0,1,,,,,,,,,,,,,,deepseek/C3-P2__turn1.txt
+C3-P2,C3,Qwen3-0.6B,A1,0,1,,,,,,,,,,,,,,qwen/C3-P2__turn1.txt
+C3-P2,C3,ChatGPT 5.5,A2,0,2,,,,,,,,,,,,,,ChatGPT 5.5/C3-P2__turn2.txt
+C3-P2,C3,DeepSeek-R1-7B,A4,0,2,,,,,,,,,,,,,,deepseek/C3-P2__turn2.txt
+C3-P2,C3,Qwen3-0.6B,A2,0,2,,,,,,,,,,,,,,qwen/C3-P2__turn2.txt
+C3-P2,C3,Qwen3-0.6B,A4,1,2,,,,,,,,,,,,,,qwen/C3-P2__turn2.txt
+C3-P3,C3,ChatGPT 5.5,A3,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C3-P3__turn0.txt
+C3-P3,C3,DeepSeek-R1-7B,A1,0,0,,,,,,,,,,,,,,deepseek/C3-P3__turn0.txt
+C3-P3,C3,Qwen3-0.6B,A3,0,0,,,,,,,,,,,,,,qwen/C3-P3__turn0.txt
+C3-P3,C3,Qwen3-0.6B,A2,1,0,,,,,,,,,,,,,,qwen/C3-P3__turn0.txt
+C3-P3,C3,ChatGPT 5.5,A4,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C3-P3__turn1.txt
+C3-P3,C3,ChatGPT 5.5,A3,1,1,,,,,,,,,,,,,,ChatGPT 5.5/C3-P3__turn1.txt
+C3-P3,C3,DeepSeek-R1-7B,A2,0,1,,,,,,,,,,,,,,deepseek/C3-P3__turn1.txt
+C3-P3,C3,Qwen3-0.6B,A4,0,1,,,,,,,,,,,,,,qwen/C3-P3__turn1.txt
+C3-P3,C3,ChatGPT 5.5,A1,0,2,,,,,,,,,,,,,,ChatGPT 5.5/C3-P3__turn2.txt
+C3-P3,C3,DeepSeek-R1-7B,A3,0,2,,,,,,,,,,,,,,deepseek/C3-P3__turn2.txt
+C3-P3,C3,DeepSeek-R1-7B,A4,1,2,,,,,,,,,,,,,,deepseek/C3-P3__turn2.txt
+C3-P3,C3,Qwen3-0.6B,A1,0,2,,,,,,,,,,,,,,qwen/C3-P3__turn2.txt
+C4-P1,C4,ChatGPT 5.5,A2,0,0,,,,,,,,,,,C4-P1-group,,,ChatGPT 5.5/C4-P1__turn0.txt
+C4-P1,C4,DeepSeek-R1-7B,A4,0,0,,,,,,,,,,,C4-P1-group,,,deepseek/C4-P1__turn0.txt
+C4-P1,C4,Qwen3-0.6B,A2,0,0,,,,,,,,,,,C4-P1-group,,,qwen/C4-P1__turn0.txt
+C4-P1,C4,ChatGPT 5.5,A3,0,1,,,,,,,,,,,C4-P1-group,,,ChatGPT 5.5/C4-P1__turn1.txt
+C4-P1,C4,DeepSeek-R1-7B,A1,0,1,,,,,,,,,,,C4-P1-group,,,deepseek/C4-P1__turn1.txt
+C4-P1,C4,Qwen3-0.6B,A3,0,1,,,,,,,,,,,C4-P1-group,,,qwen/C4-P1__turn1.txt
+C4-P1,C4,ChatGPT 5.5,A4,0,2,,,,,,,,,,,C4-P1-group,,,ChatGPT 5.5/C4-P1__turn2.txt
+C4-P1,C4,DeepSeek-R1-7B,A2,0,2,,,,,,,,,,,C4-P1-group,,,deepseek/C4-P1__turn2.txt
+C4-P1,C4,Qwen3-0.6B,A4,0,2,,,,,,,,,,,C4-P1-group,,,qwen/C4-P1__turn2.txt
+C4-P1.v1,C4,ChatGPT 5.5,A1,0,0,,,,,,,,,,,C4-P1-group,,,ChatGPT 5.5/C4-P1.v1__turn0.txt
+C4-P1.v1,C4,DeepSeek-R1-7B,A3,0,0,,,,,,,,,,,C4-P1-group,,,deepseek/C4-P1.v1__turn0.txt
+C4-P1.v1,C4,Qwen3-0.6B,A1,0,0,,,,,,,,,,,C4-P1-group,,,qwen/C4-P1.v1__turn0.txt
+C4-P1.v2,C4,ChatGPT 5.5,A2,0,0,,,,,,,,,,,C4-P1-group,,,ChatGPT 5.5/C4-P1.v2__turn0.txt
+C4-P1.v2,C4,DeepSeek-R1-7B,A4,0,0,,,,,,,,,,,C4-P1-group,,,deepseek/C4-P1.v2__turn0.txt
+C4-P1.v2,C4,Qwen3-0.6B,A2,0,0,,,,,,,,,,,C4-P1-group,,,qwen/C4-P1.v2__turn0.txt
+C4-P1.v2,C4,Qwen3-0.6B,A3,1,0,,,,,,,,,,,C4-P1-group,,,qwen/C4-P1.v2__turn0.txt
+C4-P2,C4,ChatGPT 5.5,A3,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C4-P2__turn0.txt
+C4-P2,C4,ChatGPT 5.5,A4,1,0,,,,,,,,,,,,,,ChatGPT 5.5/C4-P2__turn0.txt
+C4-P2,C4,DeepSeek-R1-7B,A1,0,0,,,,,,,,,,,,,,deepseek/C4-P2__turn0.txt
+C4-P2,C4,Qwen3-0.6B,A3,0,0,,,,,,,,,,,,,,qwen/C4-P2__turn0.txt
+C4-P2,C4,ChatGPT 5.5,A4,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C4-P2__turn1.txt
+C4-P2,C4,DeepSeek-R1-7B,A2,0,1,,,,,,,,,,,,,,deepseek/C4-P2__turn1.txt
+C4-P2,C4,Qwen3-0.6B,A4,0,1,,,,,,,,,,,,,,qwen/C4-P2__turn1.txt
+C4-P2,C4,ChatGPT 5.5,A1,0,2,,,,,,,,,,,,,,ChatGPT 5.5/C4-P2__turn2.txt
+C4-P2,C4,DeepSeek-R1-7B,A3,0,2,,,,,,,,,,,,,,deepseek/C4-P2__turn2.txt
+C4-P2,C4,Qwen3-0.6B,A1,0,2,,,,,,,,,,,,,,qwen/C4-P2__turn2.txt
+C4-P3,C4,ChatGPT 5.5,A2,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C4-P3__turn0.txt
+C4-P3,C4,DeepSeek-R1-7B,A4,0,0,,,,,,,,,,,,,,deepseek/C4-P3__turn0.txt
+C4-P3,C4,Qwen3-0.6B,A2,0,0,,,,,,,,,,,,,,qwen/C4-P3__turn0.txt
+C4-P3,C4,ChatGPT 5.5,A3,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C4-P3__turn1.txt
+C4-P3,C4,DeepSeek-R1-7B,A1,0,1,,,,,,,,,,,,,,deepseek/C4-P3__turn1.txt
+C4-P3,C4,Qwen3-0.6B,A3,0,1,,,,,,,,,,,,,,qwen/C4-P3__turn1.txt
+C4-P3,C4,ChatGPT 5.5,A4,0,2,,,,,,,,,,,,,,ChatGPT 5.5/C4-P3__turn2.txt
+C4-P3,C4,DeepSeek-R1-7B,A2,0,2,,,,,,,,,,,,,,deepseek/C4-P3__turn2.txt
+C4-P3,C4,DeepSeek-R1-7B,A1,1,2,,,,,,,,,,,,,,deepseek/C4-P3__turn2.txt
+C4-P3,C4,Qwen3-0.6B,A4,0,2,,,,,,,,,,,,,,qwen/C4-P3__turn2.txt
+C5-P1,C5,ChatGPT 5.5,A1,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C5-P1__turn0.txt
+C5-P1,C5,DeepSeek-R1-7B,A3,0,0,,,,,,,,,,,,,,deepseek/C5-P1__turn0.txt
+C5-P1,C5,Qwen3-0.6B,A1,0,0,,,,,,,,,,,,,,qwen/C5-P1__turn0.txt
+C5-P1,C5,ChatGPT 5.5,A2,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C5-P1__turn1.txt
+C5-P1,C5,DeepSeek-R1-7B,A4,0,1,,,,,,,,,,,,,,deepseek/C5-P1__turn1.txt
+C5-P1,C5,Qwen3-0.6B,A2,0,1,,,,,,,,,,,,,,qwen/C5-P1__turn1.txt
+C5-P2,C5,ChatGPT 5.5,A3,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C5-P2__turn0.txt
+C5-P2,C5,DeepSeek-R1-7B,A1,0,0,,,,,,,,,,,,,,deepseek/C5-P2__turn0.txt
+C5-P2,C5,Qwen3-0.6B,A3,0,0,,,,,,,,,,,,,,qwen/C5-P2__turn0.txt
+C5-P2,C5,ChatGPT 5.5,A4,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C5-P2__turn1.txt
+C5-P2,C5,DeepSeek-R1-7B,A2,0,1,,,,,,,,,,,,,,deepseek/C5-P2__turn1.txt
+C5-P2,C5,Qwen3-0.6B,A4,0,1,,,,,,,,,,,,,,qwen/C5-P2__turn1.txt
+C5-P3,C5,ChatGPT 5.5,A1,0,0,,,,,,,,,,,,,,ChatGPT 5.5/C5-P3__turn0.txt
+C5-P3,C5,DeepSeek-R1-7B,A3,0,0,,,,,,,,,,,,,,deepseek/C5-P3__turn0.txt
+C5-P3,C5,Qwen3-0.6B,A1,0,0,,,,,,,,,,,,,,qwen/C5-P3__turn0.txt
+C5-P3,C5,ChatGPT 5.5,A2,0,1,,,,,,,,,,,,,,ChatGPT 5.5/C5-P3__turn1.txt
+C5-P3,C5,DeepSeek-R1-7B,A4,0,1,,,,,,,,,,,,,,deepseek/C5-P3__turn1.txt
+C5-P3,C5,Qwen3-0.6B,A2,0,1,,,,,,,,,,,,,,qwen/C5-P3__turn1.txt
