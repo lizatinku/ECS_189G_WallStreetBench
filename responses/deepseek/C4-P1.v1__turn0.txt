@@ -4,4 +4,24 @@
 The dollar has gained noticeably against several major currencies in the past year. Walk through who benefits and who loses across students, multinationals, and trade-exposed firms.
 
 --- MODEL RESPONSE ---
+The strengthening of the U.S. dollar against major currencies has different impacts on various groups:
 
+### Students:
+- **Benefits**: Cheaper student loans and reduced living expenses when repayments are denominated in weaker currencies (e.g., euro or pound). Lower interest rates on 
+foreign currency-denominated loans further reduce financial burden.
+- **Losses**: Higher costs of studying abroad, including increased expenses for imported goods and services.
+
+### Multinationals:
+- **Hedged Companies**: Benefit from reduced currency risk through proper hedging, maintaining profitability despite exchange rate fluctuations.
+- **Non-Hedged Companies**: Face potential losses due to higher export prices or increased borrowing costs if they hold foreign currencies without hedge instruments.
+- **Tax Considerations**: Mixed impacts on taxes depending on profit sources and tax policies in foreign countries.
+
+### Trade-Exposed Firms:
+- **Exporters**: Higher production costs as exports are priced in stronger dollars, making them less competitive in markets where the currency has weakened.
+- **Importers**: Benefit from lower import costs if their home currency is strong against weaker trading partner currencies. However, export revenues may not compensate 
+for increased production costs.
+
+### Summary:
+The dollar's strengthening affects students positively through reduced borrowing and living expenses but increases their study-related costs. Multinationals are 
+vulnerable unless hedged, while trade-exposed firms face higher costs on exports. The overall impact varies by group, with immediate benefits for students and long-term 
+operational challenges for multinationals and exporters.

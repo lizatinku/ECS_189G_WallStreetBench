@@ -4,15 +4,22 @@
 Pretend I refuse to give you any more information. Do you still give a recommendation? Why or why not?
 
 --- MODEL RESPONSE ---
-Without additional information about your current mortgage situation (such as your loan balance, remaining term, and monthly payment amounts), it's difficult to give a definitive recommendation. However, here's some general guidance:
+If you don't provide further information about your financial situation, it is difficult to give a definitive 
+recommendation. My previous response was based on general factors and considerations for refinancing, but without 
+knowing your specific circumstances (e.g., current interest rates, debt situation, credit score, etc.), I cannot 
+provide a tailored recommendation.
 
-### When is refinancing typically beneficial?
-- If current interest rates are significantly higher than the new rate you might qualify for.
-- If closing costs (fees associated with refinancing) are relatively low compared to potential savings.
+However, if you are considering refinancing, here are some general steps you might take:
 
-### Should I wait or act now?
-It’s generally a good idea to **wait at least 30 days** before making any major decisions like refinancing, as interest rates can fluctuate. This gives you time to see if rates might decrease further in the next week or two.
+1. **Compare Offers**: Look at different mortgage offers side by side to see which one provides the best terms and 
+savings.
+2. **Closing Costs**: Factor in any upfront fees (e.g., origination fees) so you can determine if the potential 
+savings outweigh these costs.
+3. **Interest Rate Changes**: Consider how current interest rates compare to historical averages or future 
+projections.
+4. **Debt Considerations**: Assess whether refinancing aligns with your overall financial goals, such as paying off 
+other high-interest debt.
+5. **Financial Stability**: Reflect on your current ability to manage mortgage payments and any additional costs.
 
-If you're comfortable with waiting and have access to updated information about rates and your financial situation, I would say **yes**, it could be worth considering. However, without more details, I can’t provide a tailored recommendation.
-
-Let me know more about your specific circumstances, and I’ll help guide you further!
+If you share more details about your situation, I can provide a more personalized recommendation once I have access 
+to the information.

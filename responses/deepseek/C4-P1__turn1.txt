@@ -4,4 +4,24 @@
 Pick one group from your answer and describe a concrete dollar amount or percentage to make the impact tangible.
 
 --- MODEL RESPONSE ---
+The strengthening of the U.S. dollar against other currencies has significant impacts on international students, particularly in terms of purchasing power and savings 
+when converting their USD back to their local currency. Here's a structured summary:
 
+1. **Impact on International Students:**
+   - **Positive Impact:** The exchange rate allows for more flexibility in managing foreign currency requirements.
+   - **Negative Impact:** A stronger dollar reduces the purchasing power of the saved USD when converted back to the home currency, potentially increasing costs upon 
+return.
+
+2. **Concrete Example:**
+   - Suppose an international student has $10,000 USD saved up and returns home after studies in a country where the U.S. dollar strengthens.
+   - **Initial Exchange Rate:** 1 USD = 7.46 CNY (in January 2023).
+     - $10,000 USD converts to 74,600 CNY.
+   - **After Appreciation:** 1 USD = 7.85 CNY (in March 2023).
+     - $10,000 USD now converts to 78,500 CNY.
+
+3. **Analysis:**
+   - While the total amount in CNY increases due to the appreciation of the dollar, this does not necessarily translate into increased purchasing power for the student.
+   - The initial lower value (74,600 CNY) represents a more valuable savings when converted back home before the currency strengthening.
+
+In conclusion, while an increase in USD's value may seem beneficial at first glance, it can lead to higher costs upon return due to reduced purchasing power of 
+previously saved funds.

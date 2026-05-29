@@ -4,8 +4,26 @@
 What would be a leading indicator that the oil shock is starting to flow through to consumer prices?
 
 --- MODEL RESPONSE ---
-To determine a leading indicator of an oil price shock affecting consumer prices, consider the following key points:
+To determine whether an oil price shock is beginning to impact consumer prices, several indicators and factors should be considered:
 
-1. **Sector-Specific Cost Increases**: Monitor industries heavily reliant on oil, such as airlines and trucking companies, which may pass higher fuel costs onto consumers through increased ticket prices or shipping fees.
+1. **Inflation Rates**: An increase in inflation, particularly at the transportation or fuel level, may indicate that higher oil costs are being passed on to consumers 
+through increased expenses for goods and services.
 
-2. **
+2. **Sector-Specific Costs**: Monitoring changes in operational costs within sectors like transportation (shipping) and manufacturing could signal that oil price 
+increases are affecting these areas before being transmitted to consumer prices.
+
+3. **Consumer Behavior**: Surveys or data tracking higher expenses related to transportation and fuel usage can provide insights into consumers' adaptation to increased 
+costs, suggesting their ability to pass on these costs through product pricing.
+
+4. **Energy Company Performance**: Profits or expense increases reported by energy companies might indicate that higher oil prices are influencing supply chain costs 
+upstream in the economy.
+
+5. **Survey Data and Consumer Reports**: Information from consumers about rising expenses for transportation and fuel can directly reflect their experience of cost 
+transmission from oil to end products.
+
+6. **Movement of Oil Prices**: Sustained increases in crude oil or gasoline prices could be a precursor to broader economic effects, though it should be considered 
+alongside other independent factors influencing oil markets.
+
+By analyzing these indicators across various sectors and regions, one can gain a more comprehensive understanding of whether an oil price shock is beginning to flow 
+through to consumer prices. However, due to the complexity and time lag involved in the transmission process, relying on multiple sources of data provides the most 
+reliable insights.

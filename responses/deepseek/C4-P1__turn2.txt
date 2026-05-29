@@ -4,4 +4,31 @@
 Which group is hurt most quickly, and which experiences the impact with the longest lag?
 
 --- MODEL RESPONSE ---
-In analyzing the impact of the U.S. dollar strengthening against other currencies over the past year, it is evident that while international students benefit from reduced conversion costs and increased purchasing power, both multinational companies and import/export businesses experience negative
+
+**Answer:**
+
+The impact of a stronger U.S. dollar on different groups can vary depending on when and how the currency change occurs relative to their activities. Here's a breakdown:
+
+1. **International Students:**
+   - **Most Immediate Impact:** When international students convert their saved U.S. dollars back into their home currency upon returning, they experience direct effects 
+of the currency exchange rate at the time of return.
+   - **Purchasing Power Concerns:** If the dollar strengthens closer to their return, it could directly affect their purchasing power for goods and services at home.
+
+2. **Multinational Companies:**
+   - **Quick Adjustment Needs:** Multinational companies may need to adjust their pricing strategies immediately after currency changes are known. This can involve 
+raising prices or reducing costs to maintain profit margins.
+   - **Profit Margin Impact:** The adjustment process could happen relatively quickly, as these decisions are often made in response to current financial situations.
+
+3. **Import/Export Businesses:**
+   - **Immediate Cost Savings:** Import/export businesses may experience immediate cost savings from cheaper imports due to the stronger dollar.
+   - **Long-Term Pricing Challenges:** Export businesses might face challenges if they have fixed export prices in U.S. dollars, requiring them to adjust strategies over 
+time.
+
+**Conclusion:**
+
+- **Hurt Most Quickly:** International students are likely to experience the most immediate impact of a stronger U.S. dollar upon converting their saved money back home.
+- **Longest Lag:** Import/export businesses may face longer-term impacts due to delayed adjustments in pricing and potential mismatches between cost savings from imports 
+and expected export revenue.
+
+In summary, while international students are hit first with the direct effects of currency exchange, import/export businesses may experience more prolonged adjustments 
+as they adapt to new market conditions.
