@@ -6,22 +6,14 @@ Which of these three pass-throughs typically lags the most, and why?
 --- MODEL RESPONSE ---
 **Auto loan rates typically lag the most.**
 
-Reason: their link to Fed cuts is **indirect and filtered through many pricing layers**.
+Credit card APRs usually adjust relatively quickly because many are variable-rate products linked to the **prime rate**, which closely follows the Fed’s policy rate. Long-duration tech stocks can reprice almost immediately because public equity markets continuously update expectations about future rates, growth, and risk appetite.
 
-Fed cut → lower short-term funding costs → possible easing in bank/finance-company funding → auto-loan pricing decisions → dealer/manufacturer incentives → borrower-specific offered rate.
+Auto loans are slower because the pass-through is less mechanical. Lenders price them off a mix of funding costs, Treasury yields, securitization conditions, credit spreads, dealer incentives, borrower risk, loan terms, and competition. Since most auto loans are fixed-rate loans originated at the time of purchase, existing borrowers usually do not see their rate change; only new loans gradually reflect easier monetary conditions.
 
-That chain can take time, and it can be offset by other factors: credit spreads, default risk, used-car prices, loan term, borrower credit score, lender competition, and whether manufacturers are subsidizing rates.
+So the usual lag ranking is:
 
-By contrast:
+**Fastest:** long-duration tech stocks
+**Next:** credit card APRs
+**Slowest:** auto loan rates
 
-**Credit card APRs** usually adjust faster because many are variable-rate products tied to the **prime rate**, which moves closely with the Fed funds rate. There may be a billing-cycle delay, but the formula is fairly direct.
-
-**Long-duration tech stocks** may react fastest in market prices because stocks trade on **expectations**, not just actual rate changes. If investors expect cuts, tech valuations can move before the Fed cuts at all. But the effect is not guaranteed because earnings expectations and risk appetite may move at the same time.
-
-So the rough lag ranking is:
-
-**Tech stocks: often immediate/anticipatory**
-**Credit card APRs: relatively fast, formula-driven**
-**Auto loan rates: slowest and least complete pass-through**
-
-For existing fixed-rate auto loans, the pass-through is basically **zero unless the borrower refinances**.
+The key distinction is that equities reprice on expectations, credit cards often follow a direct formula, and auto loans depend on slower-moving lender pricing and credit-market conditions.

@@ -4,32 +4,39 @@
 How would your answer change if the student's job is in a volatile industry?
 
 --- MODEL RESPONSE ---
-If the student’s job is in a **volatile industry**, I would shift the answer noticeably toward **renting**, or at least toward **delaying buying** until their income is more stable.
+It would push the analysis more toward **renting**, unless the student has unusually strong savings or outside support.
 
-The reason is that buying adds **fixed obligations** and **exit friction**. The mortgage is not just the $1,820 principal-and-interest payment; affordability should include taxes, insurance, mortgage insurance, HOA fees, and other loan costs, not just the headline mortgage payment. The CFPB specifically advises buyers to assess their finances and monthly budget before choosing a mortgage, and notes that mortgage choice involves costs beyond the interest rate or monthly payment. ([Consumer Financial Protection Bureau][1])
+A volatile industry makes the “how long will I stay?” assumption even more fragile. The student may need to relocate, accept a job in another city, switch employers, or endure a period of unemployment. Buying adds leverage and illiquidity right when flexibility is valuable.
 
-So the fragile assumption changes from:
+The biggest changes are:
 
-**“How long will the student stay?”**
+| Factor            | Effect of volatile job market                          |
+| ----------------- | ------------------------------------------------------ |
+| Holding period    | Less predictable; short holding period risk rises      |
+| Emergency savings | More important; down payment may be better kept liquid |
+| Mortgage risk     | Fixed payment becomes dangerous if income drops        |
+| Mobility          | Renting becomes more valuable                          |
+| Forced-sale risk  | Higher chance of selling during a bad market           |
+| Opportunity cost  | Cash tied in home equity may be hard to access         |
 
-to:
+I would also stress-test a harsher scenario:
 
-**“Can the student keep paying during a bad income shock?”**
+1. Student loses job or funding for 3–6 months.
+2. Needs to move after year 2 or 3.
+3. Condo prices are flat or down 5%.
+4. HOA rises faster than expected.
+5. Selling costs consume 5–7% of the condo value.
 
-For a volatile-industry job, I would stress-test the buying scenario like this:
+That scenario is painful because home equity is not the same as cash. Even if the condo has “value,” the student still has to cover monthly payments, HOA, taxes, insurance, and selling costs.
 
-| Stress test                  | Question                                                                       |
-| ---------------------------- | ------------------------------------------------------------------------------ |
-| 6 months unemployed          | Can they cover mortgage + HOA + insurance + food + debt without panic-selling? |
-| 20–30% income drop           | Does the condo still fit the budget?                                           |
-| Forced relocation            | Can they rent out the condo at a cash-flow-neutral level?                      |
-| Condo value drops 10%        | Can they sell without bringing cash to closing?                                |
-| HOA/special assessment shock | Could they absorb an unexpected $3k–$10k expense?                              |
+So my revised bottom line would be:
 
-The decision would tip back toward buying only if they have a **large emergency fund after the down payment**, stable backup income/family support, strong job prospects in the same city, and the condo could realistically be rented out if they need to move.
+**In a volatile industry, renting becomes the safer default.** Buying only makes sense if the student has a large emergency fund after closing, a high confidence of staying put, stable fallback income, and a condo that could be rented out legally and profitably if they had to move.
 
-My revised bottom line:
+The key question becomes less:
 
-**With volatile income, renting is the safer default.** Buying only makes sense if the student can survive unemployment or relocation without being forced to sell at a bad time.
+**“Which is cheaper over five years?”**
 
-[1]: https://www.consumerfinance.gov/owning-a-home/prepare/figure-out-how-much-you-want-to-spend/?utm_source=chatgpt.com "Figure out how much you want to spend"
+and more:
+
+**“Which choice preserves survivability if income or location changes suddenly?”**

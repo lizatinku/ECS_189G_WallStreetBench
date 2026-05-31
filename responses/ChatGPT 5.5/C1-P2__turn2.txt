@@ -4,23 +4,22 @@
 What is the smallest amount of additional data that would meaningfully change your reasoning?
 
 --- MODEL RESPONSE ---
-The smallest useful addition would be the **exact six-week date range plus one broad risk-appetite benchmark**, such as the **S&P 500/Nasdaq and VIX** over the same period.
+The smallest useful addition would be **the exact six-week dates**.
 
-That would meaningfully change the reasoning because:
+With just the dates, I could check what kind of market regime it was: broad risk-off, crypto-specific stress, rate shock, dollar move, geopolitical event, ETF-flow reversal, etc. Without dates, the same Bitcoin/gold divergence can mean several different things.
 
-* **If Bitcoin fell while equities also fell and VIX rose**, the “risk-off” interpretation becomes much stronger.
-* **If Bitcoin fell while equities were stable/rising and VIX was calm**, then the Bitcoin move looks more likely **crypto-specific**, not evidence of a broad safe-haven shift.
-* **If gold rose while real yields fell or geopolitical stress increased**, gold’s rise looks more like classic safe-haven behavior.
-* **If gold rose for technical/central-bank/dollar reasons**, then the gold-Bitcoin divergence says less about investor fear.
+The next-smallest data point that would meaningfully change the reasoning is:
 
-So the absolute minimum I’d want is:
+**How the Nasdaq/S&P 500 and real yields moved over the same six weeks.**
 
-**1. The exact dates**
-**2. S&P 500 or Nasdaq performance**
-**3. VIX movement**
+That gives a quick test:
 
-With only those, I could already distinguish between:
+If Bitcoin fell while stocks also fell and gold rose, the “Bitcoin traded like a risk asset; gold acted more defensive” interpretation gets stronger.
 
-**“Investors broadly moved away from risk”**
-versus
-**“Bitcoin had a crypto-specific selloff while gold moved for unrelated reasons.”**
+If Bitcoin fell while stocks were flat or rising, I’d look harder for crypto-specific causes.
+
+If gold rose because real yields fell or the dollar weakened, the gold move may not be “safe haven” behavior so much as a rates/currency response.
+
+If Bitcoin fell despite a favorable macro backdrop for risk assets, that weakens any broad investor-risk-off explanation.
+
+So the minimum meaningful dataset is: **exact dates + one broad risk benchmark + real yields or the dollar**. Even that would not prove rotation from Bitcoin into gold, but it would sharply narrow the explanation.

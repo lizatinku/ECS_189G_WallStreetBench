@@ -4,10 +4,10 @@
 Rewrite the argument so that it correctly uses P/E to make a much weaker, defensible claim.
 
 --- MODEL RESPONSE ---
-A weaker, defensible version would be:
+A defensible version would be:
 
-> Tesla’s P/E ratio of 95 is much higher than Ford’s P/E ratio of 7, which suggests that investors are pricing Tesla with much stronger expectations for future growth, profitability, or strategic upside than Ford. This valuation gap does not by itself prove that Tesla is overvalued or that Ford is undervalued, since the two companies differ in growth prospects, margins, business mix, and risk profile. However, the high relative multiple does mean Tesla’s stock may be more vulnerable if its future earnings growth disappoints or if investors reduce the premium they are willing to pay for its expected growth.
+“Tesla’s P/E ratio of 95 is far higher than Ford’s P/E ratio of 7, which shows that investors are paying much more for each dollar of Tesla’s current earnings than for Ford’s. This does not prove Tesla is overvalued, because Tesla may have stronger growth prospects, higher expected margins, or valuable business opportunities outside traditional auto manufacturing. However, the large valuation gap means Tesla’s stock appears to require much more optimistic assumptions about future earnings growth and profitability than Ford’s. If those expectations are not met, Tesla may be more vulnerable to multiple compression.”
 
-Even shorter:
+Even weaker and cleaner:
 
-> Tesla’s P/E ratio is far higher than Ford’s, so Tesla appears to be priced with much more optimistic future expectations. This does not prove Tesla is overvalued, but it suggests the stock may carry greater valuation risk if those expectations are not met.
+“Tesla’s much higher P/E ratio suggests the market has significantly higher expectations for Tesla than for Ford. That makes Tesla’s valuation more sensitive to disappointments in growth, margins, or execution, but it does not by itself prove that Tesla is overvalued or that Ford is undervalued.”

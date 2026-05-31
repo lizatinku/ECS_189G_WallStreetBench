@@ -4,29 +4,32 @@
 Which assumption in your analysis is most fragile, and what would you do to stress-test it?
 
 --- MODEL RESPONSE ---
-The most fragile assumption is **holding period**: the idea that the student will stay long enough for buying to overcome transaction costs and early mortgage-interest-heavy payments.
+The most fragile assumption is **how long the student will actually stay**.
 
-For a graduate student, this is especially uncertain because graduation, job placement, internships, visa/location constraints, relationship/family changes, or PhD/postdoc plans can force a move earlier than expected.
+That assumption drives almost everything else because buying has high fixed entry and exit costs. A condo can look attractive over 7–10 years but unattractive over 2–3 years, even with the same mortgage rate and rent growth.
 
-To stress-test it, I would run a break-even table across different exit dates:
+I would stress-test it by running the rent-vs-buy comparison under several holding periods:
 
-| Scenario           | What to test                                               | Likely implication            |
-| ------------------ | ---------------------------------------------------------- | ----------------------------- |
-| Sell after 2 years | Closing costs + selling costs + little principal paid down | Buying likely loses           |
-| Sell after 3 years | Some rent growth, but still high transaction cost burden   | Usually still risky           |
-| Sell after 5 years | More rent inflation avoided, more equity built             | Buying may become competitive |
-| Keep 7+ years      | Rent keeps compounding, mortgage fixed                     | Buying becomes much stronger  |
+| Holding period | Likely effect                                                     |
+| -------------: | ----------------------------------------------------------------- |
+|        2 years | Strongly favors renting unless condo appreciates unusually fast   |
+|      3–4 years | Usually still risky for buying because transaction costs dominate |
+|      5–7 years | Break-even zone; appreciation, HOA, and rent growth matter a lot  |
+|    8–10+ years | Buying becomes more plausible if ownership costs are controlled   |
 
-Then I’d add pessimistic assumptions:
+Then I would add a second stress test: assume the student is forced to sell at a bad time.
 
-* Condo value falls **5–10%**
-* Rent growth is only **1–2%**, not 4%
-* HOA rises or special assessment appears
-* No refinance opportunity
-* Student must sell quickly after graduation
+For example:
 
-The key stress test is:
+* Home prices flat for 5 years
+* Home prices fall 5–10%
+* HOA rises 5–8% annually
+* One special assessment of $5,000–$15,000
+* Sale costs of roughly 5–7% of the condo value
+* Student moves after year 3 instead of year 6
 
-**“If I had to move in 2–3 years, would buying still be tolerable, or would it create a financial problem?”**
+The question I’d ask is:
 
-If the answer is “that would be painful,” renting is probably the safer choice. If the student can either stay long-term or rent out the condo after moving, then buying becomes much less fragile.
+**Can the buying case still survive if the student leaves earlier than planned and the condo does not appreciate?**
+
+If the answer is no, then the “I’ll stay long enough” assumption is carrying the whole analysis. For a graduate student, that is especially fragile because graduation, job market outcomes, relationships, internships, funding, and location preferences can change quickly.

@@ -4,24 +4,23 @@
 If you observed long-duration tech rallying but credit card APRs flat, what would that imply about the transmission channel?
 
 --- MODEL RESPONSE ---
-It would imply that the observed effect is coming mainly through the **expectations/asset-pricing channel**, not the **mechanical consumer-rate pass-through channel**.
+It would imply the observed transmission is probably working more through **expectations and asset-pricing channels** than through **mechanical consumer-credit pass-through**.
 
-Long-duration tech can rally because investors expect:
+Long-duration tech can rally if investors expect:
 
-[
-\text{lower future discount rates} \rightarrow \text{higher present value of future cash flows}
-]
+**lower future discount rates → higher present value of distant cash flows**
 
-or because risk appetite improves. That can happen **before** actual loan rates adjust, and even if consumer APRs have not moved yet.
+That can happen even before, or without, visible reductions in household borrowing rates.
 
-Flat credit card APRs would suggest one of three things:
+Flat credit card APRs would suggest the **direct prime-rate channel is weak, delayed, or being offset**. Possible reasons include:
 
-1. **The Fed cut has not yet passed through to prime/APRs**, perhaps because of billing-cycle timing or lender adjustment lags.
-2. **The rally is driven by expected future cuts**, not already-realized short-rate reductions.
-3. **The tech rally is not mainly about lower borrowing costs**, but about lower long-term discount rates, lower risk premiums, better earnings expectations, or AI/growth optimism.
+**1. The market is pricing expected cuts, not realized pass-through.**
+Tech stocks can move on anticipated Fed policy or falling long-term yields, while card APRs usually respond to actual benchmark changes and billing-cycle resets.
 
-So the key inference is:
+**2. Issuers are widening margins.**
+Even if prime falls, card companies may keep APRs flat by increasing the spread over prime, especially if delinquencies or charge-off risk are rising.
 
-**Tech stocks are responding to market expectations and valuation discount rates, while credit card APRs are showing little evidence yet of direct pass-through to household borrowing costs.**
+**3. Credit risk is dominating the policy-rate effect.**
+A Fed cut lowers the risk-free component, but credit card APRs also include compensation for default risk, funding pressure, and regulatory/capital costs.
 
-That means monetary transmission is visible first in **financial markets**, not yet in **consumer credit conditions**.
+So the signal would be: **monetary easing is showing up in valuation multiples and discount rates, but not yet in unsecured consumer-credit terms.** That is an indirect financial-market transmission, not a broad direct borrowing-cost transmission.

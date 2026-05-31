@@ -4,59 +4,54 @@
 The Federal Reserve has cut its policy rate by 75 basis points over the past nine months. How might this transmit to (a) credit card APRs, (b) auto loan rates, and (c) the price of long-duration tech stocks? Explain which links are direct and which are indirect.
 
 --- MODEL RESPONSE ---
-A **75 bp Fed cut does not pass through equally** to all rates or asset prices. The Fed directly controls the **overnight policy-rate target**, and that normally affects other short rates and broader financial conditions, but the further you move from overnight lending, the more indirect the link becomes. ([Federal Reserve][1])
+Taking the 75 bp cut as given, the transmission differs a lot by asset/loan type.
 
-### (a) Credit card APRs — **most direct**
+### (a) Credit card APRs: most direct, but not always full
 
-This is the clearest pass-through. Most credit cards have **variable APRs** tied to the **prime rate**, and the prime rate closely follows the federal funds rate. The Boston Fed describes the usual formula as:
+Credit card APRs are often variable and commonly priced as:
 
-> credit card APR ≈ prime rate + issuer/customer margin
+**APR = prime rate + issuer margin**
 
-and notes that prime is typically the federal funds rate plus about 3 percentage points. ([Federal Reserve Bank of Boston][2])
+The prime rate tends to move closely with the Fed’s policy rate. So a 75 bp Fed cut can pass through fairly directly into variable credit card APRs, often with a short lag.
 
-So, if the Fed cuts 75 bp and prime falls roughly 75 bp, a variable credit card APR may also fall about **75 bp**, often within one or two billing cycles. But the borrower-specific margin stays high, so a card at 24.99% might become around 24.24%, not suddenly “cheap.” Current H.15 data show the bank prime loan rate at **6.75%**, consistent with a fed funds target upper limit of **3.75%**. ([Federal Reserve][3])
+But the pass-through may not be exactly 75 bp because card issuers can adjust margins, risk pricing, fees, or promotional terms. Also, credit card APRs are very high relative to the Fed funds rate, so a 75 bp cut may look small: for example, a 24.99% APR might become roughly 24.24%, not dramatically cheaper.
 
-**Link type:** Direct from Fed funds → prime → variable APR.
-**Caveat:** Only matters if the borrower carries a balance.
+**Link:** direct through prime-rate-linked variable pricing.
 
-### (b) Auto loan rates — **indirect and incomplete**
+---
 
-Auto loan rates are not mechanically tied to the Fed funds rate. New auto loans are usually priced from a mix of:
+### (b) Auto loan rates: indirect and less one-for-one
 
-borrower credit score, term length, dealer/manufacturer incentives, bank/ABS funding costs, expected defaults, used-car collateral values, and Treasury/swap yields around the loan’s maturity.
+Most auto loans are fixed-rate installment loans. Their rates are influenced by the Fed, but not mechanically tied to the policy rate.
 
-So a Fed cut can help by lowering banks’ funding costs and short-term rates, but the pass-through is weaker. If longer-term Treasury yields stay high, credit spreads widen, car prices rise, or incentives fall, auto loan rates may not fall much. Cox Automotive even notes that new-vehicle loan rates can rise while the Fed is cutting if vehicle supply, incentives, and pricing conditions move the other way. ([Cox Automotive Inc.][4])
+The Fed cut can lower auto rates through several channels:
 
-Existing fixed-rate auto loans usually **do not change** unless refinanced.
+**Fed cuts → lower short-term rates / lower Treasury yields → cheaper funding for lenders → lower offered auto loan rates**
 
-**Link type:** Mostly indirect: Fed funds → funding/yield curve/credit conditions → lender pricing → auto loan rates.
-**Caveat:** Credit score can dominate the Fed effect; Cox notes one credit-tier improvement can reduce rates by 2+ percentage points, much larger than a 75 bp Fed move. ([Cox Automotive Inc.][4])
+But auto loan rates also depend on:
 
-### (c) Long-duration tech stocks — **indirect, but potentially powerful**
+borrower credit risk, used-car collateral values, loan term, bank/dealer competition, securitization markets, and credit spreads.
 
-The Fed does **not** directly set tech stock prices. But long-duration tech stocks are very sensitive to discount rates because much of their value comes from expected cash flows far in the future.
+So a 75 bp policy-rate cut might reduce auto loan rates, but the move may be smaller, delayed, or offset if lenders become more worried about defaults.
 
-In simple valuation terms:
+**Link:** mostly indirect through funding costs, Treasury yields, and credit conditions.
 
-[
-P = \sum_t \frac{CF_t}{(1+r)^t}
-]
+---
 
-When the discount rate (r) falls, far-future cash flows rise more in present value. That is why growth/tech stocks often benefit when markets believe rates will be lower for longer. The Chicago Fed describes three channels from easier monetary policy to stock prices: higher expected profits, lower risk-free discount rates, and lower risk premiums. ([Federal Reserve Bank of Chicago][5])
+### (c) Long-duration tech stocks: indirect, but potentially powerful
 
-But this is not automatic. If the Fed cuts because the economy is weakening, investors may lower expected earnings or demand a higher risk premium. Also, tech valuations depend more on **long-term real rates** and risk appetite than on the overnight Fed rate alone. A 75 bp cut in the policy rate does not guarantee a 75 bp fall in the 10-year yield; recent H.15 data show short rates near the policy range while the 10-year Treasury yield was around **4.50%**, illustrating that the long end can move differently. ([Federal Reserve][3])
+Long-duration tech stocks get much of their value from expected cash flows far in the future. In valuation terms:
 
-**Link type:**
-Direct valuation channel: lower expected discount rates → higher present value of future earnings.
-Indirect channels: Fed cuts → growth expectations, risk appetite, credit conditions, dollar, AI/earnings expectations → tech stock prices.
+**Lower discount rates → higher present value of future earnings → higher stock prices**
+
+So Fed cuts can support long-duration tech stocks by reducing risk-free rates and possibly lowering companies’ cost of capital. This effect is especially strong for growth companies whose profits are expected far out in time.
+
+But the link is not mechanical. Stock prices also depend on earnings expectations, AI/product cycles, risk appetite, equity risk premia, and why the Fed is cutting. If cuts happen because inflation is falling and growth remains solid, tech valuations may rise. If cuts happen because recession risk is rising, lower discount rates may be offset by weaker expected earnings or higher risk premia.
+
+**Link:** indirect through discount rates, long-term yields, liquidity, and investor risk appetite.
+
+---
 
 ### Bottom line
 
-Credit cards have the **most direct** transmission. Auto loans have a **partial and indirect** transmission. Long-duration tech stocks can react strongly, but mostly through **market expectations about discount rates, growth, and risk premiums**, not through a mechanical Fed-rate formula.
-
-[1]: https://www.federalreserve.gov/aboutthefed/fedexplained/monetary-policy.htm "The Fed Explained - Monetary Policy"
-[2]: https://www.bostonfed.org/publications/current-policy-perspectives/2026/how-interest-rate-changes-affect-credit-card-spending.aspx "How Interest Rate Changes Affect Credit Card Spending - Federal Reserve Bank of Boston"
-[3]: https://www.federalreserve.gov/releases/h15/ "Federal Reserve Board - H.15 - Selected Interest Rates (Daily) - May 27, 2026"
-[4]: https://www.coxautoinc.com/insights-hub/auto-loan-rates-trend-higher-as-federal-reserve-cuts-rate-policy/ "Auto Loan Rates Trend Higher as Federal Reserve Cuts Rate Policy - Cox Automotive Inc."
-[5]: https://www.chicagofed.org/publications/economic-perspectives/2023/5 "
-Monetary Policy and the Stock Market in the Covid Era - Federal Reserve Bank of Chicago    "
+Credit card APRs have the most direct transmission because many are explicitly tied to prime rates. Auto loan rates are affected indirectly through funding markets and credit conditions. Long-duration tech stocks are also affected indirectly, but the valuation impact can be large because their cash flows are far in the future and therefore highly sensitive to discount-rate changes.

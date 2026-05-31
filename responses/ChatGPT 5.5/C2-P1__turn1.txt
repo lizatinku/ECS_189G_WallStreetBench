@@ -6,85 +6,60 @@ Walk through a concrete example: a household earning $90,000/year considering a 
 --- MODEL RESPONSE ---
 Assume:
 
-**Household income:** $90,000/year = **$7,500/month gross income**
-**Home price:** $450,000
-**Down payment:** 20% = $90,000
-**Loan amount:** $360,000
-**Mortgage:** 30-year fixed
+* Household income: **$90,000/year**, or **$7,500/month gross**
+* Home price: **$450,000**
+* Down payment: **20%**, or **$90,000**
+* Mortgage amount: **$360,000**
+* Loan: **30-year fixed**
+* Property tax estimate: **1.2% of home value**, or **$450/month**
+* Home insurance estimate: **$150/month**
+* No PMI because of 20% down
 
-### 1. Monthly mortgage payment changes a lot
+### Monthly payment comparison
 
-|  Rate | Loan amount | Monthly principal + interest |
-| ----: | ----------: | ---------------------------: |
-| 3.00% |    $360,000 |       about **$1,518/month** |
-| 6.37% |    $360,000 |       about **$2,245/month** |
+| Item                           |      3% mortgage |   6.37% mortgage |
+| ------------------------------ | ---------------: | ---------------: |
+| Principal & interest           | about **$1,518** | about **$2,244** |
+| Property taxes                 |         **$450** |         **$450** |
+| Insurance                      |         **$150** |         **$150** |
+| Estimated monthly housing cost |       **$2,118** |       **$2,844** |
 
-So the same house costs about:
+The higher rate adds about **$726/month**, or about **$8,700/year**, for the same home at the same price.
 
-**$727 more per month**
-or about **$8,724 more per year**
+### Affordability impact
 
-That is a large hit to the household budget.
+At $90,000/year, gross monthly income is **$7,500**.
 
-### 2. Share of income going to mortgage rises
+| Measure                   |      3% mortgage |   6.37% mortgage |
+| ------------------------- | ---------------: | ---------------: |
+| Estimated housing payment | **$2,118/month** | **$2,844/month** |
+| Share of gross income     |        **28.2%** |        **37.9%** |
 
-At **3%**, the mortgage payment is:
+At **3%**, this home is near a common affordability threshold: around 28% of gross income.
 
-**$1,518 / $7,500 = about 20.2% of gross monthly income**
+At **6.37%**, the same home becomes much more stretched. A housing-cost ratio near 38% may still be possible for some borrowers, but it leaves less room for student loans, car payments, childcare, repairs, savings, and emergencies. Many lenders would scrutinize the full debt-to-income ratio closely.
 
-At **6.37%**, it becomes:
+### Buying power falls sharply
 
-**$2,245 / $7,500 = about 29.9% of gross monthly income**
+To keep the same principal-and-interest payment as the 3% mortgage, the household could borrow only about **$243,000** at 6.37%, instead of **$360,000**.
 
-So the mortgage alone moves from a fairly comfortable level to almost **30% of gross income**, before property taxes, insurance, utilities, maintenance, and other debts.
+With a 20% down payment, that implies a home price around:
 
-### 3. Adding taxes and insurance makes affordability tighter
+**$243,000 ÷ 80% = about $304,000**
 
-Suppose property taxes are around **1.25% of home value per year**, and insurance is about **$150/month**.
+So, purely from the rate change, the household’s buying power falls from a **$450,000 home** to roughly a **$304,000 home** for the same mortgage payment. That is a drop of about **32%** in affordable home price, assuming the same down payment percentage.
 
-Property tax estimate:
+### What changes in practical terms
 
-**$450,000 × 1.25% / 12 = about $469/month**
+At **3%**, the household can plausibly consider the $450,000 home, assuming modest other debts.
 
-Then total housing cost becomes:
+At **6.37%**, they may need to do one or more of the following:
 
-|  Rate | Mortgage | Tax + insurance estimate | Total monthly housing cost |
-| ----: | -------: | -----------------------: | -------------------------: |
-| 3.00% |   $1,518 |               about $619 |     about **$2,137/month** |
-| 6.37% |   $2,245 |               about $619 |     about **$2,864/month** |
+* Buy a cheaper home
+* Make a larger down payment
+* Accept a much tighter monthly budget
+* Wait for rates or prices to fall
+* Look for seller concessions or a mortgage-rate buydown
+* Choose a smaller home or different location
 
-As a share of gross income:
-
-|  Rate | Total housing cost / income |
-| ----: | --------------------------: |
-| 3.00% |             about **28.5%** |
-| 6.37% |             about **38.2%** |
-
-That is the key difference: at **3%**, this household may look reasonably qualified. At **6.37%**, the same home may look stretched or unaffordable under many lender standards, especially if the household has student loans, car payments, credit card debt, childcare costs, or high insurance costs.
-
-### 4. Buying power falls sharply
-
-To keep the same **$1,518/month** principal-and-interest payment at a **6.37%** rate, the household could only borrow about **$243,000** instead of $360,000.
-
-With 20% down, that implies a home price around:
-
-**$243,000 / 0.80 = about $304,000**
-
-So, very roughly, the household that could afford a **$450,000 home at 3%** might only afford around a **$300,000 home at 6.37%** if they want the same mortgage payment.
-
-### 5. Lifetime interest cost also increases
-
-Over 30 years:
-
-|  Rate | Total payments on $360,000 loan | Total interest paid |
-| ----: | ------------------------------: | ------------------: |
-| 3.00% |              about **$546,399** |  about **$186,399** |
-| 6.37% |              about **$808,112** |  about **$448,112** |
-
-The higher-rate mortgage costs about **$261,700 more in interest** over the full loan term, assuming no refinancing or early payoff.
-
-### Bottom line
-
-For this household, the move from **3% to 6.37%** changes the $450,000 home from “possibly affordable” to “much tighter.” Monthly payments rise by about **$727**, the housing-cost burden rises from about **28.5% to 38.2%** of gross income after estimated taxes and insurance, and the household’s purchasing power falls dramatically.
-
-The uncertainty is that real affordability also depends on the down payment, local property taxes, insurance, HOA fees, credit score, other debts, lender rules, and whether the buyer expects to refinance later. But the basic effect is clear: higher mortgage rates reduce demand because they make the same home much more expensive to finance.
+The uncertainty is that home prices, taxes, insurance, wages, and inventory all matter too. If prices fall, affordability improves. If insurance or taxes rise, affordability worsens. And if supply remains tight, prices may not fall enough to offset the higher mortgage rate.

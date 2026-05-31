@@ -4,34 +4,40 @@
 The dollar has gained noticeably against several major currencies in the past year. Walk through who benefits and who loses across students, multinationals, and trade-exposed firms.
 
 --- MODEL RESPONSE ---
-A stronger dollar means **$1 buys more foreign currency**, but **foreign currencies buy fewer dollars**. So the impact depends on whether someone is paying in dollars, earning in dollars, importing, exporting, or translating foreign income back into dollars. The Fed’s broad dollar index is a trade-weighted measure against major U.S. trading partners, so it is a useful benchmark even though individual currencies can move differently. ([Federal Reserve][1])
+I can’t verify the latest “past year” exchange-rate move because web search is disabled here. But assuming the dollar has appreciated noticeably against major currencies, the effects usually look like this:
 
-### International students
+## Students
 
-**Losers:** international students in the U.S. whose families earn income in weaker home currencies. Tuition, rent, health insurance, and daily expenses are mostly priced in dollars, so their effective cost rises. For example, if tuition and living costs are **$60,000 per year** and the home currency falls **10%** against the dollar, the family effectively needs about **10% more home currency** to pay the same U.S. bill.
+U.S. students studying abroad generally benefit. A stronger dollar buys more foreign currency, so tuition, rent, food, travel, and local expenses abroad become cheaper in dollar terms. A semester in Europe, Japan, Canada, or the U.K. becomes more affordable for families whose income or savings are in dollars.
 
-**Beneficiaries:** students from the U.S. studying abroad, or international students whose savings/income are already in dollars. Their dollars go further for rent, food, travel, and tuition abroad.
+International students in the U.S. usually lose, especially if their families earn in weaker currencies. U.S. tuition, housing, and living costs become more expensive when converted into their home currency. That can force students to draw down more savings, borrow more, work more, or choose cheaper schools.
 
-### Multinational companies
+U.S. students with foreign scholarships or stipends lose if those payments are denominated in a weakening foreign currency. The stipend converts into fewer dollars.
 
-**U.S.-based multinationals lose on foreign revenue translation.** If Apple, Microsoft, or Coca-Cola earns revenue in euros, yen, or pounds, those foreign earnings convert into fewer dollars when reported in U.S. financial statements. Even if unit sales abroad are unchanged, reported dollar revenue can fall.
+## Multinationals
 
-**They may benefit on imported inputs or overseas investment.** A strong dollar makes foreign labor, components, factories, and acquisitions cheaper in dollar terms. A U.S. firm buying machinery from Japan or services from India may face lower dollar costs.
+U.S.-based multinationals often lose on translation. Revenue earned in euros, yen, pounds, yuan, or other currencies converts into fewer dollars on financial statements. Even if foreign sales volumes are unchanged, reported dollar revenue and profit can fall.
 
-**Non-U.S. multinationals with dollar debt are hurt.** If a company earns in local currency but borrowed in dollars, its interest and principal payments become more expensive in local-currency terms.
+They may also lose competitiveness abroad. If their costs are mostly in dollars but they sell overseas, their products become more expensive relative to local competitors unless they cut prices and accept lower margins.
 
-### Import/export businesses
+But multinationals with foreign costs can benefit. A U.S. company that pays workers, suppliers, rent, or utilities abroad in weaker local currencies may see those costs fall in dollar terms. Firms with global supply chains may get some margin relief.
 
-**U.S. importers benefit first.** Retailers, wholesalers, and firms that buy foreign goods can import products more cheaply. This can improve profit margins or lower prices for consumers.
+Foreign multinationals selling into the U.S. often benefit. Their U.S. sales translate into more home currency, and the strong dollar can make the American market especially attractive.
 
-**U.S. exporters are hurt.** American goods become more expensive for foreign buyers. A U.S. machine priced at **$100,000** becomes harder to sell abroad if foreign customers need much more local currency to buy it.
+## Trade-exposed firms
 
-**Foreign exporters to the U.S. can benefit.** If they produce in a weaker currency but sell into the U.S. market, their goods become more price-competitive. They may either cut dollar prices to gain market share or keep prices stable and earn higher local-currency revenue.
+U.S. importers generally benefit. A stronger dollar makes foreign-made goods, components, machinery, raw materials, and finished products cheaper in dollar terms. Retailers, manufacturers using imported inputs, and firms buying foreign equipment may see lower costs.
 
-### Timing
+U.S. exporters generally lose. Their goods become more expensive for foreign buyers, which can reduce demand. They may need to discount prices, absorb margin pressure, or lose market share to foreign rivals.
 
-The group hurt most quickly is usually **international students paying U.S. expenses from foreign-currency income**, because tuition, rent, and living costs are immediate.
+Domestic firms competing with imports can lose. If foreign products become cheaper because of the stronger dollar, U.S. producers face tougher price competition at home. This matters for industries like manufacturing, agriculture, steel, autos, machinery, apparel, and some chemicals.
 
-The longest-lag effect is often on **multinational companies and exporters**, because contracts, hedging, pricing decisions, and supply-chain adjustments delay the impact. Over time, though, a strong dollar can seriously reduce export competitiveness and reported foreign earnings.
+Firms with dollar-denominated debt outside the U.S. can lose badly. A company earning revenue in a weaker local currency but owing debt in dollars has to spend more local currency to service the same dollar debt.
 
-[1]: https://www.federalreserve.gov/releases/h10/summary/?utm_source=chatgpt.com "Foreign Exchange Rates - H.10 - Nominal/Real Indexes"
+Commodity-linked firms face mixed effects. Since many commodities are priced in dollars, a stronger dollar can pressure global commodity demand and prices. That can hurt exporters of oil, metals, and agricultural products, though firms that import commodities may benefit from cheaper inputs.
+
+## The clean summary
+
+A stronger dollar tends to help Americans who buy foreign goods, travel abroad, study abroad, or import inputs. It tends to hurt U.S. exporters, foreign students in the U.S., U.S. firms with overseas earnings, and foreign borrowers with dollar debt.
+
+The biggest winners are dollar earners spending abroad or buying imports. The biggest losers are non-dollar earners who must pay dollar costs, and firms whose foreign revenues shrink when translated back into dollars.

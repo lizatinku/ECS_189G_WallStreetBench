@@ -4,30 +4,14 @@
 If you only had the closing prices and no news context, how confident should an analyst be in attributing this move to a specific cause?
 
 --- MODEL RESPONSE ---
-An analyst should have **low confidence** in attributing the move to any specific cause.
+An analyst should have **low confidence** in attributing the move to any specific cause using only closing prices.
 
-With only closing prices, you can say:
+Closing prices can show **what happened**—Tesla rose from $352 to $428, about **21.6%**—but they do not show **why** it happened. Without news, volume, intraday trading behavior, sector performance, market index moves, options activity, earnings dates, analyst actions, macro data, or peer comparisons, any causal explanation would be speculative.
 
-[
-352 \rightarrow 428
-]
+A reasonable analyst could say:
 
-is about a **21.6% increase**, so the stock showed a **strong positive price trend** over that month.
+> “The stock exhibited strong upward momentum over the period, but the available data are insufficient to identify the driver.”
 
-But you **cannot reliably say why** it happened. Closing prices alone do not reveal whether the move was caused by:
+They might form hypotheses, such as market-wide risk appetite, company-specific expectations, short covering, or sector rotation, but those should be framed as **possible explanations**, not conclusions.
 
-* company-specific news,
-* earnings expectations,
-* broader market rally,
-* sector-wide EV/tech momentum,
-* short covering,
-* interest-rate expectations,
-* investor sentiment,
-* technical trading patterns,
-* or random volatility.
-
-So the correct analytical wording would be something like:
-
-> “Tesla’s closing price increased substantially over the month, indicating short-term bullish momentum. However, without additional information such as news events, earnings data, market conditions, trading volume, or sector performance, we cannot confidently attribute the movement to a specific cause.”
-
-In other words: **high confidence in identifying the trend, low confidence in explaining the cause.**
+So confidence in the **trend** is high; confidence in a **specific causal attribution** is low.

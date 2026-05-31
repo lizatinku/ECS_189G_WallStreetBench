@@ -4,30 +4,36 @@
 Mortgage rates are still more than double their 2021 lows. Discuss the implications for first-time home buyers, existing homeowners, and the broader housing market.
 
 --- MODEL RESPONSE ---
-As of Freddie Mac’s latest PMMS data, the 30-year fixed mortgage rate was **6.51% on May 21, 2026**, versus **2.65% on Jan. 7, 2021**—about **2.5 times higher**. On a $400,000 30-year mortgage, that difference raises principal-and-interest from about **$1,612/month** to **$2,531/month**, before taxes and insurance. ([Freddie Mac][1])
+Assuming the premise is right, higher mortgage rates reshape the housing market mainly by lowering purchasing power, locking in current owners, and slowing transactions.
 
 ## First-time home buyers
 
-For first-time buyers, the biggest effect is **affordability compression**. Higher rates reduce how much house a buyer can qualify for at the same income, so buyers either need a higher income, a larger down payment, a cheaper home, or must accept a much higher monthly payment. This is especially painful because home prices have not fallen enough to offset rates: NAR reported an April 2026 median existing-home price of about **$417,700**, still up year over year. ([National Association of REALTORS®][2])
+First-time buyers are hit hardest because they usually rely more on mortgage financing and have less home equity to bring to the purchase.
 
-It also changes buyer behavior. First-time buyers may delay purchasing, rent longer, buy farther from job centers, choose smaller homes, use rate buydowns, or consider adjustable-rate mortgages. The slight upside is that the market is less frantic than the 2020–2021 period: inventory has improved somewhat and days on market are longer, giving some buyers more room to negotiate. But that benefit is uneven because inventory still remains tight in many areas. ([National Association of REALTORS®][3])
+A mortgage rate that is more than double the 2021 lows can raise monthly payments dramatically even if the home price is unchanged. That means buyers either need higher income, a larger down payment, or a cheaper home. Many end up compromising on location, size, or condition, while others keep renting longer.
+
+This also widens inequality. Buyers with family help, high incomes, or cash-heavy balance sheets can still compete. Buyers without those advantages face a steeper barrier to entry, especially when rents, insurance, taxes, and student debt are already pressuring budgets.
 
 ## Existing homeowners
 
-Existing homeowners with low fixed-rate mortgages are in a much stronger position **if they stay put**. A 3% mortgage is now almost like a financial asset: selling the home often means giving up a cheap loan and replacing it with a much more expensive one. This creates the “lock-in effect.” Freddie Mac describes this as a major factor limiting homes available for sale, and FHFA research found that the probability of sale falls sharply when current market rates exceed a homeowner’s original mortgage rate. ([Freddie Mac][4])
+Existing homeowners are split into two groups.
 
-But homeowners are also constrained. People who want to move for a job, a larger home, downsizing, divorce, school district, or family reasons may stay in homes that no longer fit their needs. Refinancing is also much less attractive: instead of refinancing to lower payments, many owners are avoiding refinancing unless they need cash or have another strong reason.
+Homeowners who bought or refinanced at very low rates are often “locked in.” Selling would mean giving up a cheap mortgage and taking on a much more expensive one. As a result, many delay moving, even when their current home no longer fits their needs. This reduces housing mobility.
+
+Homeowners with adjustable-rate mortgages, home equity loans, or upcoming refinancing needs face more pressure. Higher rates make refinancing less attractive and can increase debt-service costs. But many owners with fixed low-rate mortgages benefit from a kind of financial insulation: their housing payment is relatively cheap compared with today’s market.
 
 ## Broader housing market
 
-The broader market becomes **frozen rather than simply weak**. Higher rates reduce demand, but low-rate homeowners also reduce supply by not listing. That combination can keep transaction volume low while preventing large national price declines. NAR reported April 2026 existing-home sales at a seasonally adjusted annual rate of **4.02 million**, basically flat year over year, while inventory was **1.47 million units**, or **4.4 months’ supply**—better than the extreme shortage period, but still not a fully loose market. ([National Association of REALTORS®][2])
+The biggest effect is lower transaction volume. Buyers are less able to afford homes, while sellers are less willing to list. That creates a strange market: demand is weaker, but supply can also remain tight.
 
-New construction is affected differently. Builders may offer incentives or mortgage-rate buydowns, so new homes can become relatively more attractive than existing homes. But high rates also weaken sales and make builders cautious: Reuters reported that April 2026 new single-family home sales fell **6.2%** month over month and **11.3%** year over year, while new-home supply rose to **9.4 months**. ([Reuters][5])
+Prices do not necessarily fall sharply, especially in areas with strong job growth and limited housing supply. Instead, the market can become frozen: fewer listings, fewer sales, longer search times, and more negotiation around concessions, rate buydowns, and closing costs.
 
-Overall, elevated rates redistribute power: **cash buyers and high-income buyers gain relative advantage**, first-time buyers face a higher barrier to entry, existing low-rate homeowners stay protected but locked in, and the market sees fewer transactions, slower mobility, and more regional divergence. If rates fall meaningfully, demand may rebound—but so could competition, so affordability may not improve as much as buyers hope.
+Homebuilders may benefit in some markets because existing-home inventory is constrained. Builders can offer incentives, smaller floor plans, and mortgage-rate buydowns in ways individual sellers often cannot. But high rates also raise financing costs for developers, which can limit new construction.
 
-[1]: https://www.freddiemac.com/pmms "Mortgage Rates - Freddie Mac"
-[2]: https://www.nar.realtor/newsroom/nar-existing-home-sales-report-shows-0-2-increase-in-april "NAR Existing-Home Sales Report Shows 0.2% Increase in April"
-[3]: https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales "Existing-Home Sales"
-[4]: https://www.freddiemac.com/research/insight/mortgage-rate-lock-in?utm_source=chatgpt.com "Mortgage Rate Lock-In and the Housing Market"
-[5]: https://www.reuters.com/business/us-new-home-sales-slump-april-amid-higher-mortgage-rates-prices-2026-05-28/ "US new home sales slump in April amid higher mortgage rates, prices | Reuters"
+## The macroeconomic picture
+
+Housing is a major channel through which interest rates affect the economy. High mortgage rates cool demand for homes, renovations, furniture, appliances, and brokerage services. They also reduce household mobility, which can make labor markets less flexible.
+
+The long-term risk is that high rates plus limited supply keep ownership out of reach for younger households. That can delay wealth-building, family formation, and geographic mobility. Even if rates eventually fall, affordability may not fully recover unless incomes rise, prices adjust, or housing supply expands meaningfully.
+
+The overall implication is not simply “high rates hurt buyers.” It is that high rates create a divided market: renters and first-time buyers face much worse affordability, many existing owners are protected but stuck, and the broader market becomes less liquid, less mobile, and more dependent on local supply conditions.

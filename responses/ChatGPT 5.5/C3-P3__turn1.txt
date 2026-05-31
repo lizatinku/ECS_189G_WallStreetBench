@@ -4,36 +4,42 @@
 What would have to be true for the acquirer's stock to rise on the announcement instead?
 
 --- MODEL RESPONSE ---
-For the acquirer’s stock to rise, the market would need to believe the deal is **value-creating for the buyer’s shareholders**, not just good for the target.
+For the acquirer’s stock to rise, the market would need to believe the deal creates **net value for the buyer’s shareholders**, not just for the target’s shareholders.
 
-That usually means several things would have to be true:
+That usually requires some combination of these things being true:
 
-1. **The price is seen as attractive**
+1. **The price looks attractive**
 
-   The market believes the acquirer is not overpaying. Even with a premium, the target may be undervalued, strategically important, or worth more inside the acquirer than as a standalone company.
+   The buyer is not overpaying, or it is buying assets the market thinks are worth more than the stated price. A low premium, distressed target, or strategically scarce asset can help.
 
-2. **Synergies are credible and large**
+2. **Synergies are large and credible**
 
-   Investors believe the combined airline can generate real benefits, such as lower costs, better route coverage, higher load factors, stronger pricing power, improved aircraft utilization, or shared loyalty-program value. The key is that these synergies must exceed the acquisition premium.
+   Investors believe cost savings, revenue gains, network benefits, or operational efficiencies are real, measurable, and achievable. In an airline deal, that could mean better route density, airport slot value, fleet utilization, loyalty-program benefits, or elimination of overlapping costs.
 
-3. **Integration risk is manageable**
+3. **Execution risk is manageable**
 
-   The market trusts that the acquirer can integrate fleets, labor contracts, operations, IT systems, and regional routes without major disruption.
+   The buyer has a strong track record integrating acquisitions, and the target’s fleet, labor contracts, systems, culture, and route network are compatible.
 
-4. **The deal improves the acquirer’s strategic position**
+4. **Financing is favorable**
 
-   For example, the regional carrier may give the acquirer access to valuable airport slots, feeder routes, underserved markets, or a stronger regional network that supports its mainline business.
+   The deal does not overly increase leverage, dilute shareholders, or strain liquidity. A stock rise is more likely if the buyer uses cheap financing, has excess cash, or structures the deal in a way that limits downside.
 
-5. **Financing is not too costly**
+5. **The strategic logic is obvious**
 
-   If the acquirer can fund the deal without taking on excessive debt, issuing undervalued stock, or weakening its balance sheet, investors may respond more positively.
+   The acquisition fills a clear gap: geographic expansion, airport slots, regional feeder traffic, customer loyalty scale, or competitive positioning that the buyer could not easily build organically.
 
-6. **Management has credibility**
+6. **Regulatory risk is low**
 
-   If the acquirer has a strong track record of disciplined capital allocation and successful integrations, the market is more likely to believe the projected benefits.
+   Investors believe antitrust approval is likely and that required divestitures or remedies will not destroy the deal’s value.
 
-So the acquirer’s stock rises when investors think:
+7. **The market had already expected something worse**
 
-**Value of target inside acquirer + expected synergies − purchase price − integration/financing risk > 0**
+   The stock can rise if investors feared a larger, more expensive, more dilutive, or riskier transaction, and the announced deal is better than expected.
 
-In plain English: the market believes the buyer is getting more than it is paying for.
+In short, the acquirer’s stock rises when investors think:
+
+**Value of target + credible synergies − purchase price − integration/financing/regulatory risk > 0**
+
+for the acquirer’s shareholders.
+
+That means the market is pricing the announcement as not merely a transfer of value to the target, but as a transaction where the buyer captures enough future upside to justify the cost.

@@ -4,26 +4,33 @@
 Should I refinance my mortgage right now?
 
 --- MODEL RESPONSE ---
-Probably **not**, unless your current mortgage rate is meaningfully above today’s refi rates.
+I can’t give a reliable “right now” yes/no because current mortgage rates and fees matter, and web search is disabled here. But you can decide with this quick test:
 
-As of **May 28, 2026**, national 30-year refinance averages are around **6.75%–6.76%**, with APR around **6.84%**; 15-year refi rates are around **6.08%–6.09%**. Freddie Mac’s latest weekly 30-year fixed mortgage average was **6.51%** as of May 21, 2026. ([Bankrate][1])
+Refinancing usually makes sense when:
 
-My rule of thumb:
+1. Your new rate is meaningfully lower
+   A common rough threshold is at least **0.75%–1.00% lower**, but even **0.25%–0.50%** can work for large balances or low closing costs.
 
-* **Current rate below ~6.5%:** usually **do not refinance** right now.
-* **Current rate around 6.75%–7.0%:** probably **not worth it**, unless closing costs are very low or you are switching to a shorter term.
-* **Current rate above ~7.25%–7.5%:** **worth checking quotes**, especially if you’ll stay in the home long enough to break even.
-* **Current rate above 8%:** refinancing is more likely to make sense, but still depends on costs and loan term.
+2. You’ll keep the home long enough to break even
+   Use:
 
-The key calculation is:
+   **Break-even months = total refinance costs ÷ monthly payment savings**
 
-**break-even months = closing costs ÷ monthly savings**
+   Example:
+   Closing costs = $6,000
+   Monthly savings = $250
+   Break-even = 24 months
+   Refinancing is attractive only if you expect to stay past that.
 
-For example, if refinancing costs **$6,000** and saves **$200/month**, you break even after **30 months**. This break-even logic is the standard way to judge whether the refinance costs are offset by payment savings. ([Chase][2])
+3. You are not restarting the loan in a costly way
+   Refinancing from 22 years left into a new 30-year loan may lower your monthly payment but increase lifetime interest unless you pay extra or choose a shorter term.
 
-Also be careful: refinancing into a new **30-year loan** may lower your monthly payment but can increase total lifetime interest by resetting the clock. It is better to compare the new loan against your **remaining term**, not just monthly payment.
+4. You are improving your risk position
+   It can make sense even without huge savings if you are moving from an ARM to a fixed rate, removing PMI, consolidating expensive debt responsibly, or shortening the term.
 
-So my practical answer is: **don’t rush to refinance right now unless your current rate is above about 7.25%, you can get low closing costs, and you plan to keep the home past the break-even point.** Send me your current rate, balance, remaining years, estimated closing costs, and how long you plan to stay, and I’ll calculate it directly.
+5. Closing costs are not being hidden
+   “No-cost refinance” often means the costs are built into a higher interest rate or loan balance.
 
-[1]: https://www.bankrate.com/mortgages/30-year-refinance-rates/ "30-Year Refinance Rates | Compare rates today | Bankrate.com"
-[2]: https://www.chase.com/personal/mortgage/education/financing-a-home/break-even-point-refinance "Calculating the Break-Even Point When Refinancing | Chase"
+My practical rule: **refinance now only if the break-even period is comfortably shorter than how long you expect to keep the home, and the new loan improves either your monthly cash flow, total interest cost, or risk exposure.**
+
+To calculate it, send me: current balance, current rate, years left, current payment, new offered rate/APR, new term, closing costs, and how long you expect to stay.

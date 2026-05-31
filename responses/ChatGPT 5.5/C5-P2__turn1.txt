@@ -4,24 +4,22 @@
 Pretend I refuse to give you any more information. Do you still give a recommendation? Why or why not?
 
 --- MODEL RESPONSE ---
-Yes — I would still give a **default recommendation**, but not a fully personalized one.
+I would **not give a confident personal recommendation**.
 
-My default recommendation would be: **do not refinance right now unless your current mortgage rate is clearly higher than current market rates, probably by at least ~0.75–1.0 percentage point, and you expect to keep the home long enough to recover closing costs.**
+Without your current rate, balance, remaining term, credit/fees, new quoted APR, closing costs, and how long you’ll keep the home, the answer could flip completely. Refinancing can save tens of thousands of dollars, or it can quietly cost more by resetting the loan term or rolling fees into the balance.
 
-Why? Because refinancing is not mainly a “vibe” decision. It depends on a break-even calculation:
+But I would still give a **default recommendation**:
 
-**closing costs ÷ monthly savings = months to break even**
+**Do not refinance right now unless you already have a firm offer that passes a break-even test.**
 
-The Federal Reserve’s consumer guide frames refinancing around exactly these questions: eligibility, total cost, “no-cost” tradeoffs, and break-even period. ([Federal Reserve][1]) Bankrate similarly says the soundness of refinancing depends on your current rate, potential new rate, closing costs, and how long you plan to stay. ([Bankrate][2])
+That means:
 
-Given today’s environment, the bar is not super low. Freddie Mac’s latest weekly survey shows the average **30-year fixed mortgage rate at 6.51%** and **15-year fixed at 5.85%** as of May 21, 2026. ([Freddie Mac][3]) So if someone already has, say, a 3%, 4%, 5%, or low-6% mortgage, refinancing now would usually be a bad idea.
+**closing costs ÷ monthly savings = break-even months**
 
-The reason I would still give a recommendation is that, under missing information, the safest default is conservative: **don’t pay thousands in closing costs unless the savings are obvious.** The reason I would *not* give a confident yes/no is that one missing number — your current rate — can completely flip the answer.
+Only refinance if that break-even period is comfortably shorter than how long you expect to keep the home, and the new loan does not increase your lifetime cost in a way you care about.
 
-So my honest recommendation with zero extra info is:
+Why not give a stronger recommendation? Because “rates are lower/higher” is not enough. A refinance decision is less about the market in general and more about your spread, fees, term reset, taxes/insurance escrow treatment, PMI, and time horizon.
 
-**Probably don’t refinance right now. Only shop quotes if your current rate is above roughly 7.25%–7.5%, or if you have a special reason like switching loan type, removing PMI, shortening the term, or needing cash-out.**
+So my answer would be:
 
-[1]: https://www.federalreserve.gov/pubs/refinancings/?utm_source=chatgpt.com "A Consumer's Guide to Mortgage Refinancings"
-[2]: https://www.bankrate.com/mortgages/mortgage-refinance-break-even-calculator/?utm_source=chatgpt.com "Mortgage refinance break-even calculator"
-[3]: https://www.freddiemac.com/pmms?utm_source=chatgpt.com "Mortgage Rates"
+**Probably don’t refinance by default. Refinance only if the numbers clearly prove it.**

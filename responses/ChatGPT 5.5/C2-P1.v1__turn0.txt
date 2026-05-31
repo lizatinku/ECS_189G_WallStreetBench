@@ -4,30 +4,34 @@
 U.S. 30-year mortgage rates went from roughly 3% in 2021 to a peak near 8% in late 2023 and now sit at about 6.37%. What does this mean for housing affordability and household demand for homes?
 
 --- MODEL RESPONSE ---
-It means **affordability is still much worse than in 2021, even though it has improved from the late-2023 peak**.
+I can’t verify the latest 6.37% figure because web search is disabled here, but taking your rate path as given: the move from ~3% to ~6.37% is still a major affordability shock, even though it is easier than the late-2023 peak near 8%.
 
-Freddie Mac’s 30-year fixed rate bottomed near **2.65% in January 2021**, peaked at **7.79% on Oct. 26, 2023**, and was recently around **6.37%–6.51% in May 2026**. ([Consumer Financial Protection Bureau][1])
+For a 30-year fixed mortgage, principal-and-interest payment per $100,000 borrowed is roughly:
 
-For a **$400,000 mortgage**, principal-and-interest payment is roughly:
+| Mortgage rate | Monthly P&I per $100k | Change vs. 3% |
+| ------------: | --------------------: | ------------: |
+|         3.00% |                 ~$422 |             — |
+|         6.37% |                 ~$624 |          +48% |
+|         8.00% |                 ~$734 |          +74% |
 
-| Mortgage rate | Monthly payment |
-| ------------: | --------------: |
-|         3.00% |      **$1,686** |
-|         6.37% |      **$2,494** |
-|         8.00% |      **$2,935** |
+So a buyer taking a $400,000 mortgage would pay about:
 
-So at **6.37%**, the payment is about **48% higher** than at 3%. At **8%**, it was about **74% higher**. Put differently, a household that could afford a **$400,000 loan at 3%** could only afford about a **$270,000 loan at 6.37%** with the same monthly payment.
+|  Rate | Monthly P&I |
+| ----: | ----------: |
+| 3.00% |     ~$1,686 |
+| 6.37% |     ~$2,495 |
+| 8.00% |     ~$2,935 |
 
-For housing affordability, this does three things:
+That means affordability is still far worse than in 2021. Even at 6.37%, the same home loan costs about $800 more per month than it did at 3%. To keep the same payment a buyer could afford at 3%, the loan size at 6.37% would need to be roughly one-third smaller, assuming no change in taxes, insurance, or income.
 
-1. **Reduces purchasing power.** Buyers qualify for smaller loans, need larger incomes, or must buy cheaper/smaller homes.
+For household demand, the effect is mixed:
 
-2. **Weakens household demand for home purchases.** Some renters stay renters, some buyers delay purchasing, and others shift to cheaper regions or smaller homes. NAR has noted that even a 1 percentage-point drop in mortgage rates can add millions of households back into the pool of mortgage-qualified buyers, which shows how rate-sensitive demand is. ([National Association of REALTORS®][2])
+Higher rates reduce “effective demand.” Many households may still want to buy, but fewer can qualify or are willing to pay today’s monthly cost. This weakens demand from first-time buyers and rate-sensitive move-up buyers.
 
-3. **Creates “lock-in” among existing homeowners.** People with 3% mortgages are reluctant to sell and take a new 6%+ mortgage. That limits existing-home supply, which can keep prices from falling enough to fully restore affordability.
+The lock-in effect reduces both supply and turnover. Owners with 3% mortgages are reluctant to sell and take on a 6%–7% mortgage. That keeps existing-home inventory tighter than it otherwise would be, which can prevent home prices from falling enough to fully restore affordability.
 
-So the current situation is mixed: **6.37% is meaningfully better than 8%, so demand should recover somewhat from the 2023 freeze. But it is still far above 2021 levels, so affordability remains structurally tight and household demand is still suppressed compared with the low-rate era.** Recent housing data still show pressure from higher rates; for example, new single-family home sales fell in April 2026 amid elevated mortgage rates and prices. ([reuters.com][3])
+Demand shifts toward rentals, smaller homes, cheaper metros, cash buyers, and new construction with builder incentives. Builders can offer rate buydowns, discounts, or smaller floor plans, so new-home demand may hold up better than existing-home sales.
 
-[1]: https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-the-impact-of-changing-mortgage-interest-rates/?utm_source=chatgpt.com "Data Spotlight: The Impact of Changing Mortgage Interest ..."
-[2]: https://www.nar.realtor/magazine/real-estate-news/economy/home-sales-perk-up-as-housing-affordability-improves?utm_source=chatgpt.com "Home Sales Perk Up as Housing Affordability Improves"
-[3]: https://www.reuters.com/business/us-new-home-sales-slump-april-amid-higher-mortgage-rates-prices-2026-05-28/?utm_source=chatgpt.com "US new home sales slump in April amid higher mortgage rates, prices"
+The decline from 8% to 6.37% helps at the margin. It brings some buyers back, improves qualification ratios, and may revive pending sales. But it does not “normalize” affordability relative to 2021 because payments remain dramatically higher unless home prices or incomes adjust.
+
+Bottom line: housing affordability is still deeply constrained, and household demand for homes is suppressed relative to the 2021 low-rate era. Lower rates from the 2023 peak should improve activity, but at ~6.37%, demand is likely to recover only gradually unless incomes rise, prices soften, or rates fall further.

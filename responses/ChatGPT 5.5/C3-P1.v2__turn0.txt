@@ -4,35 +4,23 @@
 Why do companies sometimes see their stock prices go up on layoff announcements? Use the recent Coinbase / Oracle / Atlassian examples.
 
 --- MODEL RESPONSE ---
-Companies’ stocks can rise after layoffs because the market is not reacting to the human cost directly; it is repricing expected **future cash flow, margins, and strategic focus**.
+Companies’ stocks can rise on layoff announcements because the market often treats layoffs less as “bad news for employees” and more as “management is protecting margins.” The reaction is usually about expected future cash flow, not whether the announcement is socially positive.
 
-For the recent examples:
+Using Coinbase, Oracle, and Atlassian as examples, the logic is roughly this:
 
-**Coinbase:** Coinbase said in May 2026 it would cut about **700 jobs, around 14% of its workforce**, with management framing it as cost control during crypto volatility and a move toward AI-enabled smaller teams. The restructuring was expected to cost **$50–60 million**, but analysts viewed it as supportive of future profitability; Coinbase shares rose about **3–4% in premarket trading** after the announcement. ([Reuters][1])
+**1. Layoffs can signal lower costs and higher future earnings.**
+Employees are a major expense, especially at software and tech companies. When Coinbase cuts headcount after a crypto downturn, or Atlassian trims teams after a hiring boom, investors may quickly model lower operating expenses. If revenue does not fall by the same amount, expected profit margins improve, so the stock can rise.
 
-**Oracle:** Oracle reportedly began layoffs on **March 31, 2026**, amid pressure from its expensive AI/cloud buildout and concerns about cash flow. Its stock rose about **6%** as investors interpreted the cuts as a way to fund AI infrastructure spending and protect margins. ([The Wall Street Journal][2])
+**2. The market may see the company as becoming more disciplined.**
+Tech firms often overhire during boom periods. A layoff announcement can be interpreted as management admitting that growth assumptions were too optimistic and now correcting course. In Coinbase’s case, layoffs during crypto weakness can be read as survival-and-profitability discipline. In Atlassian’s case, cuts can be framed as reallocating resources toward higher-priority products or cloud/AI initiatives. For Oracle, layoffs can be interpreted as pruning lower-growth areas while investing in cloud infrastructure, databases, and AI-related demand.
 
-**Atlassian:** Atlassian announced in March 2026 that it would cut about **1,600 employees, roughly 10% of staff**, while shifting investment toward AI and enterprise growth. Its shares rose nearly **2% after hours**, even though the company expected **$225–236 million** in restructuring and office-related charges. ([Atlassian][3])
+**3. Investors care about “what was already priced in.”**
+A stock does not move based on whether news is good or bad in isolation. It moves based on whether the news is better or worse than investors expected. If investors already feared a company’s costs were too high, a layoff can be a positive surprise. The stock may go up because the company is taking action sooner or more aggressively than expected.
 
-The logic is usually:
+**4. Layoffs can accompany a strategic pivot.**
+Companies often announce layoffs alongside language about focusing on “core priorities,” “efficiency,” “AI,” “cloud,” or “higher-return investments.” Investors may like the implied capital reallocation. That is especially relevant for Oracle and Atlassian, where layoffs may be seen less as shrinking the business overall and more as shifting spending toward cloud, AI, or enterprise software areas with better growth prospects.
 
-1. **Lower labor costs → higher expected margins.**
-   Payroll is a major recurring expense. Even if severance creates a short-term charge, investors may believe the company’s future operating expenses will be permanently lower.
+**5. The stock move may reflect the broader news context, not the layoff alone.**
+A layoff announcement often arrives near earnings, guidance, restructuring plans, or broader market rallies. Coinbase stock, for example, can move heavily with crypto prices and regulatory sentiment. Oracle can move with cloud bookings and AI infrastructure demand. Atlassian can move with subscription growth, cloud migration, and operating-margin targets. So “stock rose after layoffs” does not always mean “layoffs caused the rise”; layoffs may be one piece of a larger efficiency story.
 
-2. **Layoffs can signal “management discipline.”**
-   If investors think a company has become bloated, layoffs suggest management is serious about efficiency, especially in tech where headcount grew quickly during low-rate years.
-
-3. **AI framing makes the story more attractive.**
-   Coinbase, Oracle, and Atlassian all connected cuts to AI, automation, or an AI-era restructuring. Investors may read that as: “same or more output with fewer people,” which implies higher revenue per employee.
-
-4. **Capital can be redirected to higher-growth areas.**
-   Oracle is a clear case: layoffs were interpreted partly as freeing resources for AI/cloud infrastructure. Atlassian framed cuts as reallocating toward AI and enterprise sales.
-
-5. **Expectations matter more than the layoff itself.**
-   A stock rises only if the announcement is “better than feared” or improves the earnings outlook. If layoffs signal weak demand, failed strategy, or panic, the stock can fall.
-
-So the clean finance explanation is: **layoff announcements can raise stock prices when investors believe the cost savings and strategic reset increase future free cash flow more than the layoffs damage the company’s growth, morale, or execution capacity.** But the reaction can be short-term and does not prove the layoffs are good for the business long run.
-
-[1]: https://www.reuters.com/business/world-at-work/coinbase-cut-about-14-workforce-2026-05-05/?utm_source=chatgpt.com "Crypto exchange Coinbase to cut about 14% of workforce in AI-driven restructuring"
-[2]: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-03-31-2026/card/shares-in-oracle-jump-6-as-layoffs-begin-aSydyLjgHiUqenNig4UA?utm_source=chatgpt.com "Shares in Oracle Jump 6% as Layoffs Begin"
-[3]: https://www.atlassian.com/blog/company-news/atlassian-team-update-march-2026?utm_source=chatgpt.com "An important update on our team - Inside Atlassian"
+The key takeaway: layoffs can be a bearish signal about current demand, but a bullish signal about future margins. When investors believe the cost savings outweigh the damage to growth, morale, or execution, the stock can go up.

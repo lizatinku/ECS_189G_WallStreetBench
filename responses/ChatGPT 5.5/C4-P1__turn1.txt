@@ -4,19 +4,16 @@
 Pick one group from your answer and describe a concrete dollar amount or percentage to make the impact tangible.
 
 --- MODEL RESPONSE ---
-Take **international students in the U.S.**
+Take **international students**.
 
-Suppose an international student’s annual cost is:
+Suppose a student from Europe has annual U.S. costs of **$60,000** for tuition, rent, food, insurance, and fees.
 
-**Tuition + rent + living expenses = $60,000 per year**
+If the exchange rate was:
 
-If the student’s home currency weakens by **10%** against the U.S. dollar, then the same U.S. expenses become about **10% more expensive** in their home currency.
+* **€1 = $1.10**, then $60,000 cost about **€54,545**
+* After the dollar strengthens to **€1 = $1.00**, the same $60,000 costs **€60,000**
 
-So the family’s effective cost rises by:
+That student’s family would need about **€5,455 more per year**, even though the U.S. school charged the exact same dollar amount.
 
-**$60,000 × 10% = $6,000**
-
-That means the student’s family needs the equivalent of **an extra $6,000 per year** just to pay for the same tuition, rent, food, and insurance.
-
-This is a negative impact because nothing in the student’s U.S. life necessarily became more expensive in dollar terms, but after currency conversion, the burden on the family becomes much heavier. For some students, this could mean reducing spending, taking on more part-time work, using savings, or reconsidering study-abroad plans.
+That is a **10% increase in home-currency cost**, which could be enough to force the student to cut spending, take on more debt, choose a cheaper housing option, or reconsider studying in the U.S.
 

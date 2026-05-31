@@ -4,27 +4,56 @@
 Mortgage interest rates have increased by over 3 percentage points from early-2021 lows, peaking near 8% in late 2023 and sitting around 6.37% as of May 2026. How could this affect housing demand, monthly mortgage payments, and home affordability? Discuss any uncertainty or additional factors that may influence the outcome.
 
 --- MODEL RESPONSE ---
-Higher mortgage rates mainly work like a **negative demand shock** for housing: they do not directly make homes less useful, but they make financing much more expensive.
+Using your rate assumptions, the main effect is a large **payment shock** that weakens demand and affordability unless incomes rise, prices fall, or credit terms loosen.
 
-Using a **$400,000, 30-year fixed mortgage** as an example:
+### 1. Housing demand likely weakens
 
-| Mortgage rate | Monthly principal & interest |  Change vs. 2.65% |
-| ------------: | ---------------------------: | ----------------: |
-|         2.65% |             about **$1,612** |                 — |
-|         6.37% |             about **$2,494** |   **+$882/month** |
-|         7.79% |             about **$2,877** | **+$1,265/month** |
+Higher mortgage rates reduce the number of households that can qualify for a loan and make buying less attractive relative to renting or waiting. A move from roughly 3% mortgage rates to 6.37% means buyers face much higher monthly payments for the same home price, so many will lower their budgets, delay purchases, or exit the market.
 
-Freddie Mac reported the 30-year fixed rate at **2.65% in January 2021**, **7.79% in October 2023**, and **6.37% on May 7, 2026**; by May 21, 2026 it was **6.51%**. ([Freddie Mac][1]) The CFPB similarly estimates that the payment on a $400,000 loan rose by about **$1,265** from the 2021 trough to the 2023 peak. ([Consumer Financial Protection Bureau][2])
+There is also a “lock-in” effect: owners with 2.5% to 4% mortgages may avoid selling because buying another home would mean taking on a much higher rate. That can reduce both demand and supply. Fewer listings can partly offset weaker demand by keeping inventory tight and preventing prices from falling as much as affordability models alone would suggest.
 
-**Housing demand:** Higher rates reduce the number of buyers who qualify for mortgages and lower the amount many buyers can bid. Some households delay buying, keep renting, choose smaller homes, move to cheaper areas, or wait for rates to fall. This weakens transaction volume. For example, Reuters reported that April 2026 new single-family home sales fell **6.2%** and were down **11.3% year over year**, with elevated mortgage rates cited as a constraint. ([Reuters][3])
+### 2. Monthly mortgage payments rise sharply
 
-**Monthly payments:** The effect is large because mortgages are long-term loans. Even if the home price is unchanged, a move from roughly **2.65% to 6.37%** raises the monthly principal-and-interest payment by roughly **55%** on the same loan size. That means a buyer who could afford a $400,000 loan at 2.65% could afford only about **$258,500** at 6.37% if they wanted to keep the same monthly payment.
+For a 30-year fixed mortgage, principal and interest per **$100,000 borrowed** would be approximately:
 
-**Affordability:** Affordability worsens because buyers face both higher financing costs and still-high home prices. NAR reported an April 2026 existing-home median sales price of **$417,800**, with only **4.4 months of inventory**, so lower demand has not necessarily translated into a large price correction everywhere. ([National Association of REALTORS®][4]) Higher rates can also create a “lock-in effect”: homeowners with very low pandemic-era mortgages may avoid selling, which restricts supply and can keep prices elevated. ([Consumer Financial Protection Bureau][2])
+| Mortgage rate | Monthly P&I per $100k |
+| ------------: | --------------------: |
+|         3.00% |                  $422 |
+|         6.37% |                  $624 |
+|         8.00% |                  $734 |
 
-The outcome is uncertain because mortgage rates are only one part of the market. Strong income growth, falling home prices, more inventory, builder incentives, mortgage-rate buydowns, or lower future rates could support demand. But weak employment, tighter credit, higher property taxes and insurance, persistent inflation, or higher Treasury yields could make affordability worse. The effect will also vary by region: expensive, supply-constrained markets may stay unaffordable, while areas with rising inventory may see more price reductions.
+So for a **$400,000 mortgage**:
 
-[1]: https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-hit-new-record-low-first-week-2021?utm_source=chatgpt.com "Mortgage Rates Hit a New Record Low the First Week of 2021"
-[2]: https://www.consumerfinance.gov/data-research/research-reports/data-spotlight-the-impact-of-changing-mortgage-interest-rates/ "Data Spotlight: The Impact of Changing Mortgage Interest Rates | Consumer Financial Protection Bureau"
-[3]: https://www.reuters.com/business/us-new-home-sales-slump-april-amid-higher-mortgage-rates-prices-2026-05-28/ "US new home sales slump in April amid higher mortgage rates, prices | Reuters"
-[4]: https://www.nar.realtor/research-and-statistics/housing-statistics/existing-home-sales "Existing-Home Sales"
+| Mortgage rate |  Monthly P&I |
+| ------------: | -----------: |
+|         3.00% | about $1,686 |
+|         6.37% | about $2,494 |
+|         8.00% | about $2,935 |
+
+At 6.37%, the payment on the same $400,000 loan is about **48% higher** than at 3%. At 8%, it is about **74% higher**.
+
+Another way to see the affordability hit: a buyer who could afford a $400,000 loan at 3% could afford only about **$270,000** at 6.37% for the same principal-and-interest payment, assuming the same 30-year term. At 8%, that falls to about **$230,000**.
+
+### 3. Home affordability deteriorates
+
+Affordability depends on home prices, mortgage rates, income, insurance, taxes, and down payments. Higher rates worsen affordability because more of a buyer’s income goes to interest rather than principal.
+
+For example, even if the home price does not change, the buyer’s required income rises materially because lenders look at debt-to-income ratios. If home prices remain elevated while rates rise, affordability falls especially hard. This can price out first-time buyers, reduce bidding wars, and shift demand toward smaller homes, cheaper metros, condos, or rentals.
+
+### 4. But the outcome is uncertain
+
+The impact is not mechanical because several factors can offset or amplify higher rates:
+
+Home prices may adjust downward in weaker markets, partly restoring affordability. But in supply-constrained markets, prices may stay firm despite higher rates.
+
+Income growth can absorb some payment shock. If wages rise faster than expected, demand may be more resilient.
+
+Inventory matters a lot. Low supply can keep prices high even when demand falls. More new construction or more existing-home listings could put downward pressure on prices.
+
+Credit conditions matter. Tighter lending standards would further reduce demand; looser standards, buydowns, adjustable-rate mortgages, or seller concessions could support demand.
+
+Expectations matter. If buyers believe rates will fall, they may buy now and hope to refinance later. If they believe rates will stay high or prices will fall, they may wait.
+
+Regional differences are large. High-cost, rate-sensitive markets may see bigger demand declines, while areas with strong job growth, population inflows, or limited housing supply may hold up better.
+
+Overall, a rise from early-2021 lows to around 6.37% would normally **reduce housing demand, raise monthly payments substantially, and worsen affordability**, but the final effect on prices and sales depends heavily on inventory, income growth, local labor markets, buyer psychology, and whether rates are expected to fall.

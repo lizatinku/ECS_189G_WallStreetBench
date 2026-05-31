@@ -4,18 +4,22 @@
 How should an investor interpret the 22% jump in the target — is it 'free money' for someone who already owned shares?
 
 --- MODEL RESPONSE ---
-Not exactly “free money.” It is better interpreted as a **sudden repricing of the target’s shares based on the expected takeover value**.
+For someone who already owned the target before the announcement, the 22% jump is a real mark-to-market gain, but it is not “free money” in the sense of riskless value.
 
-For someone who already owned the target before the announcement, the 22% jump is a real mark-to-market gain. They benefited because the market now expects the acquirer to pay a premium above the target’s previous standalone value.
+It mostly represents the market rapidly repricing the target from a standalone company to a takeover candidate. The new price usually reflects:
 
-But it is not risk-free because the stock price after the announcement reflects probabilities. The target’s shares may trade:
+**Offer value minus deal risk.** If the buyer offers, say, $50 per share and the stock trades at $47 after the announcement, the $3 gap is the market’s estimate of risks such as regulatory approval, shareholder approval, financing, timing, or renegotiation.
 
-**below the offer price** if investors think there is deal risk, such as regulatory rejection, shareholder opposition, financing problems, or a failed closing.
+**Probability-weighted outcomes.** The post-announcement price blends scenarios: the deal closes at the offer price, the deal breaks and the stock falls back toward its unaffected price, another bidder appears, or terms change.
 
-**near the offer price** if the market thinks the deal is very likely to close.
+**Time value.** Even if the deal is likely to close, shareholders may wait months to receive cash or buyer stock. The spread compensates investors for that waiting period and uncertainty.
 
-**above the offer price** if investors think a higher competing bid may appear.
+So for an existing holder, the jump is a windfall from having owned an asset that became more valuable because control of the company is now being sold. But after the announcement, the remaining upside is usually not free money; it is merger-arbitrage risk.
 
-So for an existing shareholder, the gain is real, but it is not “free money” in the sense of guaranteed profit. It is compensation for having already held a risky asset before the positive acquisition news arrived.
+A simple interpretation:
 
-For a new investor buying after the 22% jump, the situation is different. They are not capturing the original takeover premium; they are taking a merger-arbitrage bet on whether the deal closes, whether the final price changes, and how long the capital is tied up.
+Before announcement: you owned business risk.
+
+After announcement: you own deal-closing risk.
+
+The gain is “earned” by having borne the pre-announcement uncertainty. The remaining spread exists because the market is not treating the deal as guaranteed.

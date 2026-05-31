@@ -4,22 +4,10 @@
 Which group is hurt most quickly, and which experiences the impact with the longest lag?
 
 --- MODEL RESPONSE ---
-**Hurt most quickly: international students funded by foreign currency.**
-
-They feel the impact almost immediately because tuition, rent, insurance, food, and daily expenses are paid in **U.S. dollars**. If their family’s home currency weakens, the cost jumps as soon as they convert money.
-
-Example: if rent is **$1,500/month** and the home currency weakens by **10%**, the family effectively pays **10% more in home-currency terms right away**. There is almost no delay.
+**Hurt most quickly: international students.**
+They feel the impact almost immediately when they exchange home currency into U.S. dollars to pay tuition, rent, food, insurance, or fees. A weaker home currency means the same dollar bill costs more right away. The effect can show up within days or weeks, especially around tuition-payment deadlines.
 
 **Longest lag: multinational companies.**
+Many large firms hedge currency exposure, set contracts in advance, and adjust prices only gradually. The stronger dollar may not fully appear in earnings until future quarters, when foreign revenue is translated back into dollars or when new contracts, pricing decisions, and supply-chain costs reset.
 
-Multinational companies often feel the effect more slowly because they may have:
-
-hedging contracts, long-term supplier agreements, delayed financial reporting, pricing strategies, and foreign subsidiaries whose profits are converted back into dollars quarterly or annually.
-
-For example, a U.S. company earning revenue in Europe may not fully show the damage until the next earnings report, when euro revenue is translated back into fewer U.S. dollars. It may also take months before weaker foreign demand affects sales volumes.
-
-So the timing is roughly:
-
-**Immediate impact:** international students and travelers
-**Short-term impact:** import/export businesses
-**Longest lag:** multinational companies, especially large firms with hedging and global operations.
+Import/export businesses are in the middle. Importers and exporters may feel the exchange-rate effect quickly on new orders, but existing contracts, inventory, hedging, and shipping timelines can delay the full impact.

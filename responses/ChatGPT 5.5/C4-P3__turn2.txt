@@ -4,29 +4,20 @@
 What would be a leading indicator that the oil shock is starting to flow through to consumer prices?
 
 --- MODEL RESPONSE ---
-A good **leading indicator** is **retail gasoline prices**, especially the weekly movement in regular gasoline prices.
+A strong leading indicator is **retail gasoline prices**, especially the national average price at the pump.
 
-Oil shocks usually reach consumers first through:
+Gasoline flows into consumer prices quickly because it is directly included in CPI and consumers buy it frequently. When crude oil spikes, wholesale gasoline prices usually move first, then retail pump prices follow within **days to a few weeks**. That makes gasoline one of the earliest visible signs that an oil shock is reaching households.
 
-**crude oil → wholesale gasoline / diesel → retail gasoline prices → transport costs → broader CPI**
+For broader pass-through beyond the gas pump, watch **diesel prices and freight fuel surcharges**. Diesel affects trucking, delivery, agriculture, and distribution costs. If diesel rises and surcharges start showing up in shipping contracts or delivery costs, that suggests the shock may soon appear in prices for groceries, packaged goods, building materials, and retail items.
 
-So the earliest signs are:
+A practical sequence is:
 
-| Indicator                                     | Why it matters                                                                | Timing                                    |
-| --------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------- |
-| **Retail gasoline prices**                    | Directly enters consumer inflation and is highly visible to households.       | **Days to weeks** after oil move          |
-| **RBOB gasoline futures**                     | Market expectation for future gasoline prices before they appear at the pump. | **Immediate to days**                     |
-| **Diesel prices**                             | Important for trucking, logistics, agriculture, and delivery costs.           | **Days to weeks**                         |
-| **Airfares / freight rates**                  | Shows whether fuel costs are being passed through by transportation firms.    | **Weeks to 1–2 months**                   |
-| **PPI: transportation, chemicals, packaging** | Shows input-cost pressure before it reaches final consumer goods.             | **1–3 months**                            |
-| **CPI gasoline and energy services**          | Confirms the pass-through has reached consumers.                              | **1 month+**, depending on release timing |
+**Crude oil rises → wholesale gasoline/diesel rises → pump prices and diesel surcharges rise → transportation and input costs rise → consumer goods prices rise.**
 
-The **best early signal** is probably:
+Typical timing:
 
-> **Rising gasoline and diesel prices, especially if they persist for several weeks.**
+**Gasoline CPI impact:** days to weeks.
+**Freight and delivery cost impact:** weeks to a few months.
+**Broader goods and food price pass-through:** one to three quarters, depending on contracts, inventories, and pricing power.
 
-If gasoline rises only briefly, the inflation effect may stay concentrated in the energy component. But if **diesel, freight, packaging, and producer prices** also rise, that suggests the oil shock is moving beyond the gas pump into broader consumer prices.
-
-A clean way to say it:
-
-**Watch gasoline for the first-round effect; watch diesel, freight rates, and PPI for evidence of broader pass-through.**
+So the cleanest early signal is **pump gasoline prices**; the better signal for broader inflation pressure is **diesel plus freight surcharges**.

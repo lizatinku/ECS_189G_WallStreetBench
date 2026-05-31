@@ -4,18 +4,28 @@
 A major airline announces it will acquire a smaller regional carrier for $4.2 billion. The acquirer's stock drops 6% on the news while the target's stock jumps 22%. Explain why this asymmetric reaction is common in M&A and what it implies about how the market is pricing the deal.
 
 --- MODEL RESPONSE ---
-This asymmetric stock reaction is very common in M&A because the **target usually receives an acquisition premium**, while the **acquirer bears the cost and execution risk**.
+This reaction is common because the economics of an acquisition are usually split unevenly between the buyer and the seller.
 
-For the **target company**, the 22% jump likely means the offer price is above the target’s pre-announcement market value. In acquisitions, buyers often need to pay a premium to convince target shareholders to sell. So the target stock moves upward toward the implied takeover price.
+For the **target**, a 22% jump usually means investors believe shareholders are receiving a takeover premium. In M&A, the buyer often pays more than the target’s unaffected market value to convince shareholders and the board to sell. So the target’s stock moves toward the implied offer price, adjusted for deal risk.
 
-For the **acquirer**, the 6% drop suggests investors are worried that the buyer may be **overpaying** or that the deal may destroy value for acquirer shareholders. The market may be pricing in concerns such as:
+For the **acquirer**, a 6% drop can reflect several concerns:
 
-* The $4.2 billion price is too high relative to the regional carrier’s standalone value.
-* Expected synergies may be uncertain or exaggerated.
-* Integration could be difficult, especially in airlines where labor, routes, fleet compatibility, regulation, and debt matter.
-* The deal may increase leverage or reduce financial flexibility.
-* The acquirer’s management may be pursuing growth rather than shareholder value.
+The market may think the buyer is **overpaying**, especially if the offer price includes a large premium.
 
-So the market reaction implies: **target shareholders are expected to capture immediate value through the takeover premium, while acquirer shareholders are skeptical that the buyer will earn enough future benefits to justify the purchase price.**
+Investors may doubt the promised **synergies**, such as cost savings, route optimization, loyalty-program benefits, or fleet efficiencies.
 
-In event-study terms, the deal’s value appears to be redistributed unevenly: the target gains because it is being bought at a premium, while the acquirer loses because investors believe some of that premium may come at the expense of its own shareholders.
+The deal may create **integration risk**, which is especially relevant in airlines because labor contracts, fleet complexity, airport slots, union issues, IT systems, and regulatory approvals can be difficult.
+
+The acquisition may increase **leverage or dilution**. If the buyer uses debt, the balance sheet becomes riskier; if it uses stock, existing shareholders may be diluted.
+
+There may also be **regulatory risk**, particularly in airlines, where consolidation can raise antitrust and competition concerns.
+
+The asymmetric reaction implies that the market is saying: “This is clearly valuable for the target’s shareholders, but less obviously value-creating for the acquirer’s shareholders.”
+
+A useful way to read the stock moves is:
+
+Target up 22% = market expects a meaningful premium and some probability the deal closes.
+
+Acquirer down 6% = market is subtracting value from the buyer because it believes the purchase price, execution risk, financing burden, or regulatory uncertainty may outweigh the benefits.
+
+So the market is not necessarily saying the deal will fail. It is saying the target shareholders are capturing much of the immediate deal value, while the buyer’s shareholders may be funding that value transfer and bearing the risk that the promised synergies do not materialize.
